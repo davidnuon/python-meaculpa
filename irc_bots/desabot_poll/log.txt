@@ -1,0 +1,138 @@
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Found your hostname
+NOTICE AUTH :*** No identd (auth) response
+:heinlein.freenode.net 001 desabot :Welcome to the freenode IRC Network desabot
+:heinlein.freenode.net 002 desabot :Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+NOTICE desabot :*** Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+:heinlein.freenode.net 003 desabot :This server was created Fri May  4 21:54:04 UTC 2007
+:heinlein.freenode.net 004 desabot heinlein.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:heinlein.freenode.net 005 desabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:heinlein.freenode.net 005 desabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:heinlein.freenode.net 251 desabot :There are 20744 listed and 19271 unlisted users on 29 servers
+:heinlein.freenode.net 252 desabot 41 :flagged staff members
+:heinlein.freenode.net 254 desabot 18012 :channels formed
+:heinlein.freenode.net 255 desabot :I have 3452 clients and 0 servers
+:heinlein.freenode.net 265 desabot :Current local  users: 3452  Max: 4934
+:heinlein.freenode.net 266 desabot :Current global users: 40015  Max: 49260
+:heinlein.freenode.net 250 desabot :Highest connection count: 4935 (4934 clients) (1012109 since server was (re)started)
+:heinlein.freenode.net 375 desabot :- heinlein.freenode.net Message of the Day - 
+:heinlein.freenode.net 372 desabot :- Welcome to heinlein.freenode.net in Missoula, Montana, US.
+:heinlein.freenode.net 372 desabot :- Thanks to Michael Loftis and Modwest, Inc.
+:heinlein.freenode.net 372 desabot :- (http://modwest.com/) for providing this server!
+:heinlein.freenode.net 372 desabot :- 
+:heinlein.freenode.net 372 desabot :- HEINLEIN, ROBERT ANSON [1907-1988], author of "Starship
+:heinlein.freenode.net 372 desabot :- Troopers", "Stranger in a Strange Land", and many other
+:heinlein.freenode.net 372 desabot :- works, was one of the most popular, influential, and
+:heinlein.freenode.net 372 desabot :- controversial authors of "hard" science fiction, setting a
+:heinlein.freenode.net 372 desabot :- high standard for science and engineering plausibility that
+:heinlein.freenode.net 372 desabot :- few have equaled. His most prevalent theme is the practical
+:heinlein.freenode.net 372 desabot :- benefit of man's activities in space, and in fact a large
+:heinlein.freenode.net 372 desabot :- portion of his works were written long before Neil Armstrong
+:heinlein.freenode.net 372 desabot :- first set foot upon the Moon. Though he never ignored the
+:heinlein.freenode.net 372 desabot :- negative aspects of technological growth, he had a clear
+:heinlein.freenode.net 372 desabot :- vision of its importance to human progress and survival.
+:heinlein.freenode.net 372 desabot :- 
+:heinlein.freenode.net 372 desabot :- You're using freenode, a service of Peer-Directed Projects
+:heinlein.freenode.net 372 desabot :- Center (http://freenode.net/pdpc.shtml).
+:heinlein.freenode.net 372 desabot :- 
+:heinlein.freenode.net 372 desabot :- freenode runs an open proxy scanner. Your use of the network
+:heinlein.freenode.net 372 desabot :- indicates your acceptance of this policy. For details on
+:heinlein.freenode.net 372 desabot :- freenode network policy, please take a look at our policy
+:heinlein.freenode.net 372 desabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:heinlein.freenode.net 372 desabot :- the network!
+:heinlein.freenode.net 372 desabot :- 
+:heinlein.freenode.net 372 desabot :- freenode is a service of Peer-Directed Projects Center, an
+:heinlein.freenode.net 372 desabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:heinlein.freenode.net 372 desabot :- fundraiser will begin soon; if you'd like to donate early,
+:heinlein.freenode.net 372 desabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:heinlein.freenode.net 372 desabot :- information.  Thank you for using freenode!
+:heinlein.freenode.net 372 desabot :- 
+:heinlein.freenode.net 376 desabot :End of /MOTD command.
+:NickServ!NickServ@services. NOTICE desabot :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+:desabot!n=desabot@97-90-158-247.static.mtpk.ca.charter.com JOIN :#desaku
+:heinlein.freenode.net 353 desabot @ #desaku :desabot dn_desaku @xhhux 
+:heinlein.freenode.net 366 desabot #desaku :End of /NAMES list.
+:dn_desaku!n=dn_desak@97-90-158-247.static.mtpk.ca.charter.com PRIVMSG #desaku :=cmd echo eee
+:dn_desaku!n=dn_desak@97-90-158-247.static.mtpk.ca.charter.com PRIVMSG #desaku :=end
+ERROR :Closing Link: 97-90-158-247.static.mtpk.ca.charter.com (Client Quit)
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Found your hostname
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Found your hostname, welcome back
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Found your hostname, welcome back
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Found your hostname
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Found your hostname
+NOTICE AUTH :*** No identd (auth) response
+:wolfe.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:wolfe.freenode.net 002 neodesabot :Your host is wolfe.freenode.net[wolfe.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is wolfe.freenode.net[wolfe.freenode.net/6667], running version hyperion-1.0.2b
+:wolfe.freenode.net 003 neodesabot :This server was created Tue Apr 15 01:19:44 UTC 2008
+:wolfe.freenode.net 004 neodesabot wolfe.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:wolfe.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:wolfe.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:wolfe.freenode.net 251 neodesabot :There are 22743 listed and 19710 unlisted users on 29 servers
+:wolfe.freenode.net 252 neodesabot 40 :flagged staff members
+:wolfe.freenode.net 254 neodesabot 19942 :channels formed
+:wolfe.freenode.net 255 neodesabot :I have 2687 clients and 0 servers
+:wolfe.freenode.net 265 neodesabot :Current local  users: 2687  Max: 3418
+:wolfe.freenode.net 266 neodesabot :Current global users: 42453  Max: 49746
+:wolfe.freenode.net 250 neodesabot :Highest connection count: 3420 (3418 clients) (744651 since server was (re)started)
+:wolfe.freenode.net 375 neodesabot :- wolfe.freenode.net Message of the Day - 
+:wolfe.freenode.net 372 neodesabot :- Welcome to wolfe.freenode.net in Manchester, England, Uk!  Thanks to
+:wolfe.freenode.net 372 neodesabot :- Bytemark Computer Consulting Ltd.  (www.bytemark.co.uk) for sponsoring
+:wolfe.freenode.net 372 neodesabot :- this server!
+:wolfe.freenode.net 372 neodesabot :- 
+:wolfe.freenode.net 372 neodesabot :- WOLFE, GENE [1931-].  Prolific writer of short stories and
+:wolfe.freenode.net 372 neodesabot :- novels. His best-known work is the multi-volume novel The
+:wolfe.freenode.net 372 neodesabot :- Book of the New Sun. He has won multiple awards including
+:wolfe.freenode.net 372 neodesabot :- the Nebula Award, the World Fantasy Award, The Campell
+:wolfe.freenode.net 372 neodesabot :- Memorial Award and the Locus Award. He was awarded the World
+:wolfe.freenode.net 372 neodesabot :- Fantasy Award for lifetime achievement in 1996.
+:wolfe.freenode.net 372 neodesabot :- 
+:wolfe.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:wolfe.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:wolfe.freenode.net 372 neodesabot :- 
+:wolfe.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:wolfe.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:wolfe.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:wolfe.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:wolfe.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:wolfe.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:wolfe.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:wolfe.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:wolfe.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:wolfe.freenode.net 372 neodesabot :- 
+:wolfe.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:wolfe.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:wolfe.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:wolfe.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:wolfe.freenode.net 372 neodesabot :- 
+:wolfe.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:wolfe.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:wolfe.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:wolfe.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:wolfe.freenode.net 372 neodesabot :- the network!
+:wolfe.freenode.net 372 neodesabot :- 
+:wolfe.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:wolfe.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:wolfe.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:wolfe.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:wolfe.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:wolfe.freenode.net 376 neodesabot :End of /MOTD command.
+:neodesabot!n=neodesab@66-214-144-203.static.lsan.ca.charter.com JOIN :#desaku
+:wolfe.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku @xhhux 
+:wolfe.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:wolfe.freenode.net 477 neodesabot #desaku :[freenode-info] if you're at a conference and other people are having trouble connecting, please mention it to staff: http://freenode.net/faq.shtml#gettinghelp
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net

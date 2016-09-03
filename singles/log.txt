@@ -1,0 +1,3 @@
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname

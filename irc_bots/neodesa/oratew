@@ -1,0 +1,2801 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+            <title>Student Account: David Nuon</title>
+
+
+<style type="text/css" media="screen">
+.shutdown {font-family: Arial; color:#FFFFFF; font-size:18px; font-weight:bold; text-align:center; margin:0px;padding:0px;background-color:#ff0000 }
+
+body {
+background: #efefef url(/img/background.gif) repeat ;font: 13px Arial, sans-serif;
+    color: #444444;
+    margin-top: ; margin-right:; margin-bottom:; margin-left: ; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;}
+
+
+td {vertical-align:top;}
+p {margin-bottom: 5px; margin-top: 0px;}
+img {border: 0px; margin: 0px}
+br {font-size:5px; margin:0px 0px 0px 0px;}
+
+ul {margin-top: 0px; margin-bottom: 10px; list-style-type: square; }
+ol {margin-top: 0px; margin-bottom: 10px; font: normal 12px Arial, Helvetica, sans-serif; color: #666666;}
+blockquote {margin:0px 0px 0px 5px;}
+blockquote input{margin:2px 0px 2px 18px;}
+
+#skip a, #skip a:hover, #skip a:visited
+{
+
+position:absolute;
+left:0px;
+top:-500px;
+width:1px;
+height:1px;
+overflow:hidden;
+
+}
+
+#skip a:active, #skip a:focus
+{
+position:static;
+width:auto;
+height:auto;
+}
+
+.red {color:#CC0000;}
+
+a:link {color: #3366cc; text-decoration: none;}
+a:visited {color: #3366cc; text-decoration: none;}
+a:hover {color: #3366cc; text-decoration: underline;}
+
+.column_spacer {width: 75px;}
+
+/* --////// Headers, Labels and Buttons //////-- */
+
+h1 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 22px; color: #214a7d; padding: 0px 0px 0px 0px; margin: 0px 0px 10px 0px; border-bottom:#cccccc solid 1px;}
+h2 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #7e9831; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase;}
+h3 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; color: #333333; margin: 0px 0px 0px 0px; padding: 0px 0px 2px 0px; }
+
+h4 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; color: #7e9831; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; }
+
+h5 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; color: #666666; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+
+/* Overflow for Export Grades */
+@media all and (min-width: 0px){
+.os {
+position:relative;
+height:auto;
+}
+.os select {
+position:absolute;
+}
+}
+.clear_margin {clear: both; width: 100px; height: 1px; border: 0px; padding: 0px; margin: 0px; overflow: hidden;}
+
+.home_left {width:65%; padding: 0px 30px 10px 0px;}
+.home_right {width:35%; padding: 0px 0px 10px 0px;}
+
+
+.content_page {width: 720px; text-align: left; margin: 0px 15px 10px 15px;}
+.content_left {width: 520px; text-align: left; margin: 0px 0px 10px 15px;}
+.content_width {width: 460px;}
+
+.content_spacing {font-size:12px; margin-bottom: 20px; margin-top: 0px;}
+
+
+/* --////// Image Gallery //////-- */
+a.album_select {display: block; background: #ffffff url(/img/album_select_sm.gif) no-repeat; width:80px; height:68px; padding: 10px 0px 0px 7px; margin-right: 3px; margin-bottom: 3px;}
+a.album_select:hover {display: block; background: #ffffff url(/img/album_select_sm.gif) bottom left no-repeat; width:80px; height:68px; padding: 10px 0px 0px 7px; margin-right: 3px; margin-bottom: 3px;}
+
+a.album_select_lg {display: block; background: #ffffff url(/img/album_select_lg.gif) no-repeat; width:150px; height:122px; padding: 14px 0px 0px 10px; margin-right: 3px; margin-bottom: 3px;}
+a.album_select_lg:hover {display: block; background: #ffffff url(/img/album_select_lg.gif) bottom left no-repeat; width:150px; height:122px; padding: 14px 0px 0px 10px; margin-right: 3px; margin-bottom: 3px;}
+
+
+.image_select {border: 2px #ffffff solid; padding: 1px;}
+.image_select:hover {border: 2px #3366cc solid; padding: 1px; text-decoration: none;}
+
+.album_select_item {border: 1px #cccccc solid; width:95px; height:auto; padding: 4px 2px 3px 5px; margin-bottom: 10px;}
+
+.album_select_item_narrow {border: #999999 1px solid; background: #ffffff url(/img/album_select_sm.gif) no-repeat; width:80px; height:auto; padding: 10px 0px 6px 7px; margin-bottom: 10px; margin-right: 3px;}
+
+.album_select_item_lg {border: 1px #cccccc solid; width:150px; height:auto; padding: 4px 2px 3px 5px;}
+
+
+
+
+
+
+form {margin: 0px;}
+
+input.white {border:1px solid #cccccc; background-color:#ffffff; width:95%; font-family: Arial; color:#333333; font-size:12px; font-weight: normal;}
+input.grey {border:1px solid #cccccc; background-color:#efefef; width:95%; font-family: Arial; font-weight: normal; color:#333333; font-size:12px;}
+.email_form {border:1px solid #aeaeae; background-color:#faf8f5; width:80%; font-family: Arial; color:#333333; font-size:12px;}
+.email_form_error {border:#CC0000 solid 1px; background-color:#FFCCCC; width:80%; font-family: Arial; color:#666666; font-size:12px;}
+select {background-color: #faf8f5;; color:#666666; border: 1px solid #aeaeae;; font-size:11px; font-weight:bold; font-family:Arial;}
+textarea {background-color: #efefef;; color: #333333; border: 1px solid #cccccc;; margin-right: 0px; padding: 1px; width:80%; height:150px;font-family: Arial; color:#333333; font-size:13px;}
+.problem { background-color:#FFCCCC; color:#000000; padding:1px;}
+
+.login_label {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;	color: 333333;	background-position: center;}
+select {background-color: #faf8f5;; color:#666666; border: 1px solid #aeaeae;; font-size:11px; font-weight:bold; font-family:Arial;}
+textarea {background-color: #efefef;; color: #333333; border: 1px solid #cccccc;; margin-right: 0px; padding: 1px; width:80%; height:150px;font-family: Arial; color:#333333; font-size:13px;}
+input:focus, textarea:focus{background-color: lightyellow;}
+input.Text {border:1px solid #aeaeae; background-color:#faf8f5; width:90%; font-size:12px;}
+.input_none {border:1px solid #ffffff; background-color:#ffffff; width:90%; font-size:12px;}
+.form_label {font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#333333; font-weight:bold; text-align: right; vertical-align: middle;}
+input.search {border:1px solid #aaaaaa; background-color:#ffffff; width:100%; color:#333333; font-size:11px; margin: 0px}
+input.login {border:1px solid #aeaeae; background-color:#faf8f5; width:90%; font-size:11px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;}
+
+.form_horizontal_input {float: left; margin: 0px 0px 0px 3px; padding: 0px 0px 0px 0px;}
+.form_horizontal_text {float: left; margin: 0px 0px 0px 0px; padding: 3px 10px 0px 0px; font-size: 11px;}
+
+
+.highlight {background-color: #ffffbb;}
+
+/* --////// Verify Parents //////-- */
+.highlight2 {line-height:12px; background-color:#f0f0f0;}
+
+.small {font: Arial, Helvetica, sans-serif; font-size:10px; margin-bottom: 5px; margin-top: 0px;}
+.small2 {font: Arial, Helvetica, sans-serif; font-size:10px; margin-top: 0px;}
+.small_grey {font: Arial, Helvetica, sans-serif; color:#666666; font-size:10px; margin-top: 0px;}
+.small_red {font: Arial, Helvetica, sans-serif; color:#cc0000; font-size:10px; margin-bottom: 5px; margin-top: 0px;}
+.small_orange {font: Arial, Helvetica, sans-serif; color:#f38107; font-size:10px; margin-bottom: 5px; margin-top: 0px;}
+
+a.small {font-size:10px; font-weight:normal;}
+
+/* --////// Headers, Labels and Buttons //////-- */
+.course_header {font: bold 22px Arial, Helvetica, sans-serif; color: #214a7d; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;}
+.course_sub1 {font: bold 16px Arial, Helvetica, sans-serif; color: #7e9831; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; line-height: 16px; text-transform: uppercase;}
+.course_label {font: bold 12px Arial, Helvetica, sans-serif; color: #000000; padding: 0px 0px 0px 5px; margin: 0px 0px 0px 0px; text-transform: uppercase;}
+
+.sub1 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 14px;; color: #f38107; margin: 0px 0px 0px 0px; text-transform: uppercase;}
+.sub2 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; color: #666666; margin: 0px 0px 0px 0px; text-transform: uppercase;}
+.sub3 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; color: #7eb01a; margin: 0px 0px 0px 0px; text-transform: uppercase;}
+.sub4 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; color: #000000; margin: 0px 0px 0px 0px; padding:0px 0px 0px 10px; text-transform: uppercase;}
+.sub5 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; color: #f38107; margin: 0px 0px 0px 0px; padding:0px 0px 0px 0px;}
+.sub5 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; color: #f38107; margin: 0px 0px 0px 0px; padding:0px 0px 0px 0px;}
+
+.label1 {font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#333333; font-weight:bold;}
+.label2 {font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#666666; font-weight:bold;}
+.label3 {font-family: Arial, Helvetica, sans-serif; font-size:13px; color:#f38107; font-weight:bold;}
+
+.label_grey {font: bold 12px Arial, Helvetica, sans-serif; color: #666666; margin-bottom: 10px;}
+.label_black {font: bold 12px Arial, Helvetica, sans-serif; color: #000000; margin-bottom: 10px;}
+
+/* --////// Allerts, Steps and Messages //////-- */
+.message_header {font: bold 18px Arial, Helvetica, sans-serif; color: #333333; margin: 0px 0px 0px 0px;}
+.message_content {font: normal 13px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px;}
+
+
+.step_header {font: bold 18px Arial, Helvetica, sans-serif; color: #333333; margin: 0px 0px 0px 0px;}
+.step_content {font: normal 13px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px;}
+
+.sub_line {border-bottom:#d9d9d9 solid 1px;font-size:1px; line-height:1px; width: 100%; margin-bottom: 4px;}
+
+form {margin: 0px 0 0px 0;}
+.login_label {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: 333333; background-position: center;}
+input.Text {border:1px solid #aeaeae; background-color:#faf8f5; width: 95%; font-size:12px;}
+
+
+a.button1 {font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 2px 0px 2px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+a.button1:visited {font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 2px 0px 2px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+a.button1:hover {font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 2px 0px 2px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+a.button1b {font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 2px 0px 2px; margin: 1px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.button1b:visited {font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 2px 0px 2px; margin: 1px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.button1b:hover {font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 2px 0px 2px; margin: 1px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+
+a.button2 {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+a.button2:visited {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+a.button2:hover {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.button2_selected {font: bold 11px Arial, Helvetica, sans-serif; color:#999999; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+
+a.button2b {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.button2b:visited {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.button2b:hover {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#ffffbb; border: #3366cc solid 1px;}
+
+a.button2c {font: bold 13px Arial, Helvetica, sans-serif; color:#ffffff; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.button2c:visited {font: bold 13px Arial, Helvetica, sans-serif; color:#ffffff; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.button2c:hover {font: bold 13px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#ffffbb; border: #3366cc solid 1px;}
+
+a.button3 {font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 1px 3px 1px 3px; margin: 0px 0px 0px 0px;}
+a.button3:visited {font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 1px 3px 1px 3px; margin: 0px 0px 0px 0px;}
+a.button3:hover {font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 1px 3px 1px 3px; margin: 0px 0px 0px 0px; background:#3366cc;}
+
+a.btn_cms_page {font: bold 12px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.btn_cms_page:visited {font: bold 12px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.btn_cms_page:hover {font: bold 12px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+
+a.btn_css {font: bold 12px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.btn_css:visited {font: bold 12px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.btn_css:hover {font: bold 12px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+
+a.button_sm {font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+a.button_sm:visited {font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+a.button_sm:hover {font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+a.button_lg {font: bold 15px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 20px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+a.button_lg:visited {font: bold 15px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 20px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+a.button_lg:hover {font: bold 15px Arial, Helvetica, sans-serif; color:#ffffff; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 20px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+a.button_lg_block {display: block; width: auto; font: bold 18px Arial, Helvetica, sans-serif; color:#3366cc;  text-decoration:none; padding: 5px 10px 5px 10px; margin: 3px 0px 5px 0px; background:#ffffff; border: #3366cc solid 1px;}
+a.button_lg_block:visited {display: block; width: auto; font: bold 18px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 5px 10px 5px 10px;  margin: 3px 0px 5px 0px; background:#ffffff; border: #3366cc solid 1px;}
+a.button_lg_block:hover {display: block; width: auto; font: bold 18px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 5px 10px 5px 10px;  margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+
+
+.cms_input {font: bold 12px Arial, Helvetica, sans-serif; color:#ffffff; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border-top: #3366cc solid 1px; border-right: none; border-bottom: none; border-left: none;}
+.cms_input_sm {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border-top: #3366cc solid 1px; border-right: none; border-bottom: none; border-left: none;}
+
+
+a.button_icon {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 20px; text-decoration:none; padding: 1px 2px 3px 2px; margin: 3px 0px 5px 0px; background:#ffffff; border: #cccccc solid 1px;}
+a.button_icon:hover {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff; line-height: 20px; text-decoration:none; padding: 1px 2px 3px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+a.link_big {font: bold 16px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 2px 0px 2px; margin: 0px 0px 0px 0px; background:#ffffff; border: #ffffff solid 1px;}
+a.link_big:hover {font: bold 16px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 2px 0px 2px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+a.alert_help {font: bold 12px Verdana, Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 2px 0px 0px 6px; background: url(/img/icon_alert_help.gif) top no-repeat; width: 13px; height: 15px; display: block; line-height: 12px}
+a.alert_help:hover {background: url(/img/icon_alert_help.gif) bottom no-repeat; color:#ffffff;text-decoration: none;}
+
+
+a.footer {color:#ffffff; text-decoration:none;}
+a.footer:hover {color:#3366cc; text-decoration: underline;}
+
+.img_link {padding: 1px; border: 2px #ffffff solid; text-decoration:none;}
+.img_link:hover {padding: 1px; border: 2px #3366cc solid; text-decoration: none;}
+
+.icon_return {background:url(/img/icon_return.gif) no-repeat; height: 18px;}
+.icon_return a { font: bold 11px Arial, Helvetica, sans-serif; color: #3366cc; text-decoration:none; padding: 0px 2px 0px 16px; }
+.icon_return a:hover {font: bold 11px Arial, Helvetica, sans-serif; color: #3366cc; text-decoration:underline; padding: 0px 2px 0px 16px;}
+
+.btn_pos_right {text-align:right; padding:5px 60px 15px 0px; clear:both;}
+
+
+.on {color:#6c951a; font-weight:bold; font-size: 13px;}
+.off {color:#cc0000; font-weight:bold; font-size: 13px;}
+
+
+.on_big {color:#6c951a; font-weight:bold; font-size: 15px;}
+.off_big {color:#cc0000; font-weight:bold; font-size: 15px;}
+
+.nav {padding:0px 0px 0px 0px; margin:0px 0px 5px 0px; height: auto;}
+.nav ul{margin:-1px 0px 0px 0px;padding:0px; list-style:none;}
+.nav li{display:inline; margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;}
+.nav a {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff;  line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+.nav a:visited {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff;  line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+.nav a:hover {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 5px 0px; background:#ffffbb; border: #3366cc solid 1px;}
+
+.registered {font-size:14; font-weight:bold; color: #333333; padding:2px 2px 2px 5px;}
+.unregistered {background: #f0f0f0 url(/img/icon_unregistered.gif) no-repeat; font-size:14; font-weight:bold; color: #999999; padding:2px 2px 2px 24px;}
+.unregistered2 {background: #f0f0f0; font-size:14; font-weight:bold;}
+
+.info_content {font: 15px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 10px 0px;}
+.info_content_line {font: 15px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px;}
+.info_content_width {font: 15px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 10px 0px; width:500px;}
+.info_content_caption {font: 13px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 5px 0px;}
+
+
+
+
+/* ------Table Elements -------*/
+.list_padding {padding: 0px 0px 0px 0px;}
+.list_padding td {padding: 2px 4px 2px 2px;}
+
+
+/* ------ if(modules) ----*/
+/* --////// Frames //////-- */
+.f_dashboard { margin:0px 0px 0px 0px; }
+.f_dashboard .top_left {background: #f1b207 url(http://cdn.schoolloop.com/0810131841/img/title_bg_main_center.gif) top repeat; margin:0px 0px -2px 0px;height:auto; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; padding:5px 0px 3px 10px; color:#000000; text-transform: uppercase; border-bottom:#7e9831 solid 3px;}
+.f_dashboard .top_right {background: #f1b207 url(http://cdn.schoolloop.com/0810131841/img/title_bg_main_center.gif)  top repeat; margin:0px 0px -2px 0px;height:auto; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 12px; padding:5px 10px 3px 0px; color:#333333; border-bottom:#7e9831 solid 3px; text-align: right; vertical-align: middle;}
+.f_dashboard .middle_center {padding:0px 0px 5px 0px; background-color:#ffffff;  margin:0px 0px 0px 0px; border-right: 2px #f3c240 solid; border-bottom: 2px #f3c240 solid; border-left: 2px #f3c240 solid;}
+
+.f_dashboard .top_left2 {vertical-align: middle; background: #efefef; border-bottom: 1px #cccccc solid; border-left: 2px #f3c240 solid; padding: 2px 0px 2px 10px;}
+.f_dashboard .top_right2 {vertical-align: middle; text-align: right; background: #efefef; border-bottom: 1px #cccccc solid; border-right: 2px #f3c240 solid; padding: 2px 8px 2px 10px;}
+
+.f_dashboard .title {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 14px; color: #000000; margin: 0px 0px 0px 0px; padding-left: 10px;}
+.f_dashboard .left {padding-left: 10px; font-size: 11px;}
+.f_dashboard .right {padding-right: 10px; font-size: 11px;}
+
+
+.f_dashboard .nav {padding:1px 5px 1px 5px; margin:0px 0px 10px 0px; background: #efefef; border-right: 1px #cccccc solid; border-bottom: 1px #cccccc solid; border-left: 1px #cccccc solid; height: auto;}
+.f_dashboard .nav ul{margin:-1px 0px 0px 0px;padding:0px; list-style:none;}
+.f_dashboard .nav li{display:inline; margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;}
+.f_dashboard .nav a {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff;  line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+.f_dashboard .nav a:hover {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 5px 0px; background:#ffffbb; border: #3366cc solid 1px;}
+
+/* ######### Style for Drop Down Menu ######### */
+
+
+.f_dashboard .nav_drop {
+position:absolute;
+top: 0px;
+margin: -1px 0px 0px 0px;
+padding: 0px 0px 3px 0px;
+font: normal 11px Arial;
+z-index:100;
+background: #ffffff;
+border-right: 1px #cccccc solid;
+border-bottom: 1px #cccccc solid;
+border-left: 1px #cccccc solid;
+width: 144px;
+visibility: hidden;
+}
+
+
+
+.f_dashboard .nav_drop a{
+display: block;
+margin-right: 2px;
+padding: 3px 10px 3px 10px;
+text-decoration: none;
+color: #3366cc;
+z-index:100;
+
+}
+
+* html .f_dashboard .nav_drop a{ /*IE only hack*/
+width: 100%;
+}
+
+.f_dashboard .nav_drop a:hover{ /*THEME CHANGE HERE*/
+padding: 3px 10px 3px 10px;
+background: #ffffbb;
+color: #3366cc;
+text-decoration: none;
+z-index:100;
+
+
+
+
+}
+
+.f_secondary { margin:0px 0px 0px 0px; }
+.f_secondary .top_left { background: url(/img/f_cal_week_top.gif) top repeat-x; height:auto;font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; padding:6px 0px 3px 10px; line-height:15px; color:#333333; text-transform: uppercase; border-bottom:#999999 solid 3px;}
+.f_secondary .top_right { background: url(/img/f_cal_week_top.gif) top repeat-x; margin:0px 0px -2px 0px;line-height:1px; height:auto; width:10px;font-size:1px;  padding:0px; border-bottom:#999999 solid 3px;}
+.f_secondary .middle_center { padding:0px 0px 0px 0px; background-color:#ffffff;  margin:0px 0px 0px 0px; border-right: 2px #cccccc solid; border-bottom: 2px #cccccc solid; border-left: 2px #cccccc solid;}
+.f_secondary .pad_sides {padding: 0px 10px 0px 10px;}
+
+.f_secondary .title {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 14px; color: #000000; margin: 0px 0px 0px 0px; padding-left: 10px;}
+.f_secondary .left {padding-left: 10px; font-size: 11px;}
+.f_secondary .right {padding-right: 10px; font-size: 11px;}
+
+
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+
+.f_secondary .nav_drop {
+position:absolute;
+top: 0px;
+margin: -1px 0px 0px 0px;
+padding: 0px 0px 3px 0px;
+font: normal 11px Arial;
+z-index:100;
+background: #ffffff;
+border-right: 1px #cccccc solid;
+border-bottom: 1px #cccccc solid;
+border-left: 1px #cccccc solid;
+width: 144px;
+visibility: hidden;
+}
+
+
+
+.f_secondary .nav_drop a{
+display: block;
+margin-right: 2px;
+padding: 3px 10px 3px 10px;
+text-decoration: none;
+color: #3366cc;
+z-index:100;
+
+}
+
+* html .f_secondary .nav_drop a{ /*IE only hack*/
+width: 100%;
+}
+
+.f_secondary .nav_drop a:hover{ /*THEME CHANGE HERE*/
+padding: 3px 10px 3px 10px;
+background: #ffffbb;
+color: #3366cc;
+text-decoration: none;
+z-index:100;
+}
+
+.secondary { margin:0px 0px 0px 0px; }
+.secondary .top_left {background: #efefef; margin:0px 0px -2px 0px;line-height:1px; height:auto; width:10px;font-size:1px;  padding:0px; border-bottom:#cccccc solid 3px;}
+.secondary .top_center { background: #efefef; margin:0px 0px -2px 0px;height:auto; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; padding:5px 0px 3px 0px; line-height:15px; color:#333333; text-transform: uppercase; border-bottom:#cccccc solid 3px;}
+/* --For Two Column Header -- */
+.secondary .top_center_right { background: #efefef; margin:0px 0px -2px 0px;height:auto; padding:5px 0px 3px 0px; line-height:15px; color:#666666; border-bottom:#cccccc solid 3px; text-align: right;}
+
+.secondary .top_right {background: #efefef; margin:0px 0px -2px 0px;line-height:1px; height:auto; width:10px;font-size:1px;  padding:0px; border-bottom:#cccccc solid 3px;}
+
+.secondary .middle_left {background: url(/img/f_secondary_middle_left.gif) repeat-y;  margin:0px; padding:0; line-height:1px;width:10px;font-size:1px;}
+.secondary .middle_center { padding:5px 0px 0px 0px; background-color:#ffffff;  margin:0;vertical-align:middle; }
+.secondary .middle_right { background: url(/img/f_secondary_middle_right.gif)  repeat-y; padding:0px;margin:0px;line-height:1px; width:10px;font-size:1px; }
+.secondary .bottom_left { background: url(/img/f_secondary_bottom_left.gif) no-repeat; margin:0px;line-height:1px; height:10px; width:10px;font-size:1px;  padding:0px;}
+.secondary .bottom_center { background: url(/img/f_secondary_bottom_center.gif) repeat-x; margin:0px;line-height:1px; height:10px; font-size:1px; }
+.secondary .bottom_right { background: url(/img/f_secondary_bottom_right.gif) no-repeat; margin:0px;line-height:1px; height:10px; width:10px;font-size:1px;  padding:0px;}
+
+
+.module { margin:0px 0px 0px 0px; }
+.module .top_left { background: url(http://cdn.schoolloop.com/0810131841/img/f_module_top.gif) top center no-repeat; margin:0px 0px -2px 0px; height:auto; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; padding:5px 0px 3px 10px; line-height:15px; color:#000000; text-transform: uppercase; border-bottom:#bbbbbb solid 1px;}
+.module .top_right { background: url(http://cdn.schoolloop.com/0810131841/img/f_module_top.gif)  top center no-repeat; margin:0px 0px -2px 0px;line-height:1px; height:auto; font-family: Arial, Helvetica, sans-serif; padding:0px 10px 0px 0px; border-bottom:#bbbbbb solid 1px;}
+.module .middle_center { background: url(/img/f_module_background.gif) #fafafa repeat-x; padding:0px 0px 5px 0px; border-left: 1px #dddddd solid; border-right: 1px #dddddd solid; border-bottom: 1px #dddddd solid;}
+
+.module .pad_sides {padding: 0px 10px 0px 10px;}
+.module .title {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 14px; color: #000000; margin: 0px 0px 0px 0px; padding-left: 10px;}
+.module .left {padding-left: 10px; font-size: 11px;}
+.module .right {padding-right: 10px; font-size: 11px;}
+
+.module a.module_link {display: block; width: auto; height: auto; padding: 1px 10px 1px 10px; font-weight:bold; font-size:12px;}
+.module a.module_link:hover {display: block; width:auto; height: auto; padding: 1px 10px 1px 10px; background: #ffffbb; font-weight:bold; font-size:12px; text-decoration:none;}
+
+
+.module .nav {padding:0px 0px 0px 5px; margin:0px 0px 5px 0px; background: #aaaaaa; border-right: 1px #aaaaaa solid; border-bottom: 1px #999999 solid; border-left: 1px #aaaaaa solid; width: auto; height: auto;}
+.module .nav ul{margin:0px 0px 0px 0px;padding:0px; list-style:none;}
+.module .nav li{display:inline; margin:0px 0px 0px 0px; padding:1px 0px 1px 0px;}
+.module .nav a{font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 5px 0px 5px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+.module .nav a:hover{font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 5px 0px 5px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+
+
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+.nav_drop_module {
+position:absolute;
+top: 0px;
+margin: -1px 0px 0px 0px;
+padding: 0px 0px 3px 0px;
+font: normal 11px Arial;
+z-index:100;
+background: #ffffff;
+border-right: 1px #cccccc solid;
+border-bottom: 1px #cccccc solid;
+border-left: 1px #cccccc solid;
+width: 144px;
+visibility: hidden;
+}
+
+
+
+.nav_drop_module a{
+display: block;
+font-weight: normal;
+margin-right: 2px;
+padding: 3px 5px 3px 5px;
+text-decoration: none;
+color: #3366cc;
+z-index:100;
+background: #ffffff;
+border: none;
+
+}
+
+* html .nav_drop_module a{ /*IE only hack*/
+width: 100%;
+}
+
+.nav_drop_module a:hover{ /*THEME CHANGE HERE*/
+font-weight: normal;  
+padding: 3px 5px 3px 5px;
+background: #ffffbb;
+color: #3366cc;
+text-decoration: none;
+z-index:100;
+border: none;
+}
+
+/* Groups Module */
+.module_group { margin:0px 0px 0px 0px; }
+.module_group .top {margin:0px 0px -2px 0px;height:auto; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size:13px; padding:0px 0px 1px 0px; line-height:15px; color:#214a7d; text-transform: uppercase; border-bottom:#f3c240 solid 2px;}
+.module_group .middle {padding:0px 0px 0px 0px; margin:0px; vertical-align:middle;}
+
+.module_group .nav {padding:0px 0px 0px 0px; margin:0px 0px 5px 0px; background: #efefef; border-right: 1px #cccccc solid; border-bottom: 1px #cccccc solid; border-left: 1px #cccccc solid; width: auto; height: auto;}
+.module_group .nav ul{margin:-1px 0px 0px 0px;padding:0px; list-style:none;}
+.module_group .nav li{display:inline; margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;}
+.module_group .nav a{font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 2px 0px 2px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+.module_group .nav a:hover{font: bold 10px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 2px 0px 2px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+
+.module_group a.module_link {display: block; width: auto; height: auto; padding: 1px 2px 1px 2px; font-weight:bold; font-size:12px;}
+.module_group a.module_link:hover {display: block; width:auto; height: auto; padding: 1px 2px 1px 2px; background: #ffffbb; font-weight:bold; font-size:12px; text-decoration:none;}
+
+
+
+
+.module_short { margin:0px 0px 0px 0px; }
+.module_short .left { background: url(/img/f_short_left.gif) no-repeat; margin:0px 0px 0px 0px;line-height:1px; height:24px; width:10px;font-size:1px;  padding:0px;}
+.module_short .center { background: url(/img/f_short_center.gif) repeat-x; margin:0px 0px 0px 0px;height:24px; padding:2px 0px 3px 0px; line-height:15px;}
+.module_short .right { background: url(/img/f_short_right.gif)  no-repeat; margin:0px 0px 0px 0px;line-height:1px; height:24px; width:10px;font-size:1px;}
+
+
+/* ------ END if(modules) ----*/
+
+.alert { margin:0px 0px 0px 0px; }
+.alert .top_left { background: url(/img/f_alert_top_left.gif) no-repeat; margin:0px 0px -2px 0px;line-height:1px; height:auto; width:10px;font-size:1px;  padding:0px; border-bottom:#333333 solid 1px;}
+.alert .top_center { background: url(/img/f_alert_top_center.gif) repeat-x; margin:0px 0px -2px 0px;height:auto; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 13px; padding:5px 0px 3px 0px; line-height:15px; color:#ffffff; text-transform: uppercase; border-bottom:#333333 solid 1px;}
+.alert .top_right { background: url(/img/f_alert_top_right.gif)  no-repeat; margin:0px 0px -2px 0px;line-height:1px; height:auto; width:10px;font-size:1px;  padding:0px; border-bottom:#333333 solid 1px;}
+
+.alert .middle_left {background: url(/img/f_alert_middle_left.gif) repeat-y;  margin:0px; padding:0; line-height:1px;width:10px;font-size:1px;}
+.alert .middle_center { background: #ffffff; padding:5px 0px 0px 0px;  margin:0;vertical-align:middle; }
+.alert .middle_right { background: url(/img/f_alert_middle_right.gif)  repeat-y; padding:0px;margin:0px;line-height:1px; width:10px;font-size:1px; }
+.alert .bottom_left { background: url(/img/f_alert_bottom_left.gif) no-repeat; margin:0px;line-height:1px; height:10px; width:10px;font-size:1px;  padding:0px;}
+.alert .bottom_center { background: url(/img/f_alert_bottom_center.gif) repeat-x; margin:0px;line-height:1px; height:10px; font-size:1px; }
+.alert .bottom_right { background: url(/img/f_alert_bottom_right.gif) no-repeat; margin:0px;line-height:1px; height:10px; width:10px;font-size:1px;  padding:0px;}
+
+
+/*-- //// List - Home Pages, Gade Book, CMC etc //////--*/
+.list_table {width:100%; margin: 0px 0px 5px 0px;}
+.list_header {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; color: #000000; margin: 0px 0px 0px 0px;}
+.list_title {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 14px; color: #000000; margin: 0px 0px 0px 0px;}
+.list_title2 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 12px; color: #333333; margin: 0px 0px 0px 0px;}
+
+.list_text {font: 11px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px;}
+.list_text_red {font: 11px Arial, Helvetica, sans-serif; color: #cc0000; margin: 0px 0px 0px 0px;}
+.list_text_spaced {font: 11px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px; line-height: 18px;}
+.list_text_light {font: 11px Arial, Helvetica, sans-serif; color: #999999; margin: 0px 0px 0px 0px;}
+.list_text_black {font: 11px Arial, Helvetica, sans-serif; color: #000000; margin: 0px 0px 0px 0px;}
+.list_text_bold {font: bold 11px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px;}
+.list_text_bold_right {font: bold 11px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 3px 0px; text-align: right;}
+
+.list_label {font: bold 13px Arial, Helvetica, sans-serif; color: #333333; margin: 0px 0px 0px 0px;}
+.list_label_grey {font: bold 13px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px;}
+.list_label_black {font: bold 13px Arial, Helvetica, sans-serif; color: #333333; margin: 0px 0px 0px 0px;}
+
+.list_line {border-bottom:#d9d9d9 solid 1px;font-size:1px; line-height:1px; width: 100%; margin: 1px 0px 2px 0px;}
+.list_line2 {border-bottom:#d9d9d9 solid 1px;font-size:1px; line-height:1px; width: 100%; margin: 1px 0px 5px 0px;}
+.list_description {font: 12px Arial, Helvetica, sans-serif; color: #666666; margin: 3px 0px 5px 0px;}
+.list_assi_title {font: bold 12px Arial, Helvetica, sans-serif; color: #333333; margin: 0px 0px 0px 0px;}
+
+
+
+.cal_table {width: 100%; margin: 0px 0px 7px 1px; border-collapse: collapse;}
+.cal_td {margin: 0px 0px 0px 0px; border-width: 1px 1px 1px 1px; border-spacing: 0px;	border-style: solid; border-color: #D9D9D9; vertical-align: top;}
+.cal_td_weekday {background:#f0f0f0; margin: 0px 0px 0px 0px; padding: 2px 0px 2px 0px; border-width: 1px 1px 1px 1px; border-spacing: 0px;	border-style: solid; border-color: #D9D9D9;	}
+
+.cal_month {font-family: Arial, Helvetica, sans-serif; font-size:15px; color:#000000; font-weight:bold; text-align: center; text-transform: uppercase; vertical-align: bottom}
+.cal_weekday {font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#666666; font-weight:bold;}
+.cal_nav {font-family: Arial, Helvetica, sans-serif, sans-serif; font-size:11px; color:#000000; font-weight:bold; vertical-align: middle}
+
+
+.cal_day {font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#999999; font-weight:bold;}
+.cal_text {font-family: Arial, Helvetica, sans-serif; font-size:11px; margin-bottom:5px; color:#666666; font-weight:normal;}
+.cal_text_test {display:block; background-color:#ffffbb; font-family: Arial, Helvetica, sans-serif; font-size:11px; margin-bottom:5px; color:#333333; font-weight:normal;}
+.cal_text_test2 {background-color:#ffffbb; font-family: Arial, Helvetica, sans-serif; font-size:11px; margin-bottom:5px; color:#333333; font-weight:normal;}
+.cal_text_course {font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#666666; font-weight:bold;}
+.cal_text_period {font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#999999; font-weight:bold;}
+.cal_line {border-bottom:#d9d9d9 solid 1px;font-size:1px; line-height:1px; width: 100%; margin: 3px 0px 3px 0px;}
+
+.personal {width: auto; font-size: 11px; border-left: #cccccc 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 2px;}
+.assigned {width: auto; font-size: 11px; border-left: #ffcccc 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 2px;}
+.due {width: auto; font-size: 11px; border-left: #cc0000 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 2px;}
+.school {width: auto; font-size: 11px; border-left: #ef983b 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 2px;}
+.group {width: auto; font-size: 11px; border-left: #91b03a 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 2px;}
+
+.personal_page {width: 100px; font-size: 11px; border-left: #cccccc 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+.assigned_page {width: 100px; font-size: 11px; border-left: #ffcccc 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+
+.due_page {width: 100px; font-size: 11px; border-left: #cc0000 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+.school_page {width: 100px; font-size: 11px; border-left: #ef983b 3px solid; border-bottom: #efefef 1px solid; padding: 5px 2px 2px 7px;}
+.group_page {width: 100px; font-size: 11px; border-left: #91b03a 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+
+.personal_tourse {width: auto; font-size: 11px; border-left: #cccccc 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+.assigned_tourse {width: auto; font-size: 11px; border-left: #ffcccc 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+.due_tourse {width: auto; font-size: 11px; border-left: #cc0000 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+.school_tourse {width: auto; font-size: 11px; border-left: #ef983b 3px solid; border-bottom: #efefef 1px solid; padding: 5px 2px 2px 7px;}
+.group_tourse {width: auto; font-size: 11px; border-left: #91b03a 3px solid; border-bottom: #efefef 1px solid; padding: 2px 5px 2px 7px;}
+
+.personal_right {font-size: 11px; border-bottom: #efefef 1px solid; padding: 2px 2px 2px 2px;}
+.assigned_right {font-size: 11px; width: auto; border-bottom: #efefef 1px solid; padding: 2px 2px 2px 2px;}
+.due_right {font-size: 11px; width: auto; border-bottom: #efefef 1px solid; padding: 2px 2px 2px 2px;}
+.school_right { font-size: 11px; border-bottom: #efefef 1px solid; padding: 2px 2px 2px 2px;}
+.group_right {font-size: 11px; border-bottom: #efefef 1px solid; padding: 2px 2px 2px 2px;}
+
+.nav_cal {margin: 0px auto; padding: 0px 0px 0px 0px; vertical-align:middle;
+voice-family: "\"}\"";
+voice-family: inherit;
+}
+
+.nav_cal ul{list-style:none; margin:-1px 0px 0px 0px; padding: 0px;}
+
+.nav_cal li{
+display:block;
+float:left; font: bold 11px Arial, Helvetica, sans-serif;
+background: #ffffbb url(/img/cms/nav_blue_grey_arrow.gif) right no-repeat;
+text-decoration:none;
+vertical-align:middle;
+margin: 0px 0px 0px 0px;
+border-top: 1px #cccccc solid;
+border-left: 1px #cccccc solid;
+border-right: 1px #cccccc solid;
+}
+
+
+.nav_cal a{
+float:left;
+width: 120px;
+display: block;
+margin:0px 0px 0px 0px;
+padding: 3px 25px 3px 10px;
+text-decoration:none;
+
+}
+
+.nav_cal a:hover{
+float:left;
+display: block;
+width: 120px;
+margin:0px 0px 0px 0px;
+padding: 3px 25px 3px 10px;
+text-decoration:none;
+}
+
+
+
+
+
+
+/* ######### Filter Drop Down Menu ######### */
+
+.cal_dropmenudiv_x{
+position:absolute;
+top: 0px;
+width: 160px;
+margin: -1px 0px 0px -1px;
+padding: 0px 0px 0px 0px;
+font:normal 1px Arial;
+z-index:100;
+background: #ffffff;
+border: 1px #cccccc solid;
+visibility: hidden;
+}
+
+.cal_dropmenudiv_x a{
+float: right;        
+width: 1px;
+height: 1px;
+line-height: 1px;
+font-size: 1px;
+
+}
+
+* html .cal_dropmenudiv_x a{ /*IE only hack*/
+width: 1px;
+height: 1px;
+line-height: 1px;
+font-size: 1px;
+}
+
+.cal_dropmenudiv_x a:hover{ /*THEME CHANGE HERE*/
+width: 1px;
+height: 1px;
+line-height: 1px;
+font-size: 1px;
+text-decoration: none;
+
+}
+
+
+/* ######### Publish Drop Menu ######### */
+
+.cal_dropmenudiv_b{
+position:absolute;
+top: 0px;
+width: 160px;
+margin: -1px 0px 0px -1px;
+padding: 0px 0px 0px 0px;
+font:normal 11px Arial;
+z-index:100;
+background: #ffffff;
+border: 1px #cccccc solid;
+visibility: hidden;
+}
+
+.cal_dropmenudiv_b a{
+display: block;
+margin: 0px 0px 0px 0px;
+padding: 3px 5px 3px 5 px;
+text-decoration: none;
+z-index:100;
+text-align: left;
+}
+
+* html .cal_dropmenudiv_b a{ /*IE only hack*/
+width: 122px;
+}
+
+.cal_dropmenudiv_b a:hover{ /*THEME CHANGE HERE*/
+background: #ffffbb;
+width: 122px;
+margin: 0px 0px 0px 0px;
+padding: 3px 5px 3px 5 px;
+text-decoration: none;
+z-index:100;
+}
+
+.f_cal_week { margin:0px 0px 10px 0px; }
+.f_cal_week .top_left { background: url(/img/f_cal_week_top.gif) top center no-repeat; height:auto;font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; padding:6px 0px 3px 10px; line-height:15px; color:#333333; text-transform: uppercase; border-bottom:#999999 solid 3px;}
+.f_cal_week .top_right { background: url(/img/f_cal_week_top.gif)  top center no-repeat; margin:0px 0px -2px 0px;line-height:1px; height:auto; width:10px;font-size:1px;  padding:0px; border-bottom:#999999 solid 3px;}
+.f_cal_week .middle_center { padding:0px 0px 0px 0px; background-color:#ffffff;  margin:0px 0px 0px 0px; border-right: 2px #cccccc solid; border-bottom: 2px #cccccc solid; border-left: 2px #cccccc solid;}
+
+
+.plan_table_top {width:420px; margin: 0px 0px 0px 0px; border-width: 1px 1px 1px 1px; border-spacing: 0px; border-style: solid; border-color: #D9D9D9;	border-collapse: collapse;}
+.plan_table {width:420px; margin: 0px 0px 0px 0px; border-collapse: collapse;}
+.plan_td_day {margin: 0px 0px 0px 0px; padding: 2px 3px 2px 8px; border-width: 1px 1px 0px 0px; border-spacing: 0px; border-style: solid; border-color: #D9D9D9; text-align: right;}
+.plan_td_day2 {margin: 0px 0px 0px 0px; padding: 2px 3px 2px 8px; border-width: 0px 1px 0px 0px; border-spacing: 0px; border-style: solid; border-color: #D9D9D9; text-align: right;}
+.plan_td_day_due {margin: 0px 0px 0px 0px; padding: 2px 3px 2px 8px; border-width: 1px 1px 0px 0px; border-spacing: 0px; border-style: solid; border-color: #D9D9D9; text-align: right; background-color:#ffffbb;}
+.plan_td_assign {margin: 0px 0px 0px 0px; padding: 2px 0px 2px 0px; border-width: 1px 0px 0px 0px; border-spacing: 0px;	border-style: solid; border-color: #D9D9D9;	}
+.plan_td_assign2 {margin: 0px 0px 0px 0px; padding: 2px 0px 2px 0px;}
+.plan_td_assign_due {margin: 0px 0px 0px 0px; padding: 2px 0px 2px 0px; border-width: 1px 0px 0px 0px; border-spacing: 0px;	border-style: solid; border-color: #D9D9D9;	background-color:#ffffbb;}
+.plan_table_assign {margin: 0px 0px 5px 0px;}
+
+.plan_label_day {font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#333333; font-weight:bold;}
+.plan_label {font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#333333; font-weight:bold;}
+.plan_label2 {font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#666666; font-weight:bold;}
+.plan_text {font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#666666; font-weight:normal;}
+.text_margin {margin: 0px 0px 5px 0px;}
+/* --////// Calendar Link - Week Planner //////-- */
+.cal_link { text-align:right; font-weight:bold;font-size:12px;}
+
+
+
+
+
+.grey_alert {width: 100%; margin:0px 0px 20px 0px;}
+
+.grey_alert .left { background: url(/img/step_left0.gif) #cccccc repeat-y; text-align:center ; margin:0px; font-weight:bold; font-size:48px; line-height:48px; color:#333333; width:60px; border-top: 2px #aaaaaa solid; border-left: 2px #aaaaaa solid; border-bottom: 2px #aaaaaa solid;}
+.grey_alert .right { background: #ffffff; margin: 0px; padding: 10px 10px 10px 20px; border-top: 2px #aaaaaa solid; border-left: 1px #aaaaaa solid; border-right: 2px #aaaaaa solid; border-bottom: 2px #aaaaaa solid;}
+.grey_alert .list a {font-size:14; font-weight:bold; display:block;}
+
+.grey_alert textarea {border:1px #CCCCCC solid; margin-bottom:10px; background-color:#efefef; width:80%; height:150px;font-family: Arial; color:#333333; font-size:13px;}
+.grey_alert b {font-size:16px;}
+.grey_alert li a {text-decoration:none;}
+.grey_alert li a:hover { color:#ffffff; background-color:#3366CC;}
+.grey_alert .email_form {border:1px solid #aeaeae; background-color:#faf8f5; width:80%; font-family: Arial; color:#333333; font-size:12px;}
+.grey_alert .email_form_error {border:#CC0000 solid 1px; background-color:#FFCCCC; width:80%; font-family: Arial; color:#333333; font-size:12px;}
+
+</style>
+<style type="text/css" media="screen">
+.tip { margin:0px 0px 20px 0px }
+.tip .left { background: url(/img/step_left0.gif) #cccccc repeat-y; text-align:center ; margin:0px; font-weight:bold; font-size:48px; line-height:48px; color:#333333; width:60px; border-top: 2px #aaaaaa solid; border-left: 2px #aaaaaa solid; border-bottom: 2px #aaaaaa solid;}
+.tip .right { background: #ffffff; margin: 0px; padding: 10px 10px 10px 20px; border-top: 2px #aaaaaa solid; border-left: 1px #aaaaaa solid; border-right: 2px #aaaaaa solid; border-bottom: 2px #aaaaaa solid;}
+
+
+</style>
+
+
+
+
+
+<style type="text/css" media="screen">
+/* ######### CMS Nav ######### */
+
+.container_cms_tools_top {width: auto; height: 30px; background: url(/img/cms_tools_main_bg.gif) repeat-x; margin: 0 auto; padding-top: 1px; margin-bottom: 0px;}
+.container_cms_tools_page {width: auto; background: #ffffff; margin: 10px 0px 0px 0px; padding: 0px; margin-bottom: 0px; vertical-align: bottom; border-top: 2px #000000 solid; border-bottom: 2px #000000 solid;}
+#cms_tools_top {width: auto; height: 25px; margin: 0px auto; clear: both; text-align: left;}
+
+a.btn_cms_page {font: bold 13px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.btn_cms_page:visited {font: bold 13px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+a.btn_cms_page:hover {font: bold 13px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+
+a.btn_cms_page_alert {font: bold 13px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background: #ffffbb; border: #cc0000 solid 1px;}
+a.btn_cms_page_alert:visited {font: bold 13px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background: #ffffbb; border: #cc0000 solid 1px;}
+a.btn_cms_page_alert:hover {font: bold 13px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 0px 0px 0px 0px; background:#ffffff; border: #3366cc solid 1px;}
+
+a.btn_block_insert {font: bold 12px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 3px 0px 0px 0px; background: #ffffbb; border: 2px #3366cc solid;}
+a.btn_block_insert:visited {font: bold 12px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 3px 0px 0px 0px; background: #ffffbb; border: 2px #3366cc solid;}
+a.btn_block_insert:hover {font: bold 12px Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 0px 4px 0px 4px; margin: 3px 0px 0px 0px; background: #ffffff; border: 2px #000000 solid;}
+
+a.btn_block_edit {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background: #ffffff; border: #4876d3 solid 1px;}
+a.btn_block_edit:visited {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background: #ffffff; border: #4876d3 solid 1px;}
+a.btn_block_edit:hover {font: bold 11px Arial, Helvetica, sans-serif; color: #ffffff; line-height: 18px; text-decoration:none; padding: 0px 2px 0px 2px; margin: 3px 0px 5px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+
+/* -- Quick Design -- */
+.design_select {float: left; background: #efefef; border: 1px #cccccc dashed; padding: 5px; text-align: center; margin: 0px 75px 40px 0px}
+.design_select p{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; padding: 0px 0px 0px 0px}
+
+.btn_select_lg a{display: block; background: #3366cc; width: auto; height: auto; font-size: 14px; color: #ffffff; font-weight: bold; margin: 0px 0px 5px 0px; padding: 5px 5px 5px 5px; text-align: center; border: 1px #cccccc solid;}
+.btn_select_lg a:hover{background: #ffffbb; color: #3366cc; border: 1px #3366cc solid; text-decoration: none;}
+
+.setup {margin: 0px;}
+.setup .number{float: left; height: 25px; background: #ffffbb; font-size: 22px; color: #000000; border-bottom: 3px #f1b209 solid; border-top: 1px #f1b209 solid; border-right: 1px #f1b209 solid; border-bottom: 3px #f1b209 solid; border-left: 1px #f1b209 solid; padding: 2px 2px 0px 5px;}
+.setup .label{float: left; height: 26px; width: 400px; font-size: 22px; font-weight: bold; color: #000000; border-bottom: 3px #f1b209 solid; padding: 2px 0px 0px 5px;}
+
+.setup .number_grey{float: left; height: 25px; background: #efefef; font-size: 22px; color: #999999; border-bottom: 3px #999999 solid; border-top: 1px #999999 solid; border-right: 1px #999999 solid; border-bottom: 3px #999999 solid; border-left: 1px #999999 solid; padding: 2px 2px 0px 5px;}
+.setup .label_grey{float: left; height: 26px; width: 400px; font-size: 22px; font-weight: bold; color: #999999; border-bottom: 3px #999999 solid; padding: 2px 0px 0px 5px;}
+
+
+.step_table {margin: 0px;}
+.step_table .numbers {background: #fee580; padding: 5px 5px 10px 5px; text-align: right; color: #333333; font-size: 22px; font-weight: bold;}
+.step_table .wide {padding: 5px 0px 10px 5px; }
+
+
+#stats {width: 560px;}
+#stats .total{font-size: 11px; float: right; text-align: right; padding-right: 10px; margin: 1px; padding-top: 3px;
+}
+
+
+.img_instruction {width: auto; font-weight: bold; background: #cccccc; padding: 20px 20px 0px 20px}
+.img_instruction p {color: #cc0000;}
+
+
+
+/* -- CMS Add Page Form Blocks --  */
+#template_select {margin: 0px;}
+#template_select .block {float: left; width: 190px; height: 220px; margin: 0px 15px 20px 0px; border: 1px #cccccc solid; text-align: center; }
+#template_select .block img{margin-bottom: 5px;}
+#template_select .block_highlight{width: auto; height: 20px; margin-bottom: 5px; background: #ffffbb; vertical-align: middle; text-align: center; border-bottom: 1px #cccccc solid;}
+
+
+
+.site_map {margin: 0px 0px 0px 0px;}
+.site_map h2{float: left; margin: 0px 15px 0px 0px; font-size: 15px; }
+.site_map .float_left{float: left; padding-top: 5px; margin-right: 15px; background: #ffffff}
+.site_map .move{float: left; width: 20px; height: auto; padding-left: 2px; font-size: 1px; line-height: 1px;}
+.site_map .home_row {background: #ffffbb; margin: 0px 0px 0px 0px; height: 18px; padding: 10px 0px 5px 20px; border-top: 2px #ff0000 solid; border-bottom: 2px #ff0000 solid; vertical-align: middle;}
+.site_map .home_row h2{color: #ff0000;}
+.site_map .tlm_row {background: #ffffbb; margin: 0px 0px 0px 0px; height: auto; padding: 3px 0px 1px 0px; border-top: 2px #cccccc solid;  vertical-align: middle;}
+.site_map .section_row {width: auto; height: 20px; background: #dfdfdf; vertical-align: middle;border-left: 1px #999999 dashed;}
+.site_map .section_row_section {width: auto; height: 20px; background: #dfdfdf; vertical-align: middle;}
+.site_map .page_row {width: auto; height: 20px; background: #ffffff; vertical-align: middle; margin: 0px 0px -2px 0px}
+.site_map .page_row_highlight {background: #ffffbb; margin: 0px 0px 0px 0px; height: 13px; padding: 3px 0px 3px 35px; vertical-align: middle;}
+
+a.btn_nav_site_map {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 0px 0px; background:#ffffbb; border: #3366cc solid 1px;}
+a.btn_nav_site_map:visited {font: bold 11px Arial, Helvetica, sans-serif; color:#3366cc; line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 0px 0px; background:#ffffbb; border: #3366cc solid 1px;}
+a.btn_nav_site_map:hover {font: bold 11px Arial, Helvetica, sans-serif; color:#ffffff;  line-height: 18px; text-decoration:none; padding: 2px 5px 2px 5px; margin: 0px 0px 0px 0px; background:#3366cc; border: #3366cc solid 1px;}
+
+
+/* CMS Sitemap Nav ------------------------------------------*/
+
+#menuwrapper {
+	border: 1px #cccccc solid;
+	background-color: #efefef;
+    margin-bottom: 0px;
+    padding-left: 5px;
+    height: 20px;
+}
+
+.clearit {
+	clear: both;
+	height: 0px;
+	font-size: 0px;
+}
+
+#nav_cms, #nav_cms ul {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#nav_cms a {
+	display: block;
+	text-decoration: none;
+	padding: 5px 10px 5px 10px;
+	font-size: 11px;
+
+}
+
+#nav_cms a.trigger {
+	font: bold 11px Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-decoration:none;
+    padding: 2px 10px 2px 10px;
+    margin: 0px 2px 0px 0px;
+    background:#3366cc;
+    border: #3366cc solid 1px;
+}
+
+#nav_cms li {
+	float: left;
+	width: 144px;
+}
+#nav_cms li {position: relative;}
+
+/* hide from IE mac \*/
+#nav_cms li {position: static; width: auto;}
+/* end hiding from IE5 mac */
+
+#nav_cms li ul, #nav_cms ul li  {
+	width: 144px;
+}
+#nav_cms ul li a  {
+	color: #3366cc;
+	border-right: 0;
+	padding: 3px 10px 3px 10px;
+}
+#nav_cms li ul {
+	position: absolute;
+	display: none;
+    margin-top: 0px;
+    padding-bottom: 4px;
+    background-color: #FFFFFF;
+	border-left: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+}
+
+#nav_cms li:hover a, #nav_cms a:focus,
+#nav_cms a:active, #nav_cms li.p7hvr a {
+	color: #3366cc;
+	background-color: #ffffbb;
+}
+
+#nav_cms li:hover ul, #nav_cms li.p7hvr ul {
+	display: block;
+}
+
+#nav_cms li:hover ul a, #nav_cms li.p7hvr ul a {
+	color: #3366cc;
+	background-color: transparent;
+}
+#nav_cms ul a:hover {
+	background-color: #ffffbb!important;
+	color: #3366cc !important;
+}
+
+
+
+/* ######### Drop CMS Nav ######### */
+
+.nav_cms_controls {width: auto; padding: 0px 0px 0px 0px; margin: 1px 0px 0px 0px; vertical-align:middle;
+voice-family: "\"}\"";
+voice-family: inherit;
+}
+
+.nav_cms_controls ul{
+float: right;
+font: bold 13px Arial, Helvetica, sans-serif;
+margin:0px;
+padding:0px;
+list-style:none;
+}
+
+.nav_cms_controls li{
+display:inline;
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+text-transform:uppercase;
+}
+
+.nav_cms_controls li.label{
+float:left;
+display: block;
+color: #000000;    
+margin:0px 2px 0px 0px;
+padding: 6px 7px 6px 7px;
+text-decoration:none;
+text-transform:none;
+}
+
+
+.nav_cms_controls a{
+float:left;
+display: block;
+background: #ffffff url(/img/cms_tools_btn_bg.gif) top left no-repeat;
+margin:0px 2px 0px 0px;
+padding: 6px 7px 6px 7px;
+text-decoration:none;
+}
+
+.nav_cms_controls a:hover{
+background: #ffffff url(/img/cms_tools_btn_bg.gif) bottom left no-repeat;
+text-decoration:none; }
+
+
+.nav_cms_controls .selected a, #nav_cms .selected a span{ /*currently selected tab*/
+background-color: #ffffff;
+}
+
+
+</style>
+
+<style type="text/css" media="screen">
+
+#page_title {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 26px; color: #214a7d; padding: 0px 10px 0px 0px; margin: 2px 0px 10px 0px; border-bottom: 1px #cccccc solid; clear: both}
+#page_title_nav {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 26px; color: #214a7d; padding: 0px 10px 0px 15px; margin: 2px 0px 10px 0px; border-bottom: 1px #cccccc solid; clear: both}
+#page_title_column {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 26px; color: #214a7d; padding: 0px 10px 0px 15px; margin: 2px 0px 10px 0px; border-bottom: 1px #cccccc solid; clear: both}
+
+
+.course_header {font: bold 22px Arial, Helvetica, sans-serif; color: #214a7d; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;}
+.course_sub1 {font: bold 16px Arial, Helvetica, sans-serif; color: #7e9831; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; line-height: 16px; text-transform: uppercase;}
+.course_label {font: bold 12px Arial, Helvetica, sans-serif; color: #000000; padding: 0px 0px 0px 5px; margin: 0px 0px 0px 0px; text-transform: uppercase;}
+
+/*-- //// Published Content //////--*/
+.publish_title {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px; color: #000000; margin: 0px 0px 0px 0px;}
+.publish_info {font: 11px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 0px 0px;}
+.publish_content {font: 13px Arial, Helvetica, sans-serif; color: #000000; margin: 3px 0px 3px 0px; line-height: 17px}
+.publish_line {border-bottom:#d9d9d9 solid 1px;font-size:1px; line-height:1px; width: 100%; margin: 3px 0px 3px 0px;}
+
+.news_attach_link {font: normal 11px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 3px 0px; line-height: 16px}
+.locker_attach_link {font: normal 11px Arial, Helvetica, sans-serif; color: #666666; margin: 0px 0px 5px 0px;}
+
+
+
+/* -- CALENAR --*/
+#calendar {width: auto;
+font-size: 11px;
+background: #cccccc ;
+vertical-align:middle;
+voice-family: "\"}\"";
+voice-family: inherit;
+margin: 0px 0px 0px 0px;
+padding: 2px 2px 2px 2px;
+}
+
+
+
+#calendar .header {
+           width: auto;
+       background: ;
+       margin: 0px;
+       padding: 0px 0px 0px 0px;
+
+    }
+
+#calendar .header .label a {
+color: #3366cc;
+font-size: 13px;
+font-weight: bold;
+padding: 0px 0px 0px 0px;
+text-decoration: none;
+}
+#calendar .header .label a:visited {color: #3366cc}
+#calendar .header .label a:hover {color: #3366cc}
+
+#calendar .header .next a {color: #3366cc;
+font-size: 13px;
+font-weight: bold;
+padding: 0px 0px 0px 0px;
+text-decoration: none;
+}
+#calendar .header .next a:visited {color: #3366cc}
+#calendar .header .next a:hover {color: #3366cc}
+
+
+#calendar .weekday {
+   font-size: 11px;
+   color: #333333;
+   font-weight: bold;
+   text-align: center;
+   width: 14%;
+   height: 18px;
+   background: #efefef;
+   margin: 0px;
+   padding: 3px 0px 0px 0px;
+    }
+#calendar .day {
+   font-size: 11px;
+   color: #333333;
+   background: #ffffff;
+   margin: 0px;
+   padding: 0px;
+    }
+
+
+
+
+/* --////// Page Structure //////-- */
+#container_page {width: 970px; text-align: left; margin: 0px auto;}
+.container_width {width: 950px; margin: 0px auto;}
+
+
+
+
+/* --// 2 Column School Loop Pages //--*/
+#container_page_left {float: left; width: 460px; text-align: left; margin: 0px 30px 10px 0px; padding: 0px 0px 0px 15px;}
+#container_page_right {float: left; width: 240px; text-align: left; margin: 0px 0px 10px 0px;}
+
+/* --// 3 Column Pages //--*/
+
+#container_content_left {float: left; width: 360px; text-align: left; margin: 0px 0px 10px 0px; padding: 0px 0px 0px 15px;}
+#container_content_right {float: left; width: 180px; text-align: left; margin: 0px 0px 10px 10px;}
+#container_content_left1 {width: 360px; text-align: left; margin: 0px 0px 10px 0px; padding: 0px 0px 0px 15px;}
+
+
+
+.home_left {width: 540px; padding: 0px 30px 10px 0px;}
+.home_right {width:340px; padding: 0px 0px 10px 0px;}
+
+.column_left {width:225px; padding: 0px 0px 10px 15px;}
+.column_spacer {width:30px; padding: 0px 0px 0px 0px;}
+
+.column_right {width:420px; padding: 0px 15px 10px 0px;}
+
+.column_text {width:435px; padding: 0px 0px 10px 15px;}
+
+
+
+
+/* ------Header-------*/
+#container_header_top {width: 970px; height: auto; background: url(http://cdn.schoolloop.com/0810131841/img/header_top.gif) no-repeat; margin-bottom: 0px; border-bottom: 3px #f3c240 solid;}
+.header_icons {width: 100%; text-align: center; padding: 0px 0px 0px 0px; margin:2px 0px 5px 0px; }
+
+#container_header_bottom {width: 970px; height: auto; background: url(http://cdn.schoolloop.com/0810131841/img/header_bottom.gif) bottom no-repeat; font: bold 11px Arial, Helvetica, sans-serif; padding: 3px 0px 5px 0px; margin-bottom: 5px;}
+
+/* --Header Icons--*/
+a.icon_mail {background: url(/img/icon_sl_mail.gif ) no-repeat; display: block; width: 75px; height: 14px; font: normal 10px Verdana, Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 7px 3px 0px 32px; margin: 5px 0px 5px 0px; text-align: left;}
+a.icon_mail:hover {background: url(/img/icon_sl_mail.gif ) bottom left no-repeat; color:#3366cc; text-decoration: none;}
+
+a.icon_mail_new {background: url(/img/icon_sl_mail_new.gif ) no-repeat; display: block; width: 75px; height: 14px; font: normal 10px Verdana, Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 7px 3px 0px 32px; margin: 5px 0px 5px 0px; text-align: left;}
+a.icon_mail_new:hover {background: url(/img/icon_sl_mail_new.gif ) bottom left no-repeat; color:#3366cc; text-decoration: none;}
+
+a.icon_dropbox {background: url(/img/icon_sl_drop.gif) no-repeat; display: block; width: 75px; height: 14px; font: normal 10px Verdana, Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 7px 3px 0px 27px; margin: 5px 0px 5px 0px; text-align: left;}
+a.icon_dropbox:hover {background: url(/img/icon_sl_drop.gif) bottom left no-repeat; color:#3366cc; text-decoration: none;}
+
+a.icon_locker {background: url(/img/icon_sl_locker.gif ) no-repeat; display: block; width: 75px; height: 14px; font: normal 10px Verdana, Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 7px 3px 0px 27px; margin: 5px 0px 5px 0px; text-align: left;}
+a.icon_locker:hover {background: url(/img/icon_sl_locker.gif ) bottom left no-repeat; color:#3366cc; text-decoration: none;}
+
+a.icon_news {background: url(/img/icon_sl_news.gif ) no-repeat; display: block; width: 75px; height: 14px; font: normal 10px Verdana, Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 7px 3px 0px 25px; margin: 5px 0px 5px 0px; text-align: left;}
+a.icon_news:hover {background: url(/img/icon_sl_news.gif ) bottom left no-repeat; color:#3366cc; text-decoration: none;}
+
+a.icon_groups {background: url(/img/icon_sl_groups.gif ) no-repeat; display: block; width: 75px; height: 14px; font: normal 10px Verdana, Arial, Helvetica, sans-serif; color:#3366cc; text-decoration:none; padding: 7px 3px 0px 32px; margin: 5px 0px 5px 0px; text-align: left;}
+a.icon_groups:hover {background: url(/img/icon_sl_groups.gif ) bottom left no-repeat; color:#3366cc; text-decoration: none;}
+
+
+/* ------Content-------*/
+#container_content {width: 940px; background: #ffffff; text-align: left; padding: 0px 15px 10px 15px; margin: 0px 0px 0px 0px; border: 1px #cccccc solid;}
+#container_content_columns {width: 930px; background: #ffffff; text-align: left; padding: 0px 15px 10px 0px; margin: 0px 0px 0px 0px; border: 1px #cccccc solid;}
+.content_spacing {height: 10px; margin: 0px; padding: 0px; clear: both;}
+
+
+.content_top_left {height: 7px; width:195px; background: url(http://cdn.schoolloop.com/0810131841/img/content_top_left.gif) no-repeat; line-height: 1px;}
+.content_top_center {height: 7px; background: url(http://cdn.schoolloop.com/0810131841/img/content_top_center.gif) repeat-x; line-height: 1px;}
+.content_top_right {height: 7px; width:15px; background: url(http://cdn.schoolloop.com/0810131841/img/content_top_right.gif) no-repeat right; line-height: 1px;}
+
+.content_top_left_nav {height: auto; width:15px; background: #efefef; border-bottom:#cccccc solid 1px; border-top:#cccccc solid 1px;}
+.content_top_center_nav {height: auto; background: #efefef; border-bottom:#cccccc solid 1px; border-top:#cccccc solid 1px;}
+.content_top_right_nav {height: auto; width:15px; background: #efefef; border-bottom:#cccccc solid 1px; border-top: #cccccc solid 1px; }
+
+/*content_top_right_nav {height: auto; width:15px; background: #ffffff url(http://cdn.schoolloop.com/0810131841/img/content_top_right_nav.gif) no-repeat; border-bottom:#cccccc solid 1px; }*/
+
+
+.content_main {background: #ffffff ;}
+
+
+
+.page_column_left {width:195px; background: #ffffff;}
+.page_column_right {width:15px; background: #ffffff;}
+
+.hub_page_column_left {width:190px; background: #ffffff url(http://cdn.schoolloop.com/0810131841/img/background_grey_top.gif) repeat-x; padding: 40px 0px 0px 0px;}
+.hub_page_column_middle {width:345px; background: #ffffff; padding: 0px 0px 0px 10px;}
+.hub_page_column_right {width:200px; background: #ffffff; padding: 0px 0px 0px 10px;}
+
+
+
+.page_bottom_left {width:15px; height: 10px; background: #ffffff url(http://cdn.schoolloop.com/0810131841/img/content_bottom_left.gif) no-repeat left bottom;}
+.page_bottom_center {height: 10px; background: #ffffff url(http://cdn.schoolloop.com/0810131841/img/content_bottom_center.gif) repeat-x bottom;}
+.page_bottom_right {width:15px; height: 10px; background: #ffffff url(http://cdn.schoolloop.com/0810131841/img/content_bottom_right.gif) right bottom no-repeat; }
+
+/* ------Page Nav-------*/
+#nav_page_top {width: 195px; height: 20px; background: url(/img//nav_page_top.gif) no-repeat; margin: 0px;}
+#nav_page_bottom {width: 195px; height: 15px; background: url(/img//nav_page_bottom.gif) no-repeat bottom; margin: 0px 0px 10px 0px;}
+
+#nav_page ul {width: 195px; height:auto; list-style: none; margin:  0px; padding: 0px;}
+#nav_page li{width: 195px;list-style: none;}
+.page_button a{width: 165px; height: auto; font-weight: bold; font-size: 12px; padding: 5px 20px 5px 10px; background: url(/img//nav_page_middle.gif); display: block;}
+.page_button a:hover{width: 165px; font-weight: bold; font-size: 12px; padding: 5px 20px 5px 10px; background: url(/img//nav_page_middle.gif) bottom;}
+
+.page_button_selected a{width: 165px; height: auto; font-weight: bold; font-size: 12px; padding: 5px 20px 5px 10px; background: url(/img//nav_page_selected.gif); display: block;}
+
+
+
+
+/* ------Footer-------*/
+#container_footer {width: 970px; height: auto; background: url(http://cdn.schoolloop.com/0810131841/img/footer_background.gif) bottom no-repeat; text-align: left; margin-top: 5px; margin-bottom: 0px; border-top: 3px #f3c240 solid;}
+.footer_table {width: 970px; margin: 5px 0px 5px 0px; font: Arial, Helvetica, sans-serif; font-size:10px; color: #FFFFFF;}
+
+.button_spacer {margin-bottom: 3px;}
+a.button_footer {font: bold 10px Arial, Helvetica, sans-serif; color:; text-decoration:none; padding: 0px 4px 0px 4px; background:#ffffff;}
+a.button_footer:hover {font: bold 10px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; padding: 0px 4px 0px 4px; background:#3366cc;}
+
+ /* --////// END Page Structure //////-- */
+
+
+
+</style>
+
+
+<script type="text/javascript">
+//Drop Down Tabs Menu- Author: Dynamic Drive (http://www.dynamicdrive.com)
+//Created: May 16th, 07'
+
+var tabdropdown={
+	disappeardelay: 200, //set delay in miliseconds before menu disappears onmouseout
+	disablemenuclick: false, //when user clicks on a menu item with a drop down menu, disable menu item's link?
+	enableiframeshim: 1, //1 or 0, for true or false
+
+	//No need to edit beyond here////////////////////////
+	dropmenuobj: null, ie: document.all, firefox: document.getElementById&&!document.all, previousmenuitem:null,
+	currentpageurl: window.location.href.replace("http://"+window.location.hostname, "").replace(/^\//, ""), //get current page url (minus hostname, ie: http://www.dynamicdrive.com/)
+
+	getposOffset:function(what, offsettype){
+		var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+		var parentEl=what.offsetParent;
+			while (parentEl!=null){
+				totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+				parentEl=parentEl.offsetParent;
+			}
+		return totaloffset;
+	},
+
+	showhide:function(obj, e, obj2){ //obj refers to drop down menu, obj2 refers to tab menu item mouse is currently over
+		if (this.ie || this.firefox)
+			this.dropmenuobj.style.left=this.dropmenuobj.style.top="-500px"
+		if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover"){
+			if (obj2.parentNode.className.indexOf("default")==-1) //if tab isn't a default selected one
+				obj2.parentNode.className="selected"
+			obj.visibility="visible"
+			}
+		else if (e.type=="click")
+			obj.visibility="hidden"
+	},
+
+	iecompattest:function(){
+		return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+	},
+
+	clearbrowseredge:function(obj, whichedge){
+		var edgeoffset=0
+		if (whichedge=="rightedge"){
+			var windowedge=this.ie && !window.opera? this.standardbody.scrollLeft+this.standardbody.clientWidth-15 : window.pageXOffset+window.innerWidth-15
+			this.dropmenuobj.contentmeasure=this.dropmenuobj.offsetWidth
+		if (windowedge-this.dropmenuobj.x < this.dropmenuobj.contentmeasure)  //move menu to the left?
+			edgeoffset=this.dropmenuobj.contentmeasure-obj.offsetWidth
+		}
+		else{
+			var topedge=this.ie && !window.opera? this.standardbody.scrollTop : window.pageYOffset
+			var windowedge=this.ie && !window.opera? this.standardbody.scrollTop+this.standardbody.clientHeight-15 : window.pageYOffset+window.innerHeight-18
+			this.dropmenuobj.contentmeasure=this.dropmenuobj.offsetHeight
+			if (windowedge-this.dropmenuobj.y < this.dropmenuobj.contentmeasure){ //move up?
+				edgeoffset=this.dropmenuobj.contentmeasure+obj.offsetHeight
+				if ((this.dropmenuobj.y-topedge)<this.dropmenuobj.contentmeasure) //up no good either?
+					edgeoffset=this.dropmenuobj.y+obj.offsetHeight-topedge
+			}
+			this.dropmenuobj.firstlink.style.borderTopWidth=(edgeoffset==0)? 0 : "1px" //Add 1px top border to menu if dropping up
+		}
+		return edgeoffset
+	},
+
+	dropit:function(obj, e, dropmenuID){
+		if (this.dropmenuobj!=null){ //hide previous menu
+			this.dropmenuobj.style.visibility="hidden" //hide menu
+			if (this.previousmenuitem!=null && this.previousmenuitem!=obj){
+				if (this.previousmenuitem.parentNode.className.indexOf("default")==-1) //If the tab isn't a default selected one
+					this.previousmenuitem.parentNode.className=""
+			}
+		}
+		this.clearhidemenu()
+		if (this.ie||this.firefox){
+			obj.onmouseout=function(){tabdropdown.delayhidemenu(obj)}
+			this.dropmenuobj=document.getElementById(dropmenuID)
+			this.dropmenuobj.onmouseover=function(){tabdropdown.clearhidemenu()}
+			this.dropmenuobj.onmouseout=function(e){tabdropdown.dynamichide(e, obj)}
+			this.showhide(this.dropmenuobj.style, e, obj)
+			this.dropmenuobj.x=this.getposOffset(obj, "left")
+			this.dropmenuobj.y=this.getposOffset(obj, "top")
+			this.dropmenuobj.style.left=this.dropmenuobj.x-this.clearbrowseredge(obj, "rightedge")+"px"
+			this.dropmenuobj.style.top=this.dropmenuobj.y-this.clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+1+"px"
+			this.previousmenuitem=obj //remember main menu item mouse moved out from (and into current menu item)
+			this.positionshim() //call iframe shim function
+		}
+	},
+
+	contains_firefox:function(a, b) {
+		while (b.parentNode)
+		if ((b = b.parentNode) == a)
+			return true;
+		return false;
+	},
+
+	dynamichide:function(e, obj2){ //obj2 refers to tab menu item mouse is currently over
+		var evtobj=window.event? window.event : e
+		if (this.ie&&!this.dropmenuobj.contains(evtobj.toElement))
+			this.delayhidemenu(obj2)
+		else if (this.firefox&&e.currentTarget!= evtobj.relatedTarget&& !this.contains_firefox(evtobj.currentTarget, evtobj.relatedTarget))
+			this.delayhidemenu(obj2)
+	},
+
+	delayhidemenu:function(obj2){
+		this.delayhide=setTimeout(function(){tabdropdown.dropmenuobj.style.visibility='hidden'; if (obj2.parentNode.className.indexOf('default')==-1) obj2.parentNode.className=''},this.disappeardelay) //hide menu
+	},
+
+	clearhidemenu:function(){
+		if (this.delayhide!="undefined")
+			clearTimeout(this.delayhide)
+	},
+
+	positionshim:function(){ //display iframe shim function
+		if (this.enableiframeshim && typeof this.shimobject!="undefined"){
+			if (this.dropmenuobj.style.visibility=="visible"){
+				this.shimobject.style.width=this.dropmenuobj.offsetWidth+"px"
+				this.shimobject.style.height=this.dropmenuobj.offsetHeight+"px"
+				this.shimobject.style.left=this.dropmenuobj.style.left
+				this.shimobject.style.top=this.dropmenuobj.style.top
+			}
+		this.shimobject.style.display=(this.dropmenuobj.style.visibility=="visible")? "block" : "none"
+		}
+	},
+
+	hideshim:function(){
+		if (this.enableiframeshim && typeof this.shimobject!="undefined")
+			this.shimobject.style.display='none'
+	},
+
+isSelected:function(menuurl){
+	var menuurl=menuurl.replace("http://"+menuurl.hostname, "").replace(/^\//, "")
+	return (tabdropdown.currentpageurl==menuurl)
+},
+
+	init:function(menuid, dselected){
+		this.standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body //create reference to common "body" across doctypes
+		var menuitems=document.getElementById(menuid).getElementsByTagName("a")
+		for (var i=0; i<menuitems.length; i++){
+			if (menuitems[i].getAttribute("rel")){
+				var relvalue=menuitems[i].getAttribute("rel")
+				document.getElementById(relvalue).firstlink=document.getElementById(relvalue).getElementsByTagName("a")[0]
+				menuitems[i].onmouseover=function(e){
+					var event=typeof e!="undefined"? e : window.event
+					tabdropdown.dropit(this, event, this.getAttribute("rel"))
+				}
+			}
+			if (dselected=="auto" && typeof setalready=="undefined" && this.isSelected(menuitems[i].href)){
+				menuitems[i].parentNode.className+=" selected default"
+				var setalready=true
+			}
+			else if (parseInt(dselected)==i)
+				menuitems[i].parentNode.className+=" selected default"
+		}
+	}
+
+}
+</script>
+
+<script type="text/javascript">  
+    function P7_ExpMenu(){ //v1.1.0.2 by PVII-www.projectseven.com
+     if(navigator.appVersion.indexOf("MSIE")==-1)
+     {return;}
+     var i,k,g,lg,r=/\s*p7hvr/,nn='',c,cs='p7hvr',bv='nav_cms';
+     for(i=0;i<10;i++){g=document.getElementById(bv+nn);if(g){
+     lg=g.getElementsByTagName("LI");if(lg){for(k=0;k<lg.length;k++){
+     lg[k].onmouseover=function(){c=this.className;cl=(c)?c+' '+cs:cs;
+     this.className=cl;};lg[k].onmouseout=function(){c=this.className;
+     this.className=(c)?c.replace(r,''):'';};}}}nn=i+1;}
+}
+</script>
+
+
+
+
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/jquery-1.2.3.min.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/jquery.form.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/jquery.fckeditor.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/jquery.dimensions.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/ui.mouse.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/ui.draggable.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/ui.draggable.ext.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/ui.droppable.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jquery/ui.droppable.ext.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/jqModal/jqModal.js"></script>
+<script type="text/javascript" src="http://cdn.schoolloop.com/0810131841/static/lib/sl_util.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.schoolloop.com/0810131841/static/lib/jqModal/jqModal.css"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body  >
+
+
+    <div id="container_page">
+
+
+
+<!-- Header Top-->
+    <div id="container_header_top">
+         <div style="padding-top: 5px;">   <div class='header_icons'>
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+   <tr>
+
+            <td align="center"><a  href="/mail/inbox"    class=icon_mail   >LoopMail</a></td>
+        
+            <td align="center"><a  href="/student/drop_box"    class=icon_dropbox   >Dropbox</a></td>
+        
+            <td align="center"><a  href="/locker/view"    class=icon_locker   >My Locker</a></td>
+        
+            <td align="center"><a  href="/news/all"    class=icon_news   >News</a></td>
+        
+            <td align="center"><a  href="/portal/group_list"    class=icon_groups   >Groups</a></td>
+        
+
+    </tr></table>
+    </div></div>
+    </div>
+<!-- Header Bottom-->
+    <div id="container_header_bottom">
+    <table style="width: 100%;" cellpadding="0" cellspacing="0">
+        <tr>
+            <td style="padding-left: 15px;" nowrap>
+<a href="http://www.lbusd.k12.ca.us/wilson/">Wilson Classical High School</a>
+            </td>
+            <td style="padding-right: 15px; text-align: right;" nowrap>
+<a  href="/"     >My Home</a>
+
+                | <a  href="/portal/edit_account?d=x&return_url=1224115568601"     >Account Management</a> | 
+  <!-- Help Link Users -->
+
+             <a href="/misc/paratureRedirect?d=x&return_url=1224115568601" target="_blank"><span class="red">Help</span></a> |
+
+
+<a  href="/portal/logout?d=x&return_url=1224115568601"     >Logout</a>       
+            </td>
+        </tr>
+        </table>
+    </div>
+<!-- Content -->
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td class="content_top_left"><img src="/img/spacer.gif" width="15" height="5" alt="" /></td>
+        <td width="100%" class="content_top_center"><img src="/img/spacer.gif" width="15" height="5" alt="" /></td>
+        <td class="content_top_right"><img src="/img/spacer.gif" width="15" height="5" alt="" /></td>
+      </tr>
+    </table>
+    <div id="container_content">
+      <div id="page_title">
+Student Account: David Nuon
+    </div>
+    <div class="content_margin">
+
+<table border='0' cellpadding='0' cellspacing='0' width="100%">
+<tr>
+<!-- Left Column -->
+   <td class="home_left">
+
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="f_dashboard" >
+    <tr>
+        <td class='top_left'>Dashboard</td>
+
+        <td class='top_right'>
+            <a class="button_sm" href=/portal/toggleModule?d=x&module_name=grades&return_url=1224115568601>Close</a>
+            </td>
+    </tr>
+        <tr>
+            <td class="top_left2">As of: <span class="off"><SCRIPT Language="JavaScript">
+<!-- hide from old browsers
+  var today = new Date()
+  var year = today.getYear()
+  if(year<1000) year+=1900
+
+  document.write((today.getMonth()+1) + "/" +
+                  today.getDate() + "/" + (year+"").substring(2,4))
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+Stamp = new Date();
+
+var Hours;
+var Mins;
+var Time;
+Hours = Stamp.getHours();
+if (Hours >= 12) {
+Time = " P.M.";
+}
+else {
+Time = " A.M.";
+}
+
+if (Hours > 12) {
+Hours -= 12;
+}
+
+if (Hours == 0) {
+Hours = 12;
+}
+
+Mins = Stamp.getMinutes();
+
+if (Mins < 10) {
+Mins = "0" + Mins;
+}
+
+document.write(' ' + Hours + ":" + Mins + Time + '');
+
+//-->
+</SCRIPT></span></td>
+            <td class="top_right2">
+<a href="/portal/student_home?d=x&template=print" target="_blank" class="button2">
+    <img src="http://cdn.schoolloop.com/0810131841/img/icon_print.gif" alt='Print'>Print View
+</a>
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td class='middle_center' colspan="2">
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="list_padding" >
+         <tr>
+             <td class='left' nowrap>
+                 <div class='list_label'>
+Course:
+                 </div><img src="/img/spacer.gif" width='100' height='1' alt="">
+             </td>
+
+             <td class='list_label'>Summary Grade:<br><img src="/img/spacer.gif" width='40' height='1' alt=""></td>
+             <td class='list_label' nowrap># of Zeros:</td>
+             <td><img src="/img/spacer.gif" width='80' height='1' alt=""></td>
+                </tr>
+<tr  class='highlight' >
+       <td class='left'><div class='list_label_black'><a href=/tourse/view?d=x&group_id=1217783337618&return_url=1224115568601>CHEMISTRY 1-2 H</a></div></td>
+        <td class='list_text'><img src="/img/spacer.gif" width='15' height='5' alt="">A+</td>
+        <td class='list_text'><img src="/img/spacer.gif" width='25' height='5' alt="">0</td>
+        <td class='list_text' nowrap><a  href="/progress_report/report?d=x&period_id=1217783337796&id=1187832775775&mark_id=current"     >Progress Report</a></td></tr><tr >
+       <td class='left'><div class='list_label_black'><a href=/tourse/view?d=x&group_id=1217783337323&return_url=1224115568601>KPE 10 ADV</a></div></td>
+        <td class='list_text'><img src="/img/spacer.gif" width='15' height='5' alt="">A-</td>
+        <td class='list_text'><img src="/img/spacer.gif" width='25' height='5' alt="">0</td>
+        <td class='list_text' nowrap><a  href="/progress_report/report?d=x&period_id=1217783337336&id=1187832775775&mark_id=current"     >Progress Report</a></td></tr><tr  class='highlight' >
+       <td class='left'><div class='list_label_black'><a href=/tourse/view?d=x&group_id=1217783338603&return_url=1224115568601>KHMR/KHMR SPKR 3-4</a></div></td>
+        <td class='list_text'><img src="/img/spacer.gif" width='15' height='5' alt="">A+</td>
+        <td class='list_text'><img src="/img/spacer.gif" width='25' height='5' alt="">0</td>
+        <td class='list_text' nowrap><a  href="/progress_report/report?d=x&period_id=1217783338605&id=1187832775775&mark_id=current"     >Progress Report</a></td></tr><tr >
+       <td class='left'><div class='list_label_black'><a href=/tourse/view?d=x&group_id=1217783338450&return_url=1224115568601>ENGLISH 3-4 ACC</a></div></td>
+        <td class='list_text'><img src="/img/spacer.gif" width='15' height='5' alt="">A-</td>
+        <td class='list_text'><img src="/img/spacer.gif" width='25' height='5' alt="">1</td>
+        <td class='list_text' nowrap><a  href="/progress_report/report?d=x&period_id=1217783338619&id=1187832775775&mark_id=current"     >Progress Report</a></td></tr><tr  class='highlight' >
+       <td class='left'><div class='list_label_black'><a href=/tourse/view?d=x&group_id=1217783337767&return_url=1224115568601>ALGEBRA INTER 1-2</a></div></td>
+        <td class='list_text'><img src="/img/spacer.gif" width='15' height='5' alt="">A</td>
+        <td class='list_text'><img src="/img/spacer.gif" width='25' height='5' alt="">0</td>
+        <td class='list_text' nowrap><a  href="/progress_report/report?d=x&period_id=1217783337771&id=1187832775775&mark_id=current"     >Progress Report</a></td></tr><tr >
+       <td class='left'><div class='list_label_black'><a href=/tourse/view?d=x&group_id=1217783337456&return_url=1224115568601>ART/ANIMATION 1-2</a></div></td>
+        <td class='list_text'><img src="/img/spacer.gif" width='15' height='5' alt="">A+</td>
+        <td class='list_text'><img src="/img/spacer.gif" width='25' height='5' alt="">0</td>
+        <td class='list_text' nowrap><a  href="/progress_report/report?d=x&period_id=1217783337458&id=1187832775775&mark_id=current"     >Progress Report</a></td></tr><tr  class='highlight' >
+ <td class='left'>
+            <div class='list_label_black'>
+                <a href=/tourse/view?d=x&group_id=1222370624279&return_url=1224115568601>UNSCHED PER 7</a>
+             </div>   
+            </td>
+<td colspan="4" class='list_text_light'>
+None Published</td></tr><tr >
+       <td class='left'><div class='list_label_black'><a href=/tourse/view?d=x&group_id=1217783337728&return_url=1224115568601>WORLD HIST (AP)</a></div></td>
+        <td class='list_text'><img src="/img/spacer.gif" width='15' height='5' alt="">A</td>
+        <td class='list_text'><img src="/img/spacer.gif" width='25' height='5' alt="">0</td>
+        <td class='list_text' nowrap><a  href="/progress_report/report?d=x&period_id=1217783337985&id=1187832775775&mark_id=current"     >Progress Report</a></td></tr>
+        </table>
+
+<div class="content_spacing"></div>
+ </br>
+    <div class="content_left">
+No attendance records for  
+    </div>
+<div class="content_spacing"></div>
+</br>
+<div class='list_title' style="padding-left: 10px">
+Current Assignments
+</div>
+<div class='list_line'></div>
+<table cellpadding='1' cellspacing='0' width='100%' style="margin-bottom: 10px;">
+<tr><td><img src="/img/spacer.gif" width="30" height="5"></td>
+    <td width='100%'><div class='list_label'>Title:</div></td>
+    <td><img src="/img/spacer.gif" width="10" height="5"></td>
+    <td class="right"><div class='list_label'>Courses</div></td>
+    <td class="right"><div class='list_label'>Due:</div></td>
+    <td></td>
+</tr>
+<tr  class='highlight' >
+   <td class="left" nowrap>
+            <img src='/img/new.gif'>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223961139436&return_url=1224115568601">Classwork</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>KHMR/KHMR SPKR 3-4 Period 3</div></td>
+    <td class="right"><div class='list_text'>10/16/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr><tr >
+   <td class="left" nowrap>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223960826715&return_url=1224115568601">Vocab Hw 3</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>ENGLISH 3-4 ACC Period 4</div></td>
+    <td class="right"><div class='list_text'>10/16/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr><tr  class='highlight' >
+   <td class="left" nowrap>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223132073349&return_url=1224115568601">Linear Programming Business Report</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>ALGEBRA INTER 1-2 Period 5</div></td>
+    <td class="right"><div class='list_text'>10/16/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr><tr >
+   <td class="left" nowrap>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223960755158&return_url=1224115568601">Define Vocab & Outline Bohr's Model</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>CHEMISTRY 1-2 H Period 1</div></td>
+    <td class="right"><div class='list_text'>10/16/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr><tr  class='highlight' >
+   <td class="left" nowrap>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223960827091&return_url=1224115568601">Vocab 3 test</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>ENGLISH 3-4 ACC Period 4</div></td>
+    <td class="right"><div class='list_text'>10/16/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr><tr >
+   <td class="left" nowrap>
+            <img src='/img/new.gif'>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223961141139&return_url=1224115568601">Quiz</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>KHMR/KHMR SPKR 3-4 Period 3</div></td>
+    <td class="right"><div class='list_text'>10/16/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr><tr  class='highlight' >
+   <td class="left" nowrap>
+            <img src='/img/due.gif'>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223960828534&return_url=1224115568601">Best Seller Novels</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>ENGLISH 3-4 ACC Period 4</div></td>
+    <td class="right"><div class='list_text'>10/15/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr><tr >
+   <td class="left" nowrap>
+            <img src='/img/new.gif'>
+       &nbsp;
+   </td>
+    <td>
+        <div class='list_text'><a href="/assignment/view?d=x&id=1223961137728&return_url=1224115568601">Project</a></div>
+    </td>
+    <td>
+    </td>
+    <td class="right" nowrap><div class='list_text'>KHMR/KHMR SPKR 3-4 Period 3</div></td>
+    <td class="right"><div class='list_text'>10/16/08</div></td>
+    <td class="right" nowrap>
+    </td>
+</tr>
+</table>
+        </td>
+
+    </tr>
+
+    </table>
+
+            <div class="content_spacing"></div>
+       
+<table class="f_cal_week" cellpadding='0' cellspacing='0'  width="100%" >
+    <tr>
+        <td class="top_left">Calendar: This Week</td>
+        <td class='top_right'><img src="/img/spacer.gif" width="10px" height="5px" alt="" /></td>
+    </tr>
+    <tr>
+        <td class='middle_center' colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="border-bottom: 3px #cccccc solid; height: 16px;">
+
+
+        <tr>
+            <td style="text-align: left; padding: 0px 0px 0px 3px; font-weight: bold; line-height: 12px; vertical-align: middle" nowrap>
+                <a title="Previous Week" href="/calendar/week?d=x&week_id=1223449200000&return_url=1224115568601"><<</a>
+            </td>
+            <td style="width: 100%; padding-left: 10px; vertical-align:bottom;">
+            </td>
+            <td nowrap style="vertical-align:bottom;">
+                <img src="/img/spacer.gif" width="320" height="1" alt=""><br>
+<div id="cal_a" class="nav_cal">
+   <ul>
+
+           <li><a href="#" style="border-left: 3px #ffffbb solid;" rel="cal_dropmenu1_a">Show Me...</a></li>
+
+       <li><a href="#" rel="cal_dropmenu1_b">Add Events</a></li>
+   </ul>
+
+   <div id="cal_dropmenu1_a" class="cal_dropmenudiv_x">
+<form method=POST action="/calendar/setCalendarSettings?d=x&return_url=1224115568601">
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="list_padding"  style="margin: 2px 0px 2px 0px; width:100%">
+        <tr>
+        <td class="assigned" nowrap>
+             <input type="checkbox" name="assigned" value="true"  >
+         </td>
+         <td class="assigned_right" style="vertical-align: middle;" nowrap>
+Work (Assign Date)
+         </td>
+         </tr>
+         <tr>
+         <td class="due" nowrap>
+             <input type="checkbox" name="due" value="true"   checked >
+         </td>
+         <td class="due_right" style="vertical-align: middle;" nowrap>
+Work (Due Date)
+         </td>
+         </tr>
+     <tr>
+     <td class="school" nowrap>
+        <input type="checkbox" name="public" value="true"  checked >
+     </td>
+     <td class="school_right" style="vertical-align: middle;" nowrap>
+General Events
+     </td>
+     </tr>
+
+         <tr>
+         <td class="group" nowrap>
+            <input type="checkbox" name="ugroups" value="true"  checked >
+          </td>
+          <td class="group_right" style="vertical-align: middle;" nowrap>
+Group Events
+         </td>
+         </tr>
+
+         <tr>
+         <td class="personal" nowrap>
+            <input type="checkbox" name="uevents" value="true"  checked >
+          </td>
+          <td class="personal_right" style="vertical-align: middle;" nowrap>
+Personal Items
+         </td>
+         </tr>
+</table>
+<div style="padding: 2px 0px 0px 25px">
+<input type="image" name="" src="/button/submit_button_big.gif"   
+ alt="Submit" >
+</div>
+</form>
+        <a href="#">.</a>
+
+   </div>    <div id="cal_dropmenu1_b" class="cal_dropmenudiv_b">
+
+
+           <a href="/calendar/new?d=x&id=&day_id=1224054000000&return_url=1224115568601">Group Event</a>
+
+           <a href="/calendar/new?d=x&id=&day_id=1224054000000&p_event=true&return_url=1224115568601">Personal Item</a>
+
+    </div>
+
+    <script type="text/javascript">
+    //SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+    tabdropdown.init("cal_a")
+    </script>
+</div>
+
+            </td>
+
+
+            <td style="text-align: right; line-height: 12px; padding-left: 5px;" nowrap>
+                <a title="Day View" href="/calendar/day?d=x&return_url=1224115568601"><img src="/img/icon_calendar_day.gif" alt="Day View" /></a>
+                <a title="Week View" href="/calendar/week?d=x&week_id=0&return_url=1224115568601"><img src="/img/icon_calendar_week.gif" alt="Week View" /></a>
+                <a title="Month View" href="/calendar/month?d=x&month_id=0&return_url=1224115568601"><img src="/img/icon_calendar_month.gif" alt="Month View" /></a>
+                <a title="Print View" href="/portal/student_home?d=x&template=print" target="_blank"><img src="/img/icon_calendar_print.gif" alt="Print" /></a></td>
+            <td style="text-align: right; padding: 0px 5px 0px 15px; font-weight: bold; line-height: 12px; vertical-align: middle" nowrap>
+
+                <a title="Next Week" href="/calendar/week?d=x&week_id=1224658800000&return_url=1224115568601">>></a>
+            </td>
+
+
+        </tr>
+  </table>
+
+
+<br>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+     <tr>
+        <td style="border-bottom: 1px #cccccc solid;  padding-left: 10px;" nowrap>
+            <h3 style="color: #999999; font-size: 12px;">Sunday</h3>
+        </td>
+        <td style="border-bottom: 1px #cccccc solid;  vertical-align: middle; padding-right: 10px;" align='right' nowrap>
+            <h5 style="color: #999999; font-size: 11px; ">10/12/08</h5>
+        </td>
+     </tr>
+    </table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+
+
+
+
+
+<!-- spacer row -->
+<!-- space end -->
+<tr>
+    <td style="height: 20px;">&nbsp;</td>
+    <td></td>
+</tr>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+     <tr>
+        <td style="border-bottom: 1px #cccccc solid;  padding-left: 10px;" nowrap>
+            <h3>Monday</h3>
+        </td>
+        <td style="border-bottom: 1px #cccccc solid;  vertical-align: middle; padding-right: 10px;" align='right' nowrap>
+            <h5>10/13/08</h5>
+        </td>
+     </tr>
+    </table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+
+
+
+
+
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ENGLISH 3-4 ACC</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223740670396&return_url=1224115568601">"Everyday Use"</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Homework
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223740670396&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ENGLISH 3-4 ACC</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223740672193&return_url=1224115568601">Be sure to check your grades carefully</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Assignment
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223740672193&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ENGLISH 3-4 ACC</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223132371156&return_url=1224115568601">Bestseller</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Homework
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223132371156&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+<!-- spacer row -->
+<!-- space end -->
+<tr>
+    <td style="height: 20px;">&nbsp;</td>
+    <td></td>
+</tr>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+     <tr>
+        <td style="border-bottom: 1px #cccccc solid;  padding-left: 10px;" nowrap>
+            <h3>Tuesday</h3>
+        </td>
+        <td style="border-bottom: 1px #cccccc solid;  vertical-align: middle; padding-right: 10px;" align='right' nowrap>
+            <h5>10/14/08</h5>
+        </td>
+     </tr>
+    </table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+
+
+
+
+
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ALGEBRA INTER 1-2</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223618719155&return_url=1224115568601">Assignment #15</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Homework
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223618719155&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ALGEBRA INTER 1-2</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223960770952&return_url=1224115568601">Pop Quiz</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Quiz
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223960770952&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+<!-- spacer row -->
+<!-- space end -->
+<tr>
+    <td style="height: 20px;">&nbsp;</td>
+    <td></td>
+</tr>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+     <tr>
+        <td style="border-bottom: 1px #cccccc solid; background: #ffffbb; border-left: 1px #cccccc solid; border-top: 1px #cccccc solid; padding-left: 10px;" nowrap>
+            <h3>Wednesday</h3>
+        </td>
+        <td style="border-bottom: 1px #cccccc solid; background: #ffffbb; border-top: 1px #cccccc solid; border-right: 1px #cccccc solid;  vertical-align: middle; padding-right: 10px;" align='right' nowrap>
+            <h5>10/15/08</h5>
+        </td>
+     </tr>
+    </table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+
+
+
+
+
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ENGLISH 3-4 ACC</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223960828534&return_url=1224115568601">Best Seller Novels</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Homework
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223960828534&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+<!-- spacer row -->
+<!-- space end -->
+<tr>
+    <td style="height: 20px;">&nbsp;</td>
+    <td></td>
+</tr>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+     <tr>
+        <td style="border-bottom: 1px #cccccc solid;  padding-left: 10px;" nowrap>
+            <h3>Thursday</h3>
+        </td>
+        <td style="border-bottom: 1px #cccccc solid;  vertical-align: middle; padding-right: 10px;" align='right' nowrap>
+            <h5>10/16/08</h5>
+        </td>
+     </tr>
+    </table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+
+
+
+
+
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>KHMR/KHMR SPKR 3-4</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223961141139&return_url=1224115568601">Quiz</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Quiz
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223961141139&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ALGEBRA INTER 1-2</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223132073349&return_url=1224115568601">Linear Programming Business Report</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Homework
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223132073349&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>KHMR/KHMR SPKR 3-4</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223961137728&return_url=1224115568601">Project</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Cultural Project
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223961137728&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>KHMR/KHMR SPKR 3-4</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223961139436&return_url=1224115568601">Classwork</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Classwork
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223961139436&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ENGLISH 3-4 ACC</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223960826715&return_url=1224115568601">Vocab Hw 3</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Homework
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223960826715&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>CHEMISTRY 1-2 H</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223960755158&return_url=1224115568601">Define Vocab & Outline Bohr's Model</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Homework
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223960755158&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+  <tr>
+      <td class="due_page" nowrap>
+
+
+                 <div class='cal_text_course'><b>ENGLISH 3-4 ACC</b></div>
+              
+      </td>
+      <td class="due_right" width="100%">
+         <a href="/assignment/view?d=x&id=1223960827091&return_url=1224115568601">Vocab 3 test</a>
+      </td>
+
+      <td class="due_right" style="width: 85px">
+Test
+      </td>
+      <td class="due_right" style="width: 30px">
+        <a href=/misc/dropBoxStart?d=x&id=1223960827091&return_url=1224115568601><img src="/img/icon_turn_in_work.gif" alt="icon" title="Turn In Work">
+      </td>
+
+  </tr>
+
+<!-- spacer row -->
+<!-- space end -->
+<tr>
+    <td style="height: 20px;">&nbsp;</td>
+    <td></td>
+</tr>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+     <tr>
+        <td style="border-bottom: 1px #cccccc solid;  padding-left: 10px;" nowrap>
+            <h3 style="color: #999999; font-size: 12px;">Friday</h3>
+        </td>
+        <td style="border-bottom: 1px #cccccc solid;  vertical-align: middle; padding-right: 10px;" align='right' nowrap>
+            <h5 style="color: #999999; font-size: 11px; ">10/17/08</h5>
+        </td>
+     </tr>
+    </table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+
+
+
+
+
+<!-- spacer row -->
+<!-- space end -->
+<tr>
+    <td style="height: 20px;">&nbsp;</td>
+    <td></td>
+</tr>
+</table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+     <tr>
+        <td style="border-bottom: 1px #cccccc solid;  padding-left: 10px;" nowrap>
+            <h3 style="color: #999999; font-size: 12px;">Saturday</h3>
+        </td>
+        <td style="border-bottom: 1px #cccccc solid;  vertical-align: middle; padding-right: 10px;" align='right' nowrap>
+            <h5 style="color: #999999; font-size: 11px; ">10/18/08</h5>
+        </td>
+     </tr>
+    </table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+
+
+
+
+
+<!-- spacer row -->
+<!-- space end -->
+<tr>
+    <td style="height: 20px;">&nbsp;</td>
+    <td></td>
+</tr>
+</table>
+
+
+
+</td>
+    
+</table>
+
+       </td>
+
+   <td class="home_right">
+
+<table class="module" cellpadding='0' cellspacing='0'  width="100%" >
+    <tr>
+        <td class='top_left'>
+My Discussions
+        </td>
+        <td class='top_right'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td class='middle_center' colspan="2">
+           <div class="os" style="width: auto; height: auto; overflow:hidden;">
+            <div class="nav">
+                 <ul>
+                    <li><a  href="/thread/new?d=x&group_id=&return_url=1224115568601"     >New Topic</a></li>
+                </ul>
+            </div>
+
+    <div class="pad_sides">
+        No active discussions
+    </div>    
+    <br>
+           </div>    
+        </td>
+
+    </tr>
+    
+</table>
+            <div class="content_spacing"></div>
+<table class="module" cellpadding='0' cellspacing='0'  width="100%" >
+    <tr>
+        <td class='top_left'>
+News
+        </td>
+        <td class='top_right'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td class='middle_center' colspan="2">
+           <div class="os" style="width: auto; height: auto; overflow:hidden;">
+        <div class="nav">
+                 <ul>
+                    <li><a  href="/news/new?d=x&id=&return_url=1224115568601"     >Add</a></li>
+                </ul>
+            </div>
+<a href="/content/view?d=x&id=1223961065761&return_url=1224115568601" class="module_link">Bruins Against Drunk Driving</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Mr. Henry </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/15/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223960773151&return_url=1224115568601" class="module_link">Meet the Mayor and Earn Service Learning Hours</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Marty Axelson </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/14/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223740889781&return_url=1224115568601" class="module_link">FROSH FOOTBALL CAR WASH AND YARD SALE</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Stephen Heavin </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/13/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223740987855&return_url=1224115568601" class="module_link">Earn 3 to 5 hours of Service Learning Credit</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Marty Axelson </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/13/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223740991939&return_url=1224115568601" class="module_link">Quilts of Valor is looking for Volunteers in the Wilson Gym</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Marty Axelson </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/13/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223740992030&return_url=1224115568601" class="module_link">Wilson Reusable Grocery Bags!</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Erin Fekjar </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/13/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223740994726&return_url=1224115568601" class="module_link">18th Annual Beach Walk and Health Fair, Sat. Oct. 25th</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Marty Axelson </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/13/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223132325986&return_url=1224115568601" class="module_link">National French Week-Nov. 3-9, 2008</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Ms. Nielsen </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/9/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223131953670&return_url=1224115568601" class="module_link">Human Relations Camp Interest Form</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Marianne Ilmanen </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/8/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223131287571&return_url=1224115568601" class="module_link">Back to School Night - October 15th</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Erin Fekjar </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/6/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1223131327093&return_url=1224115568601" class="module_link">SPEECH and DEBATE CLUB for ALL!! Tuesdays at Lunch...</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Rachel Wegter </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/6/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1222840193844&return_url=1224115568601" class="module_link">CSF  FUNDRAISER</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Diana Lindahl </b> - Staff
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/3/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1222839927322&return_url=1224115568601" class="module_link">Career/College Exploration Night</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Robin Sroka </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+10/2/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1222629409944&return_url=1224115568601" class="module_link">SPEECH and DEBATE CLUB for ALL--Tues. at Lunch!!</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Rachel Wegter </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+9/29/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1222370677693&return_url=1224115568601" class="module_link">Get That Dirty Car Washed on Saturday</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Devon Day </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+9/26/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1221638606916&return_url=1224115568601" class="module_link">HOW CAN I HELP WITH WORLD ISSUES?</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Mrs. Obeidin </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+9/17/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1221537883326&return_url=1224115568601" class="module_link">ON SALE NOW!!  WILSON POLOS!!</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Jill Egan </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+9/16/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1220711852476&return_url=1224115568601" class="module_link">College Visits to the Career/College Center</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Robin Sroka </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+9/10/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1219689581860&return_url=1224115568601" class="module_link">Dress Code Update - Please Read</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Maria Neves </b> - Assistant Principal
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+8/25/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div><a href="/content/view?d=x&id=1212277613075&return_url=1224115568601" class="module_link">Summer Reading</a>
+<div class="pad_sides">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"  style="margin-bottom: 10px; border-top: 1px #cccccc solid;">
+    <tr>
+        <td class="list_text" width="100%">
+           <B>Susan Westphal </b> - Teacher
+        </td>
+
+        <td class="list_text" align="right" nowrap>
+6/4/08<br>
+            <img src="/img/spacer.gif" width="20" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+</div>
+           </div>    
+        </td>
+
+    </tr>
+    
+</table>
+            <div class="content_spacing"></div>
+
+<table class="module" cellpadding='0' cellspacing='0'  width="100%" >
+    <tr>
+        <td class='top_left'>
+Schedule
+        </td>
+        <td class='top_right'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td class='middle_center' colspan="2">
+           <div class="os" style="width: auto; height: auto; overflow:hidden;">
+<div class="pad_sides"><br>
+    <div class='list_text_bold_right'><a href=/mail/send_all?d=x&return_url=1224115568601><img src="/img/icon_student_email_all.gif" alt="" /> Email All Teachers</a></div>
+
+
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>CHEMISTRY 1-2 H</div></td><td align='right'><div class='list_text'>Period 1</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'><a  href="/tourse/view?d=x&group_id=1217783337618"     >Site</a> |
+<a  href="/tourse/calendar?d=x&group_id=1217783337618"     >Calendar</a> |
+<a  href="/tourse/notes?d=x&group_id=1217783337618"     >Notes</a> |
+<a  href="/tourse/resources?d=x&group_id=1217783337618"     >Locker</a></div>
+            <div class='list_text'><a href=/mail/send?d=x&id=1187832772732&return_url=1224115568601>Fox, Craig <img src="/img/icon_student_email_all.gif" alt=""></a></div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>KPE 10 ADV</div></td><td align='right'><div class='list_text'>Period 2</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'><a  href="/tourse/view?d=x&group_id=1217783337323"     >Site</a> |
+<a  href="/tourse/calendar?d=x&group_id=1217783337323"     >Calendar</a> |
+<a  href="/tourse/notes?d=x&group_id=1217783337323"     >Notes</a> |
+<a  href="/tourse/resources?d=x&group_id=1217783337323"     >Locker</a></div>
+            <div class='list_text'><a href=/mail/send?d=x&id=1187832772828&return_url=1224115568601>Rhodes, Fredia <img src="/img/icon_student_email_all.gif" alt=""></a></div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>KHMR/KHMR SPKR 3-4</div></td><td align='right'><div class='list_text'>Period 3</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'><a  href="/tourse/view?d=x&group_id=1217783338603"     >Site</a> |
+<a  href="/tourse/calendar?d=x&group_id=1217783338603"     >Calendar</a> |
+<a  href="/tourse/notes?d=x&group_id=1217783338603"     >Notes</a> |
+<a  href="/tourse/resources?d=x&group_id=1217783338603"     >Locker</a></div>
+            <div class='list_text'><a href=/mail/send?d=x&id=1189111742516&return_url=1224115568601>Ung, Darith <img src="/img/icon_student_email_all.gif" alt=""></a></div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>ENGLISH 3-4 ACC</div></td><td align='right'><div class='list_text'>Period 4</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'><a  href="/tourse/view?d=x&group_id=1217783338450"     >Site</a> |
+<a  href="/tourse/calendar?d=x&group_id=1217783338450"     >Calendar</a> |
+<a  href="/tourse/notes?d=x&group_id=1217783338450"     >Notes</a> |
+<a  href="/tourse/resources?d=x&group_id=1217783338450"     >Locker</a></div>
+            <div class='list_text'><a href=/mail/send?d=x&id=1187832772870&return_url=1224115568601>Westphal, Susan <img src="/img/icon_student_email_all.gif" alt=""></a></div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>ALGEBRA INTER 1-2</div></td><td align='right'><div class='list_text'>Period 5</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'><a  href="/tourse/view?d=x&group_id=1217783337767"     >Site</a> |
+<a  href="/tourse/calendar?d=x&group_id=1217783337767"     >Calendar</a> |
+<a  href="/tourse/notes?d=x&group_id=1217783337767"     >Notes</a> |
+<a  href="/tourse/resources?d=x&group_id=1217783337767"     >Locker</a></div>
+            <div class='list_text'><a href=/mail/send?d=x&id=1187832772720&return_url=1224115568601>Deeble, Peter <img src="/img/icon_student_email_all.gif" alt=""></a></div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>ART/ANIMATION 1-2</div></td><td align='right'><div class='list_text'>Period 6</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'><a  href="/tourse/view?d=x&group_id=1217783337456"     >Site</a> |
+<a  href="/tourse/calendar?d=x&group_id=1217783337456"     >Calendar</a> |
+<a  href="/tourse/notes?d=x&group_id=1217783337456"     >Notes</a> |
+<a  href="/tourse/resources?d=x&group_id=1217783337456"     >Locker</a></div>
+            <div class='list_text'><a href=/mail/send?d=x&id=1187832772724&return_url=1224115568601>Egan, Jill <img src="/img/icon_student_email_all.gif" alt=""></a></div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>UNSCHED PER 7</div></td><td align='right'><div class='list_text'>Period 7</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'>Staff, </div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+        <table cellpadding='0' cellspacing='0' width='100%'>
+            <tr>
+                <td><div class='list_label'>WORLD HIST (AP)</div></td><td align='right'><div class='list_text'>Period 8</div></td>
+            </tr>
+        </table>
+        <div class='list_line'></div>
+            <div class='list_text'><a  href="/tourse/view?d=x&group_id=1217783337728"     >Site</a> |
+<a  href="/tourse/calendar?d=x&group_id=1217783337728"     >Calendar</a> |
+<a  href="/tourse/notes?d=x&group_id=1217783337728"     >Notes</a> |
+<a  href="/tourse/resources?d=x&group_id=1217783337728"     >Locker</a></div>
+            <div class='list_text'><a href=/mail/send?d=x&id=1187832772691&return_url=1224115568601>Arzate, Mr. <img src="/img/icon_student_email_all.gif" alt=""></a></div>
+        <img src="/img/spacer.gif" alt="" width='10' height='15' />
+    
+
+
+</div>
+           </div>    
+        </td>
+
+    </tr>
+    
+</table>
+            <div class="content_spacing"></div>
+
+        </td>
+    </tr>
+ </table>
+
+<div class="clear_margin"></div>
+</div>
+</div>
+<!-- END Content -->
+
+<!-- Footer  -->
+<div id="container_footer">
+ <table border="0" cellspacing="0" cellpadding="2" class="footer_table">
+      <tr>
+      <td style="padding-left: 15px; width: 100%;">
+  &copy; 2007-2008
+      </td>
+
+        <td width="30"><img src="http://cdn.schoolloop.com/0810131841/img/footer_logo.gif" alt="School Loop" width="23" height="24" /></td>
+        <td nowrap style="padding-right: 5px">Powered by,<br />
+
+        <a href="http://www.schoolloop.com" target="blank" class="footer">School Loop</a>
+		</td>
+        <td nowrap style="padding-right: 25px;">
+          <div class="button_spacer"><a  href="/portal/contact?d=x&return_url=1224115568601"    class=button_footer   >Contact</a></div>
+<a  href="/portal/privacy?d=x&return_url=1224115568601"    class=button_footer   >Privacy Notice</a>
+<a  href="/portal/agreement?d=x&return_url=1224115568601"    class=button_footer   >User Agreement</a></td>
+
+      </tr>
+    </table>
+</div>
+
+
+</div>
+<!-- END Page -->
+
+
+
+        <img src="/stats/s1_1_1224054000000/s1187832715157_1187832715157_1224054000000/u1187832715157_1187832775775_1224054000000/s1187832715157_1187832772732_1224054000000/s1187832715157_1187832772828_1224054000000/s1187832715157_1189111742516_1224054000000/s1187832715157_1187832772870_1224054000000/s1187832715157_1187832772720_1224054000000/s1187832715157_1187832772724_1224054000000/s1187832715157_1222235184404_1224054000000/s1187832715157_1187832772691_1224054000000/s1224115568601.gif" height="1" width="1" border="0">
+</body>
+</html>

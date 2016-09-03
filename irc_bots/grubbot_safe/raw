@@ -1,0 +1,775 @@
+
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:heinlein.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:heinlein.freenode.net 002 neogrubbi :Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+:heinlein.freenode.net 003 neogrubbi :This server was created Fri May  4 21:54:04 UTC 2007
+:heinlein.freenode.net 004 neogrubbi heinlein.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:heinlein.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:heinlein.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:heinlein.freenode.net 251 neogrubbi :There are 19991 listed and 18590 unlisted users on 30 servers
+:heinlein.freenode.net 252 neogrubbi 37 :flagged staff members
+:heinlein.freenode.net 254 neogrubbi 20795 :channels formed
+:heinlein.freenode.net 255 neogrubbi :I have 3698 clients and 0 servers
+:heinlein.freenode.net 265 neogrubbi :Current local  users: 3698  Max: 4862
+:heinlein.freenode.net 266 neogrubbi :Current global users: 38581  Max: 47562
+:heinlein.freenode.net 250 neogrubbi :Highest connection count: 4863 (4862 clients) (132763 since server was (re)started)
+:heinlein.freenode.net 375 neogrubbi :- heinlein.freenode.net Message of the Day - 
+:heinlein.freenode.net 372 neogrubbi :- Welcome to heinlein.freenode.net in Missoula, Montana, US.
+:heinlein.freenode.net 372 neogrubbi :- Thanks to Michael Loftis and Modwest, Inc.
+:heinlein.freenode.net 372 neogrubbi :- (http://modwest.com/) for providing this server!
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- HEINLEIN, ROBERT ANSON [1907-1988], author of "Starship
+:heinlein.freenode.net 372 neogrubbi :- Troopers", "Stranger in a Strange Land", and many other
+:heinlein.freenode.net 372 neogrubbi :- works, was one of the most popular, influential, and
+:heinlein.freenode.net 372 neogrubbi :- controversial authors of "hard" science fiction, setting a
+:heinlein.freenode.net 372 neogrubbi :- high standard for science and engineering plausibility that
+:heinlein.freenode.net 372 neogrubbi :- few have equaled. His most prevalent theme is the practical
+:heinlein.freenode.net 372 neogrubbi :- benefit of man's activities in space, and in fact a large
+:heinlein.freenode.net 372 neogrubbi :- portion of his works were written long before Neil Armstrong
+:heinlein.freenode.net 372 neogrubbi :- first set foot upon the Moon. Though he never ignored the
+:heinlein.freenode.net 372 neogrubbi :- negative aspects of technological growth, he had a clear
+:heinlein.freenode.net 372 neogrubbi :- vision of its importance to human progress and survival.
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:heinlein.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:heinlein.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:heinlein.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:heinlein.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:heinlein.freenode.net 372 neogrubbi :- the network!
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:heinlein.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:heinlein.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:heinlein.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:heinlein.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#
+:heinlein.freenode.net 332 neogrubbi # :"The official channel language is English. All other languages will be penalised with unnecessarily Draconian measures. We don't want your shrubberies." Discuss. And remember, Google is NOT a verb!  http://www.googleisnotaverb.com
+:heinlein.freenode.net 333 neogrubbi # route 1208496208
+:heinlein.freenode.net 353 neogrubbi @ # :neogrubbi mrpink Linuxuser richardus sysdef Marty troy- Xjs Schmurtz lavacano201014 SportChick olegfink zink_ infobot SmootherFrOgZ xavier phariim enyjelly dmb lajla avu scorchsaber mr-rich 
+:heinlein.freenode.net 366 neogrubbi # :End of /NAMES list.
+:heinlein.freenode.net 403 neogrubbi g :That channel doesn't exist
+:heinlein.freenode.net 403 neogrubbi r :That channel doesn't exist
+:heinlein.freenode.net 403 neogrubbi u :That channel doesn't exist
+:heinlein.freenode.net 477 neogrubbi # :[freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup
+:heinlein.freenode.net 403 neogrubbi b :That channel doesn't exist
+:heinlein.freenode.net 403 neogrubbi b :That channel doesn't exist
+:heinlein.freenode.net 403 neogrubbi n :That channel doesn't exist
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:heinlein.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:heinlein.freenode.net 002 neogrubbi :Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+:heinlein.freenode.net 003 neogrubbi :This server was created Fri May  4 21:54:04 UTC 2007
+:heinlein.freenode.net 004 neogrubbi heinlein.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:heinlein.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:heinlein.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:heinlein.freenode.net 251 neogrubbi :There are 19993 listed and 18584 unlisted users on 30 servers
+:heinlein.freenode.net 252 neogrubbi 37 :flagged staff members
+:heinlein.freenode.net 254 neogrubbi 20798 :channels formed
+:heinlein.freenode.net 255 neogrubbi :I have 3696 clients and 0 servers
+:heinlein.freenode.net 265 neogrubbi :Current local  users: 3696  Max: 4862
+:heinlein.freenode.net 266 neogrubbi :Current global users: 38577  Max: 47562
+:heinlein.freenode.net 250 neogrubbi :Highest connection count: 4863 (4862 clients) (132772 since server was (re)started)
+:heinlein.freenode.net 375 neogrubbi :- heinlein.freenode.net Message of the Day - 
+:heinlein.freenode.net 372 neogrubbi :- Welcome to heinlein.freenode.net in Missoula, Montana, US.
+:heinlein.freenode.net 372 neogrubbi :- Thanks to Michael Loftis and Modwest, Inc.
+:heinlein.freenode.net 372 neogrubbi :- (http://modwest.com/) for providing this server!
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- HEINLEIN, ROBERT ANSON [1907-1988], author of "Starship
+:heinlein.freenode.net 372 neogrubbi :- Troopers", "Stranger in a Strange Land", and many other
+:heinlein.freenode.net 372 neogrubbi :- works, was one of the most popular, influential, and
+:heinlein.freenode.net 372 neogrubbi :- controversial authors of "hard" science fiction, setting a
+:heinlein.freenode.net 372 neogrubbi :- high standard for science and engineering plausibility that
+:heinlein.freenode.net 372 neogrubbi :- few have equaled. His most prevalent theme is the practical
+:heinlein.freenode.net 372 neogrubbi :- benefit of man's activities in space, and in fact a large
+:heinlein.freenode.net 372 neogrubbi :- portion of his works were written long before Neil Armstrong
+:heinlein.freenode.net 372 neogrubbi :- first set foot upon the Moon. Though he never ignored the
+:heinlein.freenode.net 372 neogrubbi :- negative aspects of technological growth, he had a clear
+:heinlein.freenode.net 372 neogrubbi :- vision of its importance to human progress and survival.
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:heinlein.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:heinlein.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:heinlein.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:heinlein.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:heinlein.freenode.net 372 neogrubbi :- the network!
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:heinlein.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:heinlein.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:heinlein.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:heinlein.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:heinlein.freenode.net 372 neogrubbi :- 
+:heinlein.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:heinlein.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:heinlein.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:heinlein.freenode.net 353 neogrubbi = #grubbN :neogrubbi FutureBot @grubbot +FuturePilot +bhb scaredpoet +nathangrubb +dn_desaku xhhux +NullHead|AFK @ChanServ +ajmorris 
+:heinlein.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:heinlein.freenode.net 328 neogrubbi #grubbn :http://grubbn.com
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :you're ignored nathangrubb
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :I know
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :for 600 seconds
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::P
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :bastard
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:clarke.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:clarke.freenode.net 002 neogrubbi :Your host is clarke.freenode.net[clarke.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is clarke.freenode.net[clarke.freenode.net/6667], running version hyperion-1.0.2b
+:clarke.freenode.net 003 neogrubbi :This server was created Mon May 21 17:06:18 UTC 2007
+:clarke.freenode.net 004 neogrubbi clarke.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:clarke.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:clarke.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:clarke.freenode.net 251 neogrubbi :There are 19978 listed and 18596 unlisted users on 30 servers
+:clarke.freenode.net 252 neogrubbi 37 :flagged staff members
+:clarke.freenode.net 254 neogrubbi 20797 :channels formed
+:clarke.freenode.net 255 neogrubbi :I have 2101 clients and 0 servers
+:clarke.freenode.net 265 neogrubbi :Current local  users: 2101  Max: 3759
+:clarke.freenode.net 266 neogrubbi :Current global users: 38574  Max: 49086
+:clarke.freenode.net 250 neogrubbi :Highest connection count: 3760 (3759 clients) (829846 since server was (re)started)
+:clarke.freenode.net 375 neogrubbi :- clarke.freenode.net Message of the Day - 
+:clarke.freenode.net 372 neogrubbi :- Welcome to clarke.freenode.net in Fremont, California, US.
+:clarke.freenode.net 372 neogrubbi :- Thanks to VR Hosting 'http://www.vr.org' for sponsoring this server!
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- CLARKE, SIR ARTHUR C. [1917-2008]. Born in Minehead, Somerset,
+:clarke.freenode.net 372 neogrubbi :- England he served as radar specialist during WWII. The ideas
+:clarke.freenode.net 372 neogrubbi :- of geostationary communications satellites and space elevators
+:clarke.freenode.net 372 neogrubbi :- are credited to him. In 1956, he moved to Colombo, Sri Lanka,
+:clarke.freenode.net 372 neogrubbi :- receiving his knighthood there in 1998 by proxy from the UK
+:clarke.freenode.net 372 neogrubbi :- High Commissioner due to his post-polio-syndrome which has had
+:clarke.freenode.net 372 neogrubbi :- since 1988. Among his several dozens novels and collections
+:clarke.freenode.net 372 neogrubbi :- are 2001: A Space Odyssey, 2010, 2061, 3001 and The
+:clarke.freenode.net 372 neogrubbi :- Songs of Distant Earth. He is currently the Honorary Board
+:clarke.freenode.net 372 neogrubbi :- Chair of the Institute for Cooperation in Space.
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:clarke.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- By connecting to freenode you indicate that you have read 
+:clarke.freenode.net 372 neogrubbi :- and agree to adhere to our policies and procedures as per 
+:clarke.freenode.net 372 neogrubbi :- the website (http://freenode.net). We would like to remind 
+:clarke.freenode.net 372 neogrubbi :- you that unauthorized public logging of channels on the 
+:clarke.freenode.net 372 neogrubbi :- network is prohibited. Public channel logging should only 
+:clarke.freenode.net 372 neogrubbi :- take place where the channel owner(s) has requested this 
+:clarke.freenode.net 372 neogrubbi :- and users of the channel are all made aware (if you are 
+:clarke.freenode.net 372 neogrubbi :- publically logging your channel, you may wish to keep a 
+:clarke.freenode.net 372 neogrubbi :- notice in topic and perhaps as a on-join message).
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- By registering your nickname with Nickserv you agree that you 
+:clarke.freenode.net 372 neogrubbi :- are 13 years of age, or older. For more information about the 
+:clarke.freenode.net 372 neogrubbi :- Children's Online Privacy Protection Act please see their 
+:clarke.freenode.net 372 neogrubbi :- website at (http://www.coppa.org).
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:clarke.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:clarke.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:clarke.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:clarke.freenode.net 372 neogrubbi :- the network!
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:clarke.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:clarke.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:clarke.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:clarke.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:clarke.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:clarke.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:clarke.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:clarke.freenode.net 353 neogrubbi = #grubbN :neogrubbi @grubbot FutureBot +FuturePilot +bhb scaredpoet +nathangrubb +ajmorris +NullHead|AFK @ChanServ xhhux +dn_desaku 
+:clarke.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:clarke.freenode.net 328 neogrubbi #grubbn :http://grubbn.com
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN :well, at least it does something well. :p
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick somebody
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net QUIT :Remote closed the connection
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :wow
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net JOIN :#grubbn
+:ChanServ!ChanServ@services. MODE #grubbN +o grubbot 
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :he still doesn't try to kick anybody
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick somebody
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~chubby
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~ican'tgetno
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~satisfaction
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~lol
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~yourmother
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~op grubbot
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :~gah
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~Repeat thta one again?
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :in ~kick you did make it so it can accept args
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :yes?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :what's wrong with that?
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick ww
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :ok
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :it doesn't accept args
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :because
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net QUIT :Remote closed the connection
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :why?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Potatoes
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :why?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Carrots
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :why?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Lettuce
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :why?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Radishes
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :why?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Squash
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :why?
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :ok
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :why?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :yes
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :?
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :I'll tinker with gurbby a little more
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :yay
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!Boo!
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Waaaa!
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :don't ruin him
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :with your coding styles
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :or I'll have to rape you
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :boo
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!rape
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I don't know anything about rape
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :!myself
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I don't know anything about myself
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :o_0
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :!sex
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I don't know anything about sex
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:clarke.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:clarke.freenode.net 002 neogrubbi :Your host is clarke.freenode.net[clarke.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is clarke.freenode.net[clarke.freenode.net/6667], running version hyperion-1.0.2b
+:clarke.freenode.net 003 neogrubbi :This server was created Mon May 21 17:06:18 UTC 2007
+:clarke.freenode.net 004 neogrubbi clarke.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:clarke.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:clarke.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:clarke.freenode.net 251 neogrubbi :There are 19922 listed and 18586 unlisted users on 30 servers
+:clarke.freenode.net 252 neogrubbi 37 :flagged staff members
+:clarke.freenode.net 254 neogrubbi 20799 :channels formed
+:clarke.freenode.net 255 neogrubbi :I have 2094 clients and 0 servers
+:clarke.freenode.net 265 neogrubbi :Current local  users: 2094  Max: 3759
+:clarke.freenode.net 266 neogrubbi :Current global users: 38508  Max: 49086
+:clarke.freenode.net 250 neogrubbi :Highest connection count: 3760 (3759 clients) (829858 since server was (re)started)
+:clarke.freenode.net 375 neogrubbi :- clarke.freenode.net Message of the Day - 
+:clarke.freenode.net 372 neogrubbi :- Welcome to clarke.freenode.net in Fremont, California, US.
+:clarke.freenode.net 372 neogrubbi :- Thanks to VR Hosting 'http://www.vr.org' for sponsoring this server!
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- CLARKE, SIR ARTHUR C. [1917-2008]. Born in Minehead, Somerset,
+:clarke.freenode.net 372 neogrubbi :- England he served as radar specialist during WWII. The ideas
+:clarke.freenode.net 372 neogrubbi :- of geostationary communications satellites and space elevators
+:clarke.freenode.net 372 neogrubbi :- are credited to him. In 1956, he moved to Colombo, Sri Lanka,
+:clarke.freenode.net 372 neogrubbi :- receiving his knighthood there in 1998 by proxy from the UK
+:clarke.freenode.net 372 neogrubbi :- High Commissioner due to his post-polio-syndrome which has had
+:clarke.freenode.net 372 neogrubbi :- since 1988. Among his several dozens novels and collections
+:clarke.freenode.net 372 neogrubbi :- are 2001: A Space Odyssey, 2010, 2061, 3001 and The
+:clarke.freenode.net 372 neogrubbi :- Songs of Distant Earth. He is currently the Honorary Board
+:clarke.freenode.net 372 neogrubbi :- Chair of the Institute for Cooperation in Space.
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:clarke.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- By connecting to freenode you indicate that you have read 
+:clarke.freenode.net 372 neogrubbi :- and agree to adhere to our policies and procedures as per 
+:clarke.freenode.net 372 neogrubbi :- the website (http://freenode.net). We would like to remind 
+:clarke.freenode.net 372 neogrubbi :- you that unauthorized public logging of channels on the 
+:clarke.freenode.net 372 neogrubbi :- network is prohibited. Public channel logging should only 
+:clarke.freenode.net 372 neogrubbi :- take place where the channel owner(s) has requested this 
+:clarke.freenode.net 372 neogrubbi :- and users of the channel are all made aware (if you are 
+:clarke.freenode.net 372 neogrubbi :- publically logging your channel, you may wish to keep a 
+:clarke.freenode.net 372 neogrubbi :- notice in topic and perhaps as a on-join message).
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- By registering your nickname with Nickserv you agree that you 
+:clarke.freenode.net 372 neogrubbi :- are 13 years of age, or older. For more information about the 
+:clarke.freenode.net 372 neogrubbi :- Children's Online Privacy Protection Act please see their 
+:clarke.freenode.net 372 neogrubbi :- website at (http://www.coppa.org).
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:clarke.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:clarke.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:clarke.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:clarke.freenode.net 372 neogrubbi :- the network!
+:clarke.freenode.net 372 neogrubbi :- 
+:clarke.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:clarke.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:clarke.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:clarke.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:clarke.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:clarke.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:clarke.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:clarke.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:clarke.freenode.net 353 neogrubbi = #grubbN :neogrubbi FutureBot +FuturePilot +bhb scaredpoet +nathangrubb +ajmorris +NullHead|AFK @ChanServ xhhux +dn_desaku 
+:clarke.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Error: You don't have the #grubbN,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+:clarke.freenode.net 328 neogrubbi #grubbn :http://grubbn.com
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:niven.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:niven.freenode.net 002 neogrubbi :Your host is niven.freenode.net[niven.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is niven.freenode.net[niven.freenode.net/6667], running version hyperion-1.0.2b
+:niven.freenode.net 003 neogrubbi :This server was created Sat May 19 03:08:31 UTC 2007
+:niven.freenode.net 004 neogrubbi niven.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:niven.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:niven.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:niven.freenode.net 251 neogrubbi :There are 19921 listed and 18581 unlisted users on 30 servers
+:niven.freenode.net 252 neogrubbi 37 :flagged staff members
+:niven.freenode.net 254 neogrubbi 20801 :channels formed
+:niven.freenode.net 255 neogrubbi :I have 2000 clients and 0 servers
+:niven.freenode.net 265 neogrubbi :Current local  users: 2000  Max: 4027
+:niven.freenode.net 266 neogrubbi :Current global users: 38502  Max: 49086
+:niven.freenode.net 250 neogrubbi :Highest connection count: 4029 (4027 clients) (520588 since server was (re)started)
+:niven.freenode.net 375 neogrubbi :- niven.freenode.net Message of the Day - 
+:niven.freenode.net 372 neogrubbi :- niven.freenode.net Message of the Day - 
+:niven.freenode.net 372 neogrubbi :- Welcome to niven.freenode.net in Corvallis, Oregon, USA! Thanks to 
+:niven.freenode.net 372 neogrubbi :- Oregon State University for sponsoring this server!
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+:niven.freenode.net 372 neogrubbi :- the setting of Protector, World of Ptaavs and the
+:niven.freenode.net 372 neogrubbi :- Ringworld series.  Author of "Flash Crowd", a canonical
+:niven.freenode.net 372 neogrubbi :- sociological hard science fiction short story dealing with
+:niven.freenode.net 372 neogrubbi :- effects of near instantaneous transportation on a modern
+:niven.freenode.net 372 neogrubbi :- technological society.  In addition, he is well known for his
+:niven.freenode.net 372 neogrubbi :- collaborations with Jerry Pournelle, including The Mote in
+:niven.freenode.net 372 neogrubbi :- God's Eye and Lucifer's Hammer.
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:niven.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- By connecting to freenode you indicate that you have read 
+:niven.freenode.net 372 neogrubbi :- and agree to adhere to our policies and procedures as per 
+:niven.freenode.net 372 neogrubbi :- the website (http://freenode.net). We would like to remind 
+:niven.freenode.net 372 neogrubbi :- you that unauthorized public logging of channels on the 
+:niven.freenode.net 372 neogrubbi :- network is prohibited. Public channel logging should only 
+:niven.freenode.net 372 neogrubbi :- take place where the channel owner(s) has requested this 
+:niven.freenode.net 372 neogrubbi :- and users of the channel are all made aware (if you are 
+:niven.freenode.net 372 neogrubbi :- publically logging your channel, you may wish to keep a 
+:niven.freenode.net 372 neogrubbi :- notice in topic and perhaps as a on-join message).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- By registering your nickname with Nickserv you agree that you 
+:niven.freenode.net 372 neogrubbi :- are 13 years of age, or older. For more information about the 
+:niven.freenode.net 372 neogrubbi :- Children's Online Privacy Protection Act please see their 
+:niven.freenode.net 372 neogrubbi :- website at (http://www.coppa.org).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:niven.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:niven.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:niven.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:niven.freenode.net 372 neogrubbi :- the network!
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:niven.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:niven.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:niven.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:niven.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:niven.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:niven.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:niven.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:niven.freenode.net 353 neogrubbi = #grubbN :neogrubbi FutureBot +FuturePilot +bhb scaredpoet +nathangrubb +ajmorris +NullHead|AFK @ChanServ xhhux +dn_desaku 
+:niven.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:niven.freenode.net 328 neogrubbi #grubbn :http://grubbn.com
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:niven.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:niven.freenode.net 002 neogrubbi :Your host is niven.freenode.net[niven.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is niven.freenode.net[niven.freenode.net/6667], running version hyperion-1.0.2b
+:niven.freenode.net 003 neogrubbi :This server was created Sat May 19 03:08:31 UTC 2007
+:niven.freenode.net 004 neogrubbi niven.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:niven.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:niven.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:niven.freenode.net 251 neogrubbi :There are 19939 listed and 18589 unlisted users on 30 servers
+:niven.freenode.net 252 neogrubbi 37 :flagged staff members
+:niven.freenode.net 254 neogrubbi 20803 :channels formed
+:niven.freenode.net 255 neogrubbi :I have 1998 clients and 0 servers
+:niven.freenode.net 265 neogrubbi :Current local  users: 1998  Max: 4027
+:niven.freenode.net 266 neogrubbi :Current global users: 38528  Max: 49086
+:niven.freenode.net 250 neogrubbi :Highest connection count: 4029 (4027 clients) (520590 since server was (re)started)
+:niven.freenode.net 375 neogrubbi :- niven.freenode.net Message of the Day - 
+:niven.freenode.net 372 neogrubbi :- niven.freenode.net Message of the Day - 
+:niven.freenode.net 372 neogrubbi :- Welcome to niven.freenode.net in Corvallis, Oregon, USA! Thanks to 
+:niven.freenode.net 372 neogrubbi :- Oregon State University for sponsoring this server!
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+:niven.freenode.net 372 neogrubbi :- the setting of Protector, World of Ptaavs and the
+:niven.freenode.net 372 neogrubbi :- Ringworld series.  Author of "Flash Crowd", a canonical
+:niven.freenode.net 372 neogrubbi :- sociological hard science fiction short story dealing with
+:niven.freenode.net 372 neogrubbi :- effects of near instantaneous transportation on a modern
+:niven.freenode.net 372 neogrubbi :- technological society.  In addition, he is well known for his
+:niven.freenode.net 372 neogrubbi :- collaborations with Jerry Pournelle, including The Mote in
+:niven.freenode.net 372 neogrubbi :- God's Eye and Lucifer's Hammer.
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:niven.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- By connecting to freenode you indicate that you have read 
+:niven.freenode.net 372 neogrubbi :- and agree to adhere to our policies and procedures as per 
+:niven.freenode.net 372 neogrubbi :- the website (http://freenode.net). We would like to remind 
+:niven.freenode.net 372 neogrubbi :- you that unauthorized public logging of channels on the 
+:niven.freenode.net 372 neogrubbi :- network is prohibited. Public channel logging should only 
+:niven.freenode.net 372 neogrubbi :- take place where the channel owner(s) has requested this 
+:niven.freenode.net 372 neogrubbi :- and users of the channel are all made aware (if you are 
+:niven.freenode.net 372 neogrubbi :- publically logging your channel, you may wish to keep a 
+:niven.freenode.net 372 neogrubbi :- notice in topic and perhaps as a on-join message).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- By registering your nickname with Nickserv you agree that you 
+:niven.freenode.net 372 neogrubbi :- are 13 years of age, or older. For more information about the 
+:niven.freenode.net 372 neogrubbi :- Children's Online Privacy Protection Act please see their 
+:niven.freenode.net 372 neogrubbi :- website at (http://www.coppa.org).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:niven.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:niven.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:niven.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:niven.freenode.net 372 neogrubbi :- the network!
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:niven.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:niven.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:niven.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:niven.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:niven.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:niven.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:niven.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:niven.freenode.net 353 neogrubbi = #grubbN :neogrubbi FutureBot +FuturePilot +bhb scaredpoet +nathangrubb +ajmorris +NullHead|AFK @ChanServ xhhux +dn_desaku 
+:niven.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:niven.freenode.net 477 neogrubbi #grubbn :[freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup
+:niven.freenode.net 328 neogrubbi #grubbn :http://grubbn.com
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:niven.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:niven.freenode.net 002 neogrubbi :Your host is niven.freenode.net[niven.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is niven.freenode.net[niven.freenode.net/6667], running version hyperion-1.0.2b
+:niven.freenode.net 003 neogrubbi :This server was created Sat May 19 03:08:31 UTC 2007
+:niven.freenode.net 004 neogrubbi niven.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:niven.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:niven.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:niven.freenode.net 251 neogrubbi :There are 19922 listed and 18586 unlisted users on 30 servers
+:niven.freenode.net 252 neogrubbi 37 :flagged staff members
+:niven.freenode.net 254 neogrubbi 20803 :channels formed
+:niven.freenode.net 255 neogrubbi :I have 1998 clients and 0 servers
+:niven.freenode.net 265 neogrubbi :Current local  users: 1998  Max: 4027
+:niven.freenode.net 266 neogrubbi :Current global users: 38508  Max: 49086
+:niven.freenode.net 250 neogrubbi :Highest connection count: 4029 (4027 clients) (520594 since server was (re)started)
+:niven.freenode.net 375 neogrubbi :- niven.freenode.net Message of the Day - 
+:niven.freenode.net 372 neogrubbi :- niven.freenode.net Message of the Day - 
+:niven.freenode.net 372 neogrubbi :- Welcome to niven.freenode.net in Corvallis, Oregon, USA! Thanks to 
+:niven.freenode.net 372 neogrubbi :- Oregon State University for sponsoring this server!
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+:niven.freenode.net 372 neogrubbi :- the setting of Protector, World of Ptaavs and the
+:niven.freenode.net 372 neogrubbi :- Ringworld series.  Author of "Flash Crowd", a canonical
+:niven.freenode.net 372 neogrubbi :- sociological hard science fiction short story dealing with
+:niven.freenode.net 372 neogrubbi :- effects of near instantaneous transportation on a modern
+:niven.freenode.net 372 neogrubbi :- technological society.  In addition, he is well known for his
+:niven.freenode.net 372 neogrubbi :- collaborations with Jerry Pournelle, including The Mote in
+:niven.freenode.net 372 neogrubbi :- God's Eye and Lucifer's Hammer.
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:niven.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- By connecting to freenode you indicate that you have read 
+:niven.freenode.net 372 neogrubbi :- and agree to adhere to our policies and procedures as per 
+:niven.freenode.net 372 neogrubbi :- the website (http://freenode.net). We would like to remind 
+:niven.freenode.net 372 neogrubbi :- you that unauthorized public logging of channels on the 
+:niven.freenode.net 372 neogrubbi :- network is prohibited. Public channel logging should only 
+:niven.freenode.net 372 neogrubbi :- take place where the channel owner(s) has requested this 
+:niven.freenode.net 372 neogrubbi :- and users of the channel are all made aware (if you are 
+:niven.freenode.net 372 neogrubbi :- publically logging your channel, you may wish to keep a 
+:niven.freenode.net 372 neogrubbi :- notice in topic and perhaps as a on-join message).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- By registering your nickname with Nickserv you agree that you 
+:niven.freenode.net 372 neogrubbi :- are 13 years of age, or older. For more information about the 
+:niven.freenode.net 372 neogrubbi :- Children's Online Privacy Protection Act please see their 
+:niven.freenode.net 372 neogrubbi :- website at (http://www.coppa.org).
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:niven.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:niven.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:niven.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:niven.freenode.net 372 neogrubbi :- the network!
+:niven.freenode.net 372 neogrubbi :- 
+:niven.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:niven.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:niven.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:niven.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:niven.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:niven.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:niven.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:niven.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:niven.freenode.net 353 neogrubbi = #grubbN :neogrubbi FutureBot +FuturePilot +bhb scaredpoet +nathangrubb +ajmorris +NullHead|AFK @ChanServ xhhux +dn_desaku 
+:niven.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:niven.freenode.net 477 neogrubbi #grubbn :[freenode-info] help freenode weed out clonebots, please register your IRC nick and auto-identify: http://freenode.net/faq.shtml#nicksetup
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:calvino.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:calvino.freenode.net 002 neogrubbi :Your host is calvino.freenode.net[calvino.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is calvino.freenode.net[calvino.freenode.net/6667], running version hyperion-1.0.2b
+:calvino.freenode.net 003 neogrubbi :This server was created Fri May  4 22:15:15 UTC 2007
+:calvino.freenode.net 004 neogrubbi calvino.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:calvino.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:calvino.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:calvino.freenode.net 251 neogrubbi :There are 19929 listed and 18571 unlisted users on 30 servers
+:calvino.freenode.net 252 neogrubbi 37 :flagged staff members
+:calvino.freenode.net 254 neogrubbi 20799 :channels formed
+:calvino.freenode.net 255 neogrubbi :I have 2825 clients and 0 servers
+:calvino.freenode.net 265 neogrubbi :Current local  users: 2825  Max: 3536
+:calvino.freenode.net 266 neogrubbi :Current global users: 38500  Max: 49086
+:calvino.freenode.net 250 neogrubbi :Highest connection count: 3538 (3536 clients) (492880 since server was (re)started)
+:calvino.freenode.net 375 neogrubbi :- calvino.freenode.net Message of the Day - 
+:calvino.freenode.net 372 neogrubbi :- Welcome to calvino.freenode.net in Milan, Italy!  Thanks to
+:calvino.freenode.net 372 neogrubbi :- I.Net S.p.A. (http://www.inet.it/) for sponsoring this
+:calvino.freenode.net 372 neogrubbi :- server!
+:calvino.freenode.net 372 neogrubbi :- 
+:calvino.freenode.net 372 neogrubbi :- CALVINO, ITALO [1923-1985].  Born in Cuba, Italo Calvino grew
+:calvino.freenode.net 372 neogrubbi :- up in San Remo, Italy.  During World War II, he joined the
+:calvino.freenode.net 372 neogrubbi :- partisans during the German occupation and, after writing a
+:calvino.freenode.net 372 neogrubbi :- series of stories which drew on his experiences, he became a
+:calvino.freenode.net 372 neogrubbi :- journalist. His work included Mr. Palomar, Under the
+:calvino.freenode.net 372 neogrubbi :- Jaguar Sun, Cosmicomics and t zero.  Calvino made
+:calvino.freenode.net 372 neogrubbi :- important contributions to Italian literature in the middle
+:calvino.freenode.net 372 neogrubbi :- of the last century.
+:calvino.freenode.net 372 neogrubbi :- 
+:calvino.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:calvino.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:calvino.freenode.net 372 neogrubbi :- 
+:calvino.freenode.net 372 neogrubbi :- By connecting to freenode you indicate that you have read
+:calvino.freenode.net 372 neogrubbi :- and agree to adhere to our policies and procedures as per
+:calvino.freenode.net 372 neogrubbi :- the website (http://freenode.net). We would like to remind
+:calvino.freenode.net 372 neogrubbi :- you that unauthorized public logging of channels on the
+:calvino.freenode.net 372 neogrubbi :- network is prohibited. Public channel logging should only
+:calvino.freenode.net 372 neogrubbi :- take place where the channel owner(s) has requested this
+:calvino.freenode.net 372 neogrubbi :- and users of the channel are all made aware (if you are
+:calvino.freenode.net 372 neogrubbi :- publically logging your channel, you may wish to keep a
+:calvino.freenode.net 372 neogrubbi :- notice in topic and perhaps as a on-join message).
+:calvino.freenode.net 372 neogrubbi :- 
+:calvino.freenode.net 372 neogrubbi :- By registering your nickname with Nickserv you agree that you
+:calvino.freenode.net 372 neogrubbi :- are 13 years of age, or older. For more information about the
+:calvino.freenode.net 372 neogrubbi :- Children's Online Privacy Protection Act please see their
+:calvino.freenode.net 372 neogrubbi :- website at (http://www.coppa.org).
+:calvino.freenode.net 372 neogrubbi :- 
+:calvino.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:calvino.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:calvino.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:calvino.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:calvino.freenode.net 372 neogrubbi :- the network!
+:calvino.freenode.net 372 neogrubbi :- 
+:calvino.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:calvino.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:calvino.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:calvino.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:calvino.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:calvino.freenode.net 372 neogrubbi :- 
+:calvino.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:calvino.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:calvino.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:calvino.freenode.net 353 neogrubbi = #grubbN :neogrubbi FutureBot +FuturePilot +bhb scaredpoet +nathangrubb +ajmorris +NullHead|AFK +dn_desaku xhhux @ChanServ 
+:calvino.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:calvino.freenode.net 328 neogrubbi #grubbn :http://grubbn.com
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~kick
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :ok
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick myself
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :there we go
+:calvino.freenode.net 482 neogrubbi #grubbN :You need to be a channel operator to do that
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :YAY
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :it tries
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :!cras
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I don't know anything about cras
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :he ignores you
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I don't know anything about noes
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :!nose
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:anthony.freenode.net 001 neogrubbi :Welcome to the freenode IRC Network neogrubbi
+:anthony.freenode.net 002 neogrubbi :Your host is anthony.freenode.net[anthony.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neogrubbi :*** Your host is anthony.freenode.net[anthony.freenode.net/6667], running version hyperion-1.0.2b
+:anthony.freenode.net 003 neogrubbi :This server was created Fri May  4 22:10:43 UTC 2007
+:anthony.freenode.net 004 neogrubbi anthony.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:anthony.freenode.net 005 neogrubbi IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:anthony.freenode.net 005 neogrubbi SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:anthony.freenode.net 251 neogrubbi :There are 19924 listed and 18554 unlisted users on 30 servers
+:anthony.freenode.net 252 neogrubbi 37 :flagged staff members
+:anthony.freenode.net 254 neogrubbi 20797 :channels formed
+:anthony.freenode.net 255 neogrubbi :I have 3195 clients and 0 servers
+:anthony.freenode.net 265 neogrubbi :Current local  users: 3195  Max: 5625
+:anthony.freenode.net 266 neogrubbi :Current global users: 38478  Max: 49086
+:anthony.freenode.net 250 neogrubbi :Highest connection count: 5626 (5625 clients) (1053606 since server was (re)started)
+:anthony.freenode.net 375 neogrubbi :- anthony.freenode.net Message of the Day - 
+:anthony.freenode.net 372 neogrubbi :- Welcome to anthony.freenode.net in Irvine, CA, USA!  Thanks to
+:anthony.freenode.net 372 neogrubbi :- Network Data Center Host, Inc. (www.ndchost.com) for sponsoring
+:anthony.freenode.net 372 neogrubbi :- this server!
+:anthony.freenode.net 372 neogrubbi :- 
+:anthony.freenode.net 372 neogrubbi :- ANTHONY, PIERS [1934-].  Author of many novels and short
+:anthony.freenode.net 372 neogrubbi :- stories, including his most famous Xanth series. A few of
+:anthony.freenode.net 372 neogrubbi :- his works have made it to the New York Times Best Seller
+:anthony.freenode.net 372 neogrubbi :- list, and he is widely regarded as one of the most well-known
+:anthony.freenode.net 372 neogrubbi :- science fiction/fantasy authors ever.
+:anthony.freenode.net 372 neogrubbi :- 
+:anthony.freenode.net 372 neogrubbi :- You're using freenode, a service of Peer-Directed Projects
+:anthony.freenode.net 372 neogrubbi :- Center (http://freenode.net/pdpc.shtml).
+:anthony.freenode.net 372 neogrubbi :- 
+:anthony.freenode.net 372 neogrubbi :- By connecting to freenode you indicate that you have read 
+:anthony.freenode.net 372 neogrubbi :- and agree to adhere to our policies and procedures as per 
+:anthony.freenode.net 372 neogrubbi :- the website (http://freenode.net). We would like to remind 
+:anthony.freenode.net 372 neogrubbi :- you that unauthorized public logging of channels on the 
+:anthony.freenode.net 372 neogrubbi :- network is prohibited. Public channel logging should only 
+:anthony.freenode.net 372 neogrubbi :- take place where the channel owner(s) has requested this 
+:anthony.freenode.net 372 neogrubbi :- and users of the channel are all made aware (if you are 
+:anthony.freenode.net 372 neogrubbi :- publically logging your channel, you may wish to keep a 
+:anthony.freenode.net 372 neogrubbi :- notice in topic and perhaps as a on-join message).
+:anthony.freenode.net 372 neogrubbi :- 
+:anthony.freenode.net 372 neogrubbi :- By registering your nickname with Nickserv you agree that you 
+:anthony.freenode.net 372 neogrubbi :- are 13 years of age, or older. For more information about the 
+:anthony.freenode.net 372 neogrubbi :- Children's Online Privacy Protection Act please see their 
+:anthony.freenode.net 372 neogrubbi :- website at (http://www.coppa.org).
+:anthony.freenode.net 372 neogrubbi :- 
+:anthony.freenode.net 372 neogrubbi :- freenode runs an open proxy scanner. Your use of the network
+:anthony.freenode.net 372 neogrubbi :- indicates your acceptance of this policy. For details on
+:anthony.freenode.net 372 neogrubbi :- freenode network policy, please take a look at our policy
+:anthony.freenode.net 372 neogrubbi :- page (http://freenode.net/policy.shtml). Thank you for using
+:anthony.freenode.net 372 neogrubbi :- the network!
+:anthony.freenode.net 372 neogrubbi :- 
+:anthony.freenode.net 372 neogrubbi :- freenode is a service of Peer-Directed Projects Center, an
+:anthony.freenode.net 372 neogrubbi :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:anthony.freenode.net 372 neogrubbi :- fundraiser will begin soon; if you'd like to donate early,
+:anthony.freenode.net 372 neogrubbi :- please see http://freenode.net/pdpc_donations.shtml for more
+:anthony.freenode.net 372 neogrubbi :- information.  Thank you for using freenode!
+:anthony.freenode.net 376 neogrubbi :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neogrubbi :VERSION
+:neogrubbi!n=neogrubb@75.128.40.22 JOIN :#grubbn
+:anthony.freenode.net 332 neogrubbi #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or !
+:anthony.freenode.net 333 neogrubbi #grubbn grubbot 1214265324
+:anthony.freenode.net 353 neogrubbi = #grubbN :neogrubbi FutureBot +FuturePilot +bhb scaredpoet +nathangrubb +ajmorris @ChanServ xhhux +dn_desaku +NullHead|AFK 
+:anthony.freenode.net 366 neogrubbi #grubbn :End of /NAMES list.
+:anthony.freenode.net 328 neogrubbi #grubbn :http://grubbn.com
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :=kick
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick nathangrubb
+:anthony.freenode.net 482 neogrubbi #grubbN :You need to be a channel operator to do that
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :dude
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com QUIT :Client Quit
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :thta was too easy to fix
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com JOIN :#grubbn
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!spoon
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Mah spoon is too big!
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net JOIN :#grubbn
+:ChanServ!ChanServ@services. MODE #grubbN +o grubbot 
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~kick futurebot
+:anthony.freenode.net 482 neogrubbi #grubbN :You need to be a channel operator to do that
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :Repeat that one again?
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN :I feel fat, AND sassy!
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :o_0
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~ban grubbot
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net MODE #grubbN +b grubbot*!*@*.* 
+:grubbot!n=nathangr@207-118-124-211.dyn.centurytel.net KICK #grubbN grubbot :Youre_banned
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN ::D
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :FUC:|
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :NOES
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN :it worked. too well :D
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :I fixed it
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN :what was wrong?
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :a simple error
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :as usual
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :and I was tearing my hair out
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :thinking the bot was fucked
+:bhb!n=bhb@unaffiliated/ajmorris/bot/bhb PRIVMSG #grubbN :nathangrubb, Please do not swear in here. This is a family friendly channel.
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN :*nods*
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::|
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :crap
+:bhb!n=bhb@unaffiliated/ajmorris/bot/bhb PRIVMSG #grubbN :FuturePilot, Please do not swear in here. This is a family friendly channel.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::|
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :bitch
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :that doesn't count as swearing
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :apparently
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :man this is some fucked up shit
+:bhb!n=bhb@unaffiliated/ajmorris/bot/bhb PRIVMSG #grubbN :nathangrubb, Please do not swear in here. This is a family friendly channel.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :...
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :man this is crap
+:bhb!n=bhb@unaffiliated/ajmorris/bot/bhb PRIVMSG #grubbN :FuturePilot, Please do not swear in here. This is a family friendly channel.
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :fuck yourself
+:bhb!n=bhb@unaffiliated/ajmorris/bot/bhb PRIVMSG #grubbN :nathangrubb, Please do not swear in here. This is a family friendly channel.
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :HEY
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :I'm the one that decides that
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+PING :anthony.freenode.net
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :remember when you accidentally banned bhb?
+:scaredpoet!n=scaredpo@pool-72-88-183-112.nwrknj.east.verizon.net PRIVMSG #grubbN :ACTION smirks
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :fuck you
+:bhb!n=bhb@unaffiliated/ajmorris/bot/bhb PRIVMSG #grubbN :nathangrubb, Please do not swear in here. This is a family friendly channel.
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :~quit
+:dn_desaku!n=Miranda@75.128.40.22 PRIVMSG #grubbN :dammit nathan
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-124-211.dyn.centurytel.net PRIVMSG #grubbN :~quit exit

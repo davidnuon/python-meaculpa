@@ -1,0 +1,1595 @@
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:brown.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:brown.freenode.net 002 neodesabot :Your host is brown.freenode.net[brown.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is brown.freenode.net[brown.freenode.net/6667], running version hyperion-1.0.2b
+:brown.freenode.net 003 neodesabot :This server was created Sat May 19 03:04:27 UTC 2007
+:brown.freenode.net 004 neodesabot brown.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:brown.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:brown.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:brown.freenode.net 251 neodesabot :There are 19555 listed and 18506 unlisted users on 30 servers
+:brown.freenode.net 252 neodesabot 37 :flagged staff members
+:brown.freenode.net 254 neodesabot 20970 :channels formed
+:brown.freenode.net 255 neodesabot :I have 2906 clients and 0 servers
+:brown.freenode.net 265 neodesabot :Current local  users: 2906  Max: 4116
+:brown.freenode.net 266 neodesabot :Current global users: 38061  Max: 49086
+:brown.freenode.net 250 neodesabot :Highest connection count: 4117 (4116 clients) (574764 since server was (re)started)
+:brown.freenode.net 375 neodesabot :- brown.freenode.net Message of the Day - 
+:brown.freenode.net 372 neodesabot :- brown.freenode.net Message of the Day -
+:brown.freenode.net 372 neodesabot :- Welcome to brown.freenode.net in Madison, WI, USA! Thanks to 
+:brown.freenode.net 372 neodesabot :- TDS Telecom (www.tds.net) for sponsoring this server!
+:brown.freenode.net 372 neodesabot :- 
+:brown.freenode.net 372 neodesabot :- BROWN, DAN [1964-]. Born in New Hampshire, USA, the son of a
+:brown.freenode.net 372 neodesabot :- math teacher at Phillips Exeter Academy, he studied at
+:brown.freenode.net 372 neodesabot :- Amherst College and later returned to teach English there.
+:brown.freenode.net 372 neodesabot :- His works include Digital Fortress, Angels and Demons and
+:brown.freenode.net 372 neodesabot :- the number one bestseller The Da Vinci Code. He is
+:brown.freenode.net 372 neodesabot :- currently living in New England with his wife, Blythe, an art
+:brown.freenode.net 372 neodesabot :- historian and painter who helped him write The Da Vinci
+:brown.freenode.net 372 neodesabot :- Code.
+:brown.freenode.net 372 neodesabot :- 
+:brown.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:brown.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:brown.freenode.net 372 neodesabot :- 
+:brown.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:brown.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:brown.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:brown.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:brown.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:brown.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:brown.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:brown.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:brown.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:brown.freenode.net 372 neodesabot :- 
+:brown.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:brown.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:brown.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:brown.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:brown.freenode.net 372 neodesabot :- 
+:brown.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:brown.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:brown.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:brown.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:brown.freenode.net 372 neodesabot :- the network!
+:brown.freenode.net 372 neodesabot :- 
+:brown.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:brown.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:brown.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:brown.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:brown.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:brown.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:brown.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:brown.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 PRIVMSG neodesabot :What the hell are you talking about freenode-connect?
+:brown.freenode.net 412 neodesabot :No text to send
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :dd
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:heinlein.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:heinlein.freenode.net 002 neodesabot :Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is heinlein.freenode.net[jobe.wgops.com/6667], running version hyperion-1.0.2b
+:heinlein.freenode.net 003 neodesabot :This server was created Fri May  4 21:54:04 UTC 2007
+:heinlein.freenode.net 004 neodesabot heinlein.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:heinlein.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:heinlein.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:heinlein.freenode.net 251 neodesabot :There are 19547 listed and 18493 unlisted users on 30 servers
+:heinlein.freenode.net 252 neodesabot 37 :flagged staff members
+:heinlein.freenode.net 254 neodesabot 20968 :channels formed
+:heinlein.freenode.net 255 neodesabot :I have 3643 clients and 0 servers
+:heinlein.freenode.net 265 neodesabot :Current local  users: 3643  Max: 4862
+:heinlein.freenode.net 266 neodesabot :Current global users: 38040  Max: 47562
+:heinlein.freenode.net 250 neodesabot :Highest connection count: 4863 (4862 clients) (165075 since server was (re)started)
+:heinlein.freenode.net 375 neodesabot :- heinlein.freenode.net Message of the Day - 
+:heinlein.freenode.net 372 neodesabot :- Welcome to heinlein.freenode.net in Missoula, Montana, US.
+:heinlein.freenode.net 372 neodesabot :- Thanks to Michael Loftis and Modwest, Inc.
+:heinlein.freenode.net 372 neodesabot :- (http://modwest.com/) for providing this server!
+:heinlein.freenode.net 372 neodesabot :- 
+:heinlein.freenode.net 372 neodesabot :- HEINLEIN, ROBERT ANSON [1907-1988], author of "Starship
+:heinlein.freenode.net 372 neodesabot :- Troopers", "Stranger in a Strange Land", and many other
+:heinlein.freenode.net 372 neodesabot :- works, was one of the most popular, influential, and
+:heinlein.freenode.net 372 neodesabot :- controversial authors of "hard" science fiction, setting a
+:heinlein.freenode.net 372 neodesabot :- high standard for science and engineering plausibility that
+:heinlein.freenode.net 372 neodesabot :- few have equaled. His most prevalent theme is the practical
+:heinlein.freenode.net 372 neodesabot :- benefit of man's activities in space, and in fact a large
+:heinlein.freenode.net 372 neodesabot :- portion of his works were written long before Neil Armstrong
+:heinlein.freenode.net 372 neodesabot :- first set foot upon the Moon. Though he never ignored the
+:heinlein.freenode.net 372 neodesabot :- negative aspects of technological growth, he had a clear
+:heinlein.freenode.net 372 neodesabot :- vision of its importance to human progress and survival.
+:heinlein.freenode.net 372 neodesabot :- 
+:heinlein.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:heinlein.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:heinlein.freenode.net 372 neodesabot :- 
+:heinlein.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:heinlein.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:heinlein.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:heinlein.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:heinlein.freenode.net 372 neodesabot :- the network!
+:heinlein.freenode.net 372 neodesabot :- 
+:heinlein.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:heinlein.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:heinlein.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:heinlein.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:heinlein.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:heinlein.freenode.net 372 neodesabot :- 
+:heinlein.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:heinlein.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:heinlein.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:heinlein.freenode.net 477 neodesabot #desaku :[freenode-info] if you're at a conference and other people are having trouble connecting, please mention it to staff: http://freenode.net/faq.shtml#gettinghelp
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+Deck
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:verne.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:verne.freenode.net 002 neodesabot :Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+:verne.freenode.net 003 neodesabot :This server was created Thu Jun 12 14:59:19 UTC 2008
+:verne.freenode.net 004 neodesabot verne.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:verne.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:verne.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:verne.freenode.net 251 neodesabot :There are 19562 listed and 18503 unlisted users on 30 servers
+:verne.freenode.net 252 neodesabot 37 :flagged staff members
+:verne.freenode.net 254 neodesabot 20977 :channels formed
+:verne.freenode.net 255 neodesabot :I have 1871 clients and 0 servers
+:verne.freenode.net 265 neodesabot :Current local  users: 1871  Max: 2469
+:verne.freenode.net 266 neodesabot :Current global users: 38065  Max: 47562
+:verne.freenode.net 250 neodesabot :Highest connection count: 2471 (2469 clients) (80487 since server was (re)started)
+:verne.freenode.net 375 neodesabot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 neodesabot :- Welcome to verne.freenode.net in Newark, NJ, US.
+:verne.freenode.net 372 neodesabot :- Thanks to Choopa 'www.choopa.com' for providing this server!
+:verne.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:verne.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:verne.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:verne.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:verne.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:verne.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:verne.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:verne.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:verne.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:verne.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:verne.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:verne.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:verne.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:verne.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:verne.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:verne.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:verne.freenode.net 372 neodesabot :- the network!
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:verne.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:verne.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:verne.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:verne.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:verne.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:verne.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:verne.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 PRIVMSG neodesabot :What the hell are you talking about, freenode-connect?
+:verne.freenode.net 412 neodesabot :No text to send
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :d
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :dddd
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :ddddddddddddddddddddddddd
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :oh noes!
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:verne.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:verne.freenode.net 002 neodesabot :Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+:verne.freenode.net 003 neodesabot :This server was created Thu Jun 12 14:59:19 UTC 2008
+:verne.freenode.net 004 neodesabot verne.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:verne.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:verne.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:verne.freenode.net 251 neodesabot :There are 19557 listed and 18507 unlisted users on 30 servers
+:verne.freenode.net 252 neodesabot 37 :flagged staff members
+:verne.freenode.net 254 neodesabot 20978 :channels formed
+:verne.freenode.net 255 neodesabot :I have 1869 clients and 0 servers
+:verne.freenode.net 265 neodesabot :Current local  users: 1869  Max: 2469
+:verne.freenode.net 266 neodesabot :Current global users: 38064  Max: 47562
+:verne.freenode.net 250 neodesabot :Highest connection count: 2471 (2469 clients) (80490 since server was (re)started)
+:verne.freenode.net 375 neodesabot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 neodesabot :- Welcome to verne.freenode.net in Newark, NJ, US.
+:verne.freenode.net 372 neodesabot :- Thanks to Choopa 'www.choopa.com' for providing this server!
+:verne.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:verne.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:verne.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:verne.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:verne.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:verne.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:verne.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:verne.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:verne.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:verne.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:verne.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:verne.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:verne.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:verne.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:verne.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:verne.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:verne.freenode.net 372 neodesabot :- the network!
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:verne.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:verne.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:verne.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:verne.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:verne.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:verne.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:verne.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 PRIVMSG neodesabot :What the hell are you talking about, freenode-connect?
+:verne.freenode.net 412 neodesabot :No text to send
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :ceck draw
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :deck draw
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck drwa
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck draw
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck add
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:kornbluth.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:kornbluth.freenode.net 002 neodesabot :Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+:kornbluth.freenode.net 003 neodesabot :This server was created Fri Dec 22 00:08:18 UTC 2006
+:kornbluth.freenode.net 004 neodesabot kornbluth.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:kornbluth.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:kornbluth.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:kornbluth.freenode.net 251 neodesabot :There are 19570 listed and 18507 unlisted users on 30 servers
+:kornbluth.freenode.net 252 neodesabot 37 :flagged staff members
+:kornbluth.freenode.net 253 neodesabot 5 :unknown connection(s)
+:kornbluth.freenode.net 254 neodesabot 20976 :channels formed
+:kornbluth.freenode.net 255 neodesabot :I have 4026 clients and 0 servers
+:kornbluth.freenode.net 265 neodesabot :Current local  users: 4026  Max: 5271
+:kornbluth.freenode.net 266 neodesabot :Current global users: 38077  Max: 49086
+:kornbluth.freenode.net 250 neodesabot :Highest connection count: 5272 (5271 clients) (453365 since server was (re)started)
+:kornbluth.freenode.net 375 neodesabot :- kornbluth.freenode.net Message of the Day - 
+:kornbluth.freenode.net 372 neodesabot :- kornbluth.freenode.net Message of the Day -
+:kornbluth.freenode.net 372 neodesabot :- Welcome to kornbluth.freenode.net in Frankfurt, Germany! Thanks to 
+:kornbluth.freenode.net 372 neodesabot :- Probe Networks (www.probe-networks.de) for sponsoring this server!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+:kornbluth.freenode.net 372 neodesabot :- an active member of the Futurians, Cyril Kornbluth sold his
+:kornbluth.freenode.net 372 neodesabot :- first story professionally at age 15.  By the 1940's his
+:kornbluth.freenode.net 372 neodesabot :- stories appeared widely under several pennames, including
+:kornbluth.freenode.net 372 neodesabot :- S.D. Gottesman and Cecil Corman.  He left his university
+:kornbluth.freenode.net 372 neodesabot :- studies in Chicago to serve in the Army in Europe during
+:kornbluth.freenode.net 372 neodesabot :- WWII, then returned to school and work in Chicago until he
+:kornbluth.freenode.net 372 neodesabot :- began writing full-time in 1951.  The author of The Marching
+:kornbluth.freenode.net 372 neodesabot :- Morons and the novels The Space Merchants (with Frederik
+:kornbluth.freenode.net 372 neodesabot :- Pohl) and The Syndic, he's best known for his biting social
+:kornbluth.freenode.net 372 neodesabot :- satire and his collaborations with Pohl and with Judith
+:kornbluth.freenode.net 372 neodesabot :- Merril.
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:kornbluth.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:kornbluth.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:kornbluth.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:kornbluth.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:kornbluth.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:kornbluth.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:kornbluth.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:kornbluth.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:kornbluth.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:kornbluth.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:kornbluth.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:kornbluth.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:kornbluth.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:kornbluth.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:kornbluth.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:kornbluth.freenode.net 372 neodesabot :- the network!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:kornbluth.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:kornbluth.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:kornbluth.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:kornbluth.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:kornbluth.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:kornbluth.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:kornbluth.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:kornbluth.freenode.net 477 neodesabot #desaku :[freenode-info] please register your nickname...don't forget to auto-identify! http://freenode.net/faq.shtml#nicksetup
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck draw
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+neo
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:kornbluth.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:kornbluth.freenode.net 002 neodesabot :Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+:kornbluth.freenode.net 003 neodesabot :This server was created Fri Dec 22 00:08:18 UTC 2006
+:kornbluth.freenode.net 004 neodesabot kornbluth.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:kornbluth.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:kornbluth.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:kornbluth.freenode.net 251 neodesabot :There are 19577 listed and 18507 unlisted users on 30 servers
+:kornbluth.freenode.net 252 neodesabot 37 :flagged staff members
+:kornbluth.freenode.net 254 neodesabot 20975 :channels formed
+:kornbluth.freenode.net 255 neodesabot :I have 4026 clients and 0 servers
+:kornbluth.freenode.net 265 neodesabot :Current local  users: 4026  Max: 5271
+:kornbluth.freenode.net 266 neodesabot :Current global users: 38084  Max: 49086
+:kornbluth.freenode.net 250 neodesabot :Highest connection count: 5272 (5271 clients) (453367 since server was (re)started)
+:kornbluth.freenode.net 375 neodesabot :- kornbluth.freenode.net Message of the Day - 
+:kornbluth.freenode.net 372 neodesabot :- kornbluth.freenode.net Message of the Day -
+:kornbluth.freenode.net 372 neodesabot :- Welcome to kornbluth.freenode.net in Frankfurt, Germany! Thanks to 
+:kornbluth.freenode.net 372 neodesabot :- Probe Networks (www.probe-networks.de) for sponsoring this server!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+:kornbluth.freenode.net 372 neodesabot :- an active member of the Futurians, Cyril Kornbluth sold his
+:kornbluth.freenode.net 372 neodesabot :- first story professionally at age 15.  By the 1940's his
+:kornbluth.freenode.net 372 neodesabot :- stories appeared widely under several pennames, including
+:kornbluth.freenode.net 372 neodesabot :- S.D. Gottesman and Cecil Corman.  He left his university
+:kornbluth.freenode.net 372 neodesabot :- studies in Chicago to serve in the Army in Europe during
+:kornbluth.freenode.net 372 neodesabot :- WWII, then returned to school and work in Chicago until he
+:kornbluth.freenode.net 372 neodesabot :- began writing full-time in 1951.  The author of The Marching
+:kornbluth.freenode.net 372 neodesabot :- Morons and the novels The Space Merchants (with Frederik
+:kornbluth.freenode.net 372 neodesabot :- Pohl) and The Syndic, he's best known for his biting social
+:kornbluth.freenode.net 372 neodesabot :- satire and his collaborations with Pohl and with Judith
+:kornbluth.freenode.net 372 neodesabot :- Merril.
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:kornbluth.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:kornbluth.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:kornbluth.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:kornbluth.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:kornbluth.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:kornbluth.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:kornbluth.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:kornbluth.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:kornbluth.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:kornbluth.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:kornbluth.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:kornbluth.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:kornbluth.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:kornbluth.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:kornbluth.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:kornbluth.freenode.net 372 neodesabot :- the network!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:kornbluth.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:kornbluth.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:kornbluth.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:kornbluth.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:kornbluth.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:kornbluth.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:kornbluth.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 PRIVMSG neodesabot :What the hell are you talking about, freenode-connect?
+:kornbluth.freenode.net 412 neodesabot :No text to send
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:kornbluth.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:kornbluth.freenode.net 002 neodesabot :Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+:kornbluth.freenode.net 003 neodesabot :This server was created Fri Dec 22 00:08:18 UTC 2006
+:kornbluth.freenode.net 004 neodesabot kornbluth.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:kornbluth.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:kornbluth.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:kornbluth.freenode.net 251 neodesabot :There are 19572 listed and 18507 unlisted users on 30 servers
+:kornbluth.freenode.net 252 neodesabot 37 :flagged staff members
+:kornbluth.freenode.net 254 neodesabot 20966 :channels formed
+:kornbluth.freenode.net 255 neodesabot :I have 4028 clients and 0 servers
+:kornbluth.freenode.net 265 neodesabot :Current local  users: 4028  Max: 5271
+:kornbluth.freenode.net 266 neodesabot :Current global users: 38079  Max: 49086
+:kornbluth.freenode.net 250 neodesabot :Highest connection count: 5272 (5271 clients) (453373 since server was (re)started)
+:kornbluth.freenode.net 375 neodesabot :- kornbluth.freenode.net Message of the Day - 
+:kornbluth.freenode.net 372 neodesabot :- kornbluth.freenode.net Message of the Day -
+:kornbluth.freenode.net 372 neodesabot :- Welcome to kornbluth.freenode.net in Frankfurt, Germany! Thanks to 
+:kornbluth.freenode.net 372 neodesabot :- Probe Networks (www.probe-networks.de) for sponsoring this server!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+:kornbluth.freenode.net 372 neodesabot :- an active member of the Futurians, Cyril Kornbluth sold his
+:kornbluth.freenode.net 372 neodesabot :- first story professionally at age 15.  By the 1940's his
+:kornbluth.freenode.net 372 neodesabot :- stories appeared widely under several pennames, including
+:kornbluth.freenode.net 372 neodesabot :- S.D. Gottesman and Cecil Corman.  He left his university
+:kornbluth.freenode.net 372 neodesabot :- studies in Chicago to serve in the Army in Europe during
+:kornbluth.freenode.net 372 neodesabot :- WWII, then returned to school and work in Chicago until he
+:kornbluth.freenode.net 372 neodesabot :- began writing full-time in 1951.  The author of The Marching
+:kornbluth.freenode.net 372 neodesabot :- Morons and the novels The Space Merchants (with Frederik
+:kornbluth.freenode.net 372 neodesabot :- Pohl) and The Syndic, he's best known for his biting social
+:kornbluth.freenode.net 372 neodesabot :- satire and his collaborations with Pohl and with Judith
+:kornbluth.freenode.net 372 neodesabot :- Merril.
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:kornbluth.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:kornbluth.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:kornbluth.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:kornbluth.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:kornbluth.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:kornbluth.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:kornbluth.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:kornbluth.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:kornbluth.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:kornbluth.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:kornbluth.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:kornbluth.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:kornbluth.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:kornbluth.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:kornbluth.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:kornbluth.freenode.net 372 neodesabot :- the network!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:kornbluth.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:kornbluth.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:kornbluth.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:kornbluth.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:kornbluth.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:kornbluth.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:kornbluth.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 PRIVMSG neodesabot :What the hell are you talking about, freenode-connect?
+:kornbluth.freenode.net 412 neodesabot :No text to send
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+deck draw
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+neo
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:kornbluth.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:kornbluth.freenode.net 002 neodesabot :Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+:kornbluth.freenode.net 003 neodesabot :This server was created Fri Dec 22 00:08:18 UTC 2006
+:kornbluth.freenode.net 004 neodesabot kornbluth.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:kornbluth.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:kornbluth.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:kornbluth.freenode.net 251 neodesabot :There are 19577 listed and 18499 unlisted users on 30 servers
+:kornbluth.freenode.net 252 neodesabot 37 :flagged staff members
+:kornbluth.freenode.net 254 neodesabot 20965 :channels formed
+:kornbluth.freenode.net 255 neodesabot :I have 4025 clients and 0 servers
+:kornbluth.freenode.net 265 neodesabot :Current local  users: 4025  Max: 5271
+:kornbluth.freenode.net 266 neodesabot :Current global users: 38076  Max: 49086
+:kornbluth.freenode.net 250 neodesabot :Highest connection count: 5272 (5271 clients) (453375 since server was (re)started)
+:kornbluth.freenode.net 375 neodesabot :- kornbluth.freenode.net Message of the Day - 
+:kornbluth.freenode.net 372 neodesabot :- kornbluth.freenode.net Message of the Day -
+:kornbluth.freenode.net 372 neodesabot :- Welcome to kornbluth.freenode.net in Frankfurt, Germany! Thanks to 
+:kornbluth.freenode.net 372 neodesabot :- Probe Networks (www.probe-networks.de) for sponsoring this server!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+:kornbluth.freenode.net 372 neodesabot :- an active member of the Futurians, Cyril Kornbluth sold his
+:kornbluth.freenode.net 372 neodesabot :- first story professionally at age 15.  By the 1940's his
+:kornbluth.freenode.net 372 neodesabot :- stories appeared widely under several pennames, including
+:kornbluth.freenode.net 372 neodesabot :- S.D. Gottesman and Cecil Corman.  He left his university
+:kornbluth.freenode.net 372 neodesabot :- studies in Chicago to serve in the Army in Europe during
+:kornbluth.freenode.net 372 neodesabot :- WWII, then returned to school and work in Chicago until he
+:kornbluth.freenode.net 372 neodesabot :- began writing full-time in 1951.  The author of The Marching
+:kornbluth.freenode.net 372 neodesabot :- Morons and the novels The Space Merchants (with Frederik
+:kornbluth.freenode.net 372 neodesabot :- Pohl) and The Syndic, he's best known for his biting social
+:kornbluth.freenode.net 372 neodesabot :- satire and his collaborations with Pohl and with Judith
+:kornbluth.freenode.net 372 neodesabot :- Merril.
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:kornbluth.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:kornbluth.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:kornbluth.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:kornbluth.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:kornbluth.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:kornbluth.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:kornbluth.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:kornbluth.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:kornbluth.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:kornbluth.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:kornbluth.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:kornbluth.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:kornbluth.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:kornbluth.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:kornbluth.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:kornbluth.freenode.net 372 neodesabot :- the network!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:kornbluth.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:kornbluth.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:kornbluth.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:kornbluth.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:kornbluth.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:kornbluth.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:kornbluth.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 PRIVMSG neodesabot :What the hell are you talking about, freenode-connect?
+:kornbluth.freenode.net 412 neodesabot :No text to send
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :wew
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:kornbluth.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:kornbluth.freenode.net 002 neodesabot :Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is kornbluth.freenode.net[freenode.freenode.net/6667], running version hyperion-1.0.2b
+:kornbluth.freenode.net 003 neodesabot :This server was created Fri Dec 22 00:08:18 UTC 2006
+:kornbluth.freenode.net 004 neodesabot kornbluth.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:kornbluth.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:kornbluth.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:kornbluth.freenode.net 251 neodesabot :There are 19576 listed and 18500 unlisted users on 30 servers
+:kornbluth.freenode.net 252 neodesabot 37 :flagged staff members
+:kornbluth.freenode.net 253 neodesabot 3 :unknown connection(s)
+:kornbluth.freenode.net 254 neodesabot 20965 :channels formed
+:kornbluth.freenode.net 255 neodesabot :I have 4025 clients and 0 servers
+:kornbluth.freenode.net 265 neodesabot :Current local  users: 4025  Max: 5271
+:kornbluth.freenode.net 266 neodesabot :Current global users: 38076  Max: 49086
+:kornbluth.freenode.net 250 neodesabot :Highest connection count: 5272 (5271 clients) (453377 since server was (re)started)
+:kornbluth.freenode.net 375 neodesabot :- kornbluth.freenode.net Message of the Day - 
+:kornbluth.freenode.net 372 neodesabot :- kornbluth.freenode.net Message of the Day -
+:kornbluth.freenode.net 372 neodesabot :- Welcome to kornbluth.freenode.net in Frankfurt, Germany! Thanks to 
+:kornbluth.freenode.net 372 neodesabot :- Probe Networks (www.probe-networks.de) for sponsoring this server!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+:kornbluth.freenode.net 372 neodesabot :- an active member of the Futurians, Cyril Kornbluth sold his
+:kornbluth.freenode.net 372 neodesabot :- first story professionally at age 15.  By the 1940's his
+:kornbluth.freenode.net 372 neodesabot :- stories appeared widely under several pennames, including
+:kornbluth.freenode.net 372 neodesabot :- S.D. Gottesman and Cecil Corman.  He left his university
+:kornbluth.freenode.net 372 neodesabot :- studies in Chicago to serve in the Army in Europe during
+:kornbluth.freenode.net 372 neodesabot :- WWII, then returned to school and work in Chicago until he
+:kornbluth.freenode.net 372 neodesabot :- began writing full-time in 1951.  The author of The Marching
+:kornbluth.freenode.net 372 neodesabot :- Morons and the novels The Space Merchants (with Frederik
+:kornbluth.freenode.net 372 neodesabot :- Pohl) and The Syndic, he's best known for his biting social
+:kornbluth.freenode.net 372 neodesabot :- satire and his collaborations with Pohl and with Judith
+:kornbluth.freenode.net 372 neodesabot :- Merril.
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:kornbluth.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:kornbluth.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:kornbluth.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:kornbluth.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:kornbluth.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:kornbluth.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:kornbluth.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:kornbluth.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:kornbluth.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:kornbluth.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:kornbluth.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:kornbluth.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:kornbluth.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:kornbluth.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:kornbluth.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:kornbluth.freenode.net 372 neodesabot :- the network!
+:kornbluth.freenode.net 372 neodesabot :- 
+:kornbluth.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:kornbluth.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:kornbluth.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:kornbluth.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:kornbluth.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:kornbluth.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:kornbluth.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:kornbluth.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :dd
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #desaku :yay
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:verne.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:verne.freenode.net 002 neodesabot :Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+:verne.freenode.net 003 neodesabot :This server was created Thu Jun 12 14:59:19 UTC 2008
+:verne.freenode.net 004 neodesabot verne.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:verne.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:verne.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:verne.freenode.net 251 neodesabot :There are 19578 listed and 18510 unlisted users on 30 servers
+:verne.freenode.net 252 neodesabot 37 :flagged staff members
+:verne.freenode.net 254 neodesabot 20971 :channels formed
+:verne.freenode.net 255 neodesabot :I have 1870 clients and 0 servers
+:verne.freenode.net 265 neodesabot :Current local  users: 1870  Max: 2469
+:verne.freenode.net 266 neodesabot :Current global users: 38088  Max: 47562
+:verne.freenode.net 250 neodesabot :Highest connection count: 2471 (2469 clients) (80525 since server was (re)started)
+:verne.freenode.net 375 neodesabot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 neodesabot :- Welcome to verne.freenode.net in Newark, NJ, US.
+:verne.freenode.net 372 neodesabot :- Thanks to Choopa 'www.choopa.com' for providing this server!
+:verne.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:verne.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:verne.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:verne.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:verne.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:verne.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:verne.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:verne.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:verne.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:verne.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:verne.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:verne.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:verne.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:verne.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:verne.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:verne.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:verne.freenode.net 372 neodesabot :- the network!
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:verne.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:verne.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:verne.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:verne.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:verne.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:verne.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:verne.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#grubbn
+:verne.freenode.net 332 neodesabot #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or ! | Trolls around and no ops? Use the "~help op" command to call them
+:verne.freenode.net 333 neodesabot #grubbn grubbot 1214519534
+:verne.freenode.net 353 neodesabot = #grubbN :neodesabot @edavidburg +FuturePilot FutureBot xhhux +nathangrubb +ajmorris desabot +dn_desaku @ChanServ 
+:verne.freenode.net 366 neodesabot #grubbn :End of /NAMES list.
+:verne.freenode.net 328 neodesabot #grubbn :http://grubbn.com
+:verne.freenode.net 477 neodesabot #grubbn :[freenode-info] if you need to send private messages, please register: http://freenode.net/faq.shtml#privmsg
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :stupid idiots in IRC guessing words
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :LOL
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :neodesaobt
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Okay, instead of Grea Britain, make that hint "The British Isles"
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :noodles
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :drinking
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :And sports related
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :ireland
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :drunk
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :and you can stalk me online and know about it.
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lepricons
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :rainbows
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :rape
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :gold
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :mine
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :luck charms
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :gold rape
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :LOL
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :*lucky charms
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :the teaching of mathematics in the uk
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :cerial
+:ajmorris1!n=ajmorris@220.253-196-88.VIC.netspace.net.au JOIN :#grubbn
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :calculus
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :milk
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :chewing
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :cow
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :utters
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :You guys suck.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :calculator
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :tea
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :so do u
+:ajmorris!n=ajmorris@unaffiliated/ajmorris QUIT :Read error: 104 (Connection reset by peer)
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :o_0
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :this game is addicting
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :yes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :no
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :maybe
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Where do you know me from besides ACC?
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :so
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Stalk me there.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ubuntu forums
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :UF
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :can go there :(
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ACTION goes to stalk
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :cant
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :at all?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :euro 08
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :now without a proxy
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :pound
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::(
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :not*
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :british
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :cocaine
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :bangers and mash
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :chicken
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :peas
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :chinese
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :accent
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :asian
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :david
+PING :verne.freenode.net
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :poor dental care
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Nathan, you of all people should be good at stalking me on UF
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I am stalking you
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I'm not finding anything good
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :You posted in the same thread that I'm referring to.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :handy
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :*finds all posts*
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :invisible
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :clear
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :omg pink ponies
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :It's in OMGPP, it won't show up in a seach.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :gah
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :DAMNIT
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lool?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :that just made it 500 x worse
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :ACTION is confused
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :yes
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :You guys fail.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :bubba64
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Football isn't soccer!
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :yes it is
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :why don't you cycle to work/school/college?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :that was a thread title
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Getting warmer, futurepilot.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :o_0
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :euro 08
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I already guessed football isn't soccer
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :3 times
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :you didnt' say anything
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :asshole
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :But I didn't have nearly as many clues out.
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Would have given it away.
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :I have to go soon.
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Just guess it already.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :well
+PING :verne.freenode.net
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :irish
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Warmer.
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :beer
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :how many damn pages is that thread
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :irish reject lisbon treaty
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Colder.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :damnit
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Remember, sports related.
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :cricket
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :euro 08
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :!!!!!
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :No.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :spain vs germany
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :British isles.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :britain sucks
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :You suck.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :youth walk free after gang attack on priest
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :I already told you it's an irish sport and what thread it's in, and you still don't have it.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :shit
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :hairy birds
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :No.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I haven't looked in any thread
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Oh oh oh ohohoh!
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Hurling
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :FUTUREPILOT FOR THE WIN!
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I hate you
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :YAY!
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :: )
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :~kick edavidburg
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :DAMN YOU GURBBOT
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :yay,
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :yay
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Now futurepilot gets to choose a word.
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :But I'm gonna go play Halo
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hey
+PING :verne.freenode.net
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :So fuck you all
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :you can't define my game
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :go fuck yourself
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Meh.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :futurepilot go choose a word
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I'm bad a picking stuff
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Byee, I might be on later.
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :bye edavidburg
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :do it anyways
+:edavidburg!n=edavidbu@65.78.183.232 QUIT :"Sleepy time."
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I'll let someone else pick
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :bye edavid
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :bye xhhux
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ok
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :me
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux pick something
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ok
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :yeah
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :ok
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN : hint:
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :actor/actress
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :adam sandler
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :no
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :well I know about nothing of hollywood
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :so I can't guess anythin
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :yeah
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :not super well known
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :me neither
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :jack bauer
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :chuck norris
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :no
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :no
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :close
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :o_0
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :j/k
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :futurepilot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :gah
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :grubbot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :FutureBot
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :futurebotis
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :no
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :desabot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :neodesabot
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :my hairy penis
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :you wish
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :it's ok to dream isn' t it/
+PING :verne.freenode.net
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :e**** p***
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ok
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :eminem penis
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :no
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :dipfuck
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :dipshit*
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :in that case
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION doesn't guess anything
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::|
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :well that was well thaugh out :|
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :thought*
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :huge Hint: i mentioned one of there movies on the acc
+PING :verne.freenode.net
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :... :|
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :that doesn't help when you have 250 posts
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::|
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :it's actually really obviouse
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I don't see how it is
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :guess
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I don't even know any actors that start with an e
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :edavidburg's penis
+PING :verne.freenode.net
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN ::|
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :you told me to guess
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :ok, annother hint, theres a fucking thread about it
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:verne.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:verne.freenode.net 002 neodesabot :Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is verne.freenode.net[verne.freenode.net/6667], running version hyperion-1.0.2b
+:verne.freenode.net 003 neodesabot :This server was created Thu Jun 12 14:59:19 UTC 2008
+:verne.freenode.net 004 neodesabot verne.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:verne.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:verne.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:verne.freenode.net 251 neodesabot :There are 20054 listed and 18551 unlisted users on 30 servers
+:verne.freenode.net 252 neodesabot 37 :flagged staff members
+:verne.freenode.net 254 neodesabot 21023 :channels formed
+:verne.freenode.net 255 neodesabot :I have 1908 clients and 0 servers
+:verne.freenode.net 265 neodesabot :Current local  users: 1908  Max: 2469
+:verne.freenode.net 266 neodesabot :Current global users: 38605  Max: 47562
+:verne.freenode.net 250 neodesabot :Highest connection count: 2471 (2469 clients) (80781 since server was (re)started)
+:verne.freenode.net 375 neodesabot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 neodesabot :- Welcome to verne.freenode.net in Newark, NJ, US.
+:verne.freenode.net 372 neodesabot :- Thanks to Choopa 'www.choopa.com' for providing this server!
+:verne.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:verne.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read 
+:verne.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per 
+:verne.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind 
+:verne.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the 
+:verne.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only 
+:verne.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this 
+:verne.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are 
+:verne.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a 
+:verne.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you 
+:verne.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the 
+:verne.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their 
+:verne.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:verne.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:verne.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:verne.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:verne.freenode.net 372 neodesabot :- the network!
+:verne.freenode.net 372 neodesabot :- 
+:verne.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:verne.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:verne.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:verne.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:verne.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:verne.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:verne.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:verne.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#grubbn
+:verne.freenode.net 332 neodesabot #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or ! | Trolls around and no ops? Use the "~help op" command to call them
+:verne.freenode.net 333 neodesabot #grubbn grubbot 1214519534
+:verne.freenode.net 353 neodesabot = #grubbN :neodesabot ajmorris1 +FuturePilot FutureBot xhhux +nathangrubb desabot +dn_desaku @ChanServ 
+:verne.freenode.net 366 neodesabot #grubbn :End of /NAMES list.
+:verne.freenode.net 328 neodesabot #grubbn :http://grubbn.com
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+deck add
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+deck draw
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+deck cont
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+deck reload
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :where's The Raper?
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :the fly???
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :mmmm
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :banana
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hmm
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :where is the raper
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :=The Fly
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :xhhux I have no idea what you're talking about
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+deck reload
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+deck show
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+deck draw
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :crap
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :=Fly
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :xhhux I have no idea what you're talking about
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yay
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :god replied to the religious thread
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :+Fly
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN ::O
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+dd
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :hmm
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lol
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :bastard
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :=punish
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :Yes master, I will accept my punishment
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :~kixck mset
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :=kick
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :nathangrubb I have no idea what you're talking about
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :=kick me
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :nathangrubb I have no idea what you're talking about
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :kick me
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :=kick desabot
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :nathangrubb I have no idea what you're talking about
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+kick desabot
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :damn you neodesabot
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+kick
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+crash
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+saw nathangrubb
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :Mine is way bigger than yours  neodesabot
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :=saw nathangrubb
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :It will be my pleasure to chainsaw nathangrubb for you dn_desaku.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+neo
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :the lag time is going up
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :it says
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lag time
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :1.9 seconds
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :Oo
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :damn thats high
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+poll
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yay
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :normal now
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lag time
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :0.2
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :second
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN ::|
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :s
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :+
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+poll yes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lool
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :that's funny
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+poll set Do you think David is crazy?
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+poll info
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+poll voters
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+poll yes
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+poll no
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :+poll yes
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :+poll yesno
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :+poll no
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+poll call
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com NICK :testing
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :+poll info
+:testing!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :+poll yes
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net NICK :futurepilot
+:futurepilot!n=nathan@207-118-107-75.dyn.centurytel.net NICK :FuturePilot
+:FuturePilot!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :snooze you lose
+:testing!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :hay
+:dn_desaku!n=Miranda@75.142.107.149 NICK :nathangrubb
+:nathangrubb!n=Miranda@75.142.107.149 QUIT :Nick collision from services.
+:testing!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com NICK :Guest83205
+:Guest83205!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :wtf
+:FuturePilot!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yay for the power of ghosting
+:Guest83205!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :o_0
+:dn_desaku!n=Miranda@75.142.107.149 JOIN :#desaku
+:dn_desaku!n=Miranda@75.142.107.149 JOIN :#grubbn
+:ChanServ!ChanServ@services. MODE #grubbN +v dn_desaku 
+:FuturePilot!n=nathan@207-118-107-75.dyn.centurytel.net NICK :david_nuon
+:Guest83205!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com NICK :FuturePilot
+:dn_desaku!n=Miranda@75.142.107.149 NICK :haizen
+:david_nuon!n=nathan@207-118-107-75.dyn.centurytel.net NICK :dn_desaku1
+:dn_desaku1!n=nathan@207-118-107-75.dyn.centurytel.net NICK :nathangrubb
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :tester is apparently registered
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::|
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lol
+:haizen!n=Miranda@75.142.107.149 NICK :dn_desaku
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :wtf why are there crazy nicks registered?
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :dunno :P
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Potatoes?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :tester?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it tester is apparently registered, FuturePilot
+:dn_desaku!n=Miranda@75.142.107.149 NICK :theasianmaningru
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :dude
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :god is humorous
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :http://grubbn.com/fluxbb/viewtopic.php?pid=2347#p2347
+:theasianmaningru!n=Miranda@75.142.107.149 NICK :dn_desaku
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :dude
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :wtf is FutureBot talking about?
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :tester?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I guess tester is apparently registered, FuturePilot
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :nathangrubb?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :It has been said that nathangrubb is stalking you, nathangrubb
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ROFL
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ROFLMAO!!!
+PING :verne.freenode.net
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :FutureBot?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ddude that is insane
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :he's actually making sense
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :asshole
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :ya?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :!nathangrubb
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :nathangrubb is the owner of this awesome channel
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :!awesome
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I don't know anything about awesome
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :FuturePilot?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :tester?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :tester is apparently registered, FuturePilot
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :what nathan?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :xhhux?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :erm
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I was testing it
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :doesn't work
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::|
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :oh...
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ajmorris?
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :kk
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ajmorris1?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :dn_desaku?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :dn_desaku?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Chanserv?
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :desabot?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :answer me!!!!
+:ajmorris1!n=ajmorris@220.253-196-88.VIC.netspace.net.au PRIVMSG #grubbN :yello?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Jesus?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :we're testing his supybot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :see
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :watch
+:ajmorris1!n=ajmorris@220.253-196-88.VIC.netspace.net.au PRIVMSG #grubbN :oh
+:ajmorris1!n=ajmorris@220.253-196-88.VIC.netspace.net.au PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :tester?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it tester is apparently registered, nathangrubb
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :nathangrubb?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I guess nathangrubb is stalking you, nathangrubb
+:ajmorris1!n=ajmorris@220.253-196-88.VIC.netspace.net.au PRIVMSG #grubbN :wait... im amorris1? hmmm
+:ajmorris1!n=ajmorris@220.253-196-88.VIC.netspace.net.au PRIVMSG #grubbN :odd
+:ajmorris1!n=ajmorris@220.253-196-88.VIC.netspace.net.au NICK :ajmorris
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yes
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :ajmorris?
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :dammit
+:ChanServ!ChanServ@services. MODE #grubbN +v ajmorris 
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :are you also god?
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :tester?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :god?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Somebody said tester is apparently registered, dn_desaku
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it god is humorous, FuturePilot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :wtf
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :loooool
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :OO
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I think I get it
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I said god is humourous
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :edavidburg said nathangrubb is a stalker
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :OMG
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I get it
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Futurepilot is awesome
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :it learns stuff!!!
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :futurepilot?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Somebody said futurepilot is awesome, nathangrubb
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :holy shit
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :holy shit
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :oh
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :that is pwnage
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I love that
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :yes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :total pwnage
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :dn_desaku is asian
+PING :verne.freenode.net
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :that is so awesome
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :dn_desaku?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :dn_desaku is asian, dn_desaku
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :wtflol
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :omfg
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :this is the best thing I've ever seen
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :I need this!
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I'm a stalker
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :so do I
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :ACTION goes off to implement it
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I finally get what that plugin does now
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::P
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yay
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I never figured it out either
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :he always said
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I dunno?
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :ACTION is confused...
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Potatoes are good
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :tester?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :It has been said that tester is apparently registered, dn_desaku
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :potatoes?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it potatoes are good, nathangrubb
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :loool
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :DUDE
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :THAT
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :IS
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :GODLY
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :EVEN GOD HIMSELF WOULD APPRECIATE IT
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ROFL
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :nathangrubb is not godly
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :nathangrubb?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :It has been said that nathangrubb is stalking you, dn_desaku
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN ::|
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :lol
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN ::?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :this is hilarious!!!
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :XD
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :hilarious?
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :what's the name of the plugin FuturePilot?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Infobot
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :ah
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :XP
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :&list
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Channel, Config, Encyclopedia, Filter, Infobot, Insult, Math, Mess, Misc, Owner, Praise, Slap, User, and Web
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :god?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Somebody said god is humorous, FuturePilot
+PING :verne.freenode.net
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Chuck norris is manly
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Chuck norris?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I guess Chuck norris is manly, nathangrubb
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :loool
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :nathangrubb?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :It has been said that nathangrubb is stalking you, FuturePilot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Hi FutureBot
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I have no idea.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :hi?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :FutureBot?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :dude
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Futurebot is gay
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :No idea!
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Futurebot?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :damn
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :it doesn't work
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :that Got religion thread is hilarious
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :XD
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :who is that?
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lool, ya
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :^_^
+PING :verne.freenode.net
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :religion?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :XD
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :thread?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :hilarious?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :that?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux sucks
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :damn
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux is sucks
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :FU
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xhhux?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Somebody said xhhux is sucks, nathangrubb
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :you suck nathan
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :nathan?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :nathan is awesome
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :nathan?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it nathan is awesome, nathangrubb
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I am gay
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it I is going to do that, nathangrubb
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I is gay
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it I is going to do that, nathangrubb
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lool
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :David Nuon is the only Asian here
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :David Nuon?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it David Nuon is the only Asian here, dn_desaku
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :Oo
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :nathan is the darkest asian you've ever seen
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :nathan?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it nathan is awesome, nathangrubb
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :damn
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :he didnt' agree with me
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I wonder what OS god uses?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :LOL
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :hmm
+PING :verne.freenode.net
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :Windows 3.1 I bet
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lol
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :since he's God, he can tolerate it
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::P
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :lol, no i bet god uses linux
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :he doesn't need sudo
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::P
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :he is root :P
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :XD
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Well ok than, my son.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ROFL
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :^_^
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :xD
+NOTICE AUTH :*** Looking up your hostname...
+NOTICE AUTH :*** Checking ident
+NOTICE AUTH :*** Couldn't look up your hostname
+NOTICE AUTH :*** No identd (auth) response
+:calvino.freenode.net 001 neodesabot :Welcome to the freenode IRC Network neodesabot
+:calvino.freenode.net 002 neodesabot :Your host is calvino.freenode.net[calvino.freenode.net/6667], running version hyperion-1.0.2b
+NOTICE neodesabot :*** Your host is calvino.freenode.net[calvino.freenode.net/6667], running version hyperion-1.0.2b
+:calvino.freenode.net 003 neodesabot :This server was created Fri May  4 22:15:15 UTC 2007
+:calvino.freenode.net 004 neodesabot calvino.freenode.net hyperion-1.0.2b aAbBcCdDeEfFGhHiIjkKlLmMnNopPQrRsStTuUvVwWxXyYzZ01234569*@ bcdefFhiIklmnoPqstv
+:calvino.freenode.net 005 neodesabot IRCD=dancer CAPAB CHANTYPES=# EXCEPTS INVEX CHANMODES=bdeIq,k,lfJD,cgijLmnPQrRstz CHANLIMIT=#:20 PREFIX=(ov)@+ MAXLIST=bdeI:50 MODES=4 STATUSMSG=@ KNOCK NICKLEN=16 :are supported by this server
+:calvino.freenode.net 005 neodesabot SAFELIST CASEMAPPING=ascii CHANNELLEN=30 TOPICLEN=450 KICKLEN=450 KEYLEN=23 USERLEN=10 HOSTLEN=63 SILENCE=50 :are supported by this server
+:calvino.freenode.net 251 neodesabot :There are 20423 listed and 18596 unlisted users on 30 servers
+:calvino.freenode.net 252 neodesabot 37 :flagged staff members
+:calvino.freenode.net 254 neodesabot 21046 :channels formed
+:calvino.freenode.net 255 neodesabot :I have 2780 clients and 0 servers
+:calvino.freenode.net 265 neodesabot :Current local  users: 2780  Max: 3536
+:calvino.freenode.net 266 neodesabot :Current global users: 39019  Max: 49086
+:calvino.freenode.net 250 neodesabot :Highest connection count: 3538 (3536 clients) (509420 since server was (re)started)
+:calvino.freenode.net 375 neodesabot :- calvino.freenode.net Message of the Day - 
+:calvino.freenode.net 372 neodesabot :- Welcome to calvino.freenode.net in Milan, Italy!  Thanks to
+:calvino.freenode.net 372 neodesabot :- I.Net S.p.A. (http://www.inet.it/) for sponsoring this
+:calvino.freenode.net 372 neodesabot :- server!
+:calvino.freenode.net 372 neodesabot :- 
+:calvino.freenode.net 372 neodesabot :- CALVINO, ITALO [1923-1985].  Born in Cuba, Italo Calvino grew
+:calvino.freenode.net 372 neodesabot :- up in San Remo, Italy.  During World War II, he joined the
+:calvino.freenode.net 372 neodesabot :- partisans during the German occupation and, after writing a
+:calvino.freenode.net 372 neodesabot :- series of stories which drew on his experiences, he became a
+:calvino.freenode.net 372 neodesabot :- journalist. His work included Mr. Palomar, Under the
+:calvino.freenode.net 372 neodesabot :- Jaguar Sun, Cosmicomics and t zero.  Calvino made
+:calvino.freenode.net 372 neodesabot :- important contributions to Italian literature in the middle
+:calvino.freenode.net 372 neodesabot :- of the last century.
+:calvino.freenode.net 372 neodesabot :- 
+:calvino.freenode.net 372 neodesabot :- You're using freenode, a service of Peer-Directed Projects
+:calvino.freenode.net 372 neodesabot :- Center (http://freenode.net/pdpc.shtml).
+:calvino.freenode.net 372 neodesabot :- 
+:calvino.freenode.net 372 neodesabot :- By connecting to freenode you indicate that you have read
+:calvino.freenode.net 372 neodesabot :- and agree to adhere to our policies and procedures as per
+:calvino.freenode.net 372 neodesabot :- the website (http://freenode.net). We would like to remind
+:calvino.freenode.net 372 neodesabot :- you that unauthorized public logging of channels on the
+:calvino.freenode.net 372 neodesabot :- network is prohibited. Public channel logging should only
+:calvino.freenode.net 372 neodesabot :- take place where the channel owner(s) has requested this
+:calvino.freenode.net 372 neodesabot :- and users of the channel are all made aware (if you are
+:calvino.freenode.net 372 neodesabot :- publically logging your channel, you may wish to keep a
+:calvino.freenode.net 372 neodesabot :- notice in topic and perhaps as a on-join message).
+:calvino.freenode.net 372 neodesabot :- 
+:calvino.freenode.net 372 neodesabot :- By registering your nickname with Nickserv you agree that you
+:calvino.freenode.net 372 neodesabot :- are 13 years of age, or older. For more information about the
+:calvino.freenode.net 372 neodesabot :- Children's Online Privacy Protection Act please see their
+:calvino.freenode.net 372 neodesabot :- website at (http://www.coppa.org).
+:calvino.freenode.net 372 neodesabot :- 
+:calvino.freenode.net 372 neodesabot :- freenode runs an open proxy scanner. Your use of the network
+:calvino.freenode.net 372 neodesabot :- indicates your acceptance of this policy. For details on
+:calvino.freenode.net 372 neodesabot :- freenode network policy, please take a look at our policy
+:calvino.freenode.net 372 neodesabot :- page (http://freenode.net/policy.shtml). Thank you for using
+:calvino.freenode.net 372 neodesabot :- the network!
+:calvino.freenode.net 372 neodesabot :- 
+:calvino.freenode.net 372 neodesabot :- freenode is a service of Peer-Directed Projects Center, an
+:calvino.freenode.net 372 neodesabot :- IRS 501(c)(3) not-for-profit organization.  Our yearly
+:calvino.freenode.net 372 neodesabot :- fundraiser will begin soon; if you'd like to donate early,
+:calvino.freenode.net 372 neodesabot :- please see http://freenode.net/pdpc_donations.shtml for more
+:calvino.freenode.net 372 neodesabot :- information.  Thank you for using freenode!
+:calvino.freenode.net 372 neodesabot :- 
+:calvino.freenode.net 376 neodesabot :End of /MOTD command.
+:freenode-connect!freenode@freenode/bot/connect PRIVMSG neodesabot :VERSION
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#desaku
+:calvino.freenode.net 353 neodesabot @ #desaku :neodesabot dn_desaku xhhux desabot 
+:calvino.freenode.net 366 neodesabot #desaku :End of /NAMES list.
+:neodesabot!n=neodesab@75.142.107.149 JOIN :#grubbn
+:calvino.freenode.net 332 neodesabot #grubbn :Discussion of the grubbn Network | bot syntax is ~, =, @, or ! | Trolls around and no ops? Use the "~help op" command to call them
+:calvino.freenode.net 333 neodesabot #grubbn grubbot 1214519534
+:calvino.freenode.net 353 neodesabot = #grubbN :neodesabot +dn_desaku +ajmorris +FuturePilot FutureBot xhhux +nathangrubb desabot @ChanServ 
+:calvino.freenode.net 366 neodesabot #grubbn :End of /NAMES list.
+:calvino.freenode.net 328 neodesabot #grubbn :http://grubbn.com
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ok chanserv
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :we now have enough evidence to arrest you
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com PRIVMSG #grubbN :g2g, bed time :(
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :bye xhhux
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :you're coming with me
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :OH NOES!!!!
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :NOES
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :by xhhux
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :*bye
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :bye FuturePilot
+:xhhux!n=xhhux@cpe-76-87-85-75.socal.res.rr.com QUIT :"Leaving"
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :shutup
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :Linda is nathan's favorite computer
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ChanServ?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Somebody said ChanServ is a drug dealer, FuturePilot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Linda?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :It has been said that Linda is nathan's favorite computer, FuturePilot
+:edavidburg!n=edavidbu@65.78.183.232 JOIN :#grubbn
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :damn you edavidgod
+PING :calvino.freenode.net
+:edavidburg!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :I am god, thanks.
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yes
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I knew it
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :how
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :because I said so
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Banshee is totally awesome!
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Banshee?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :hmm... Banshee is totally awesome, FuturePilot
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :yay
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :banshee crashes alot thouh
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::(
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :why is he saying hmm...
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :why?
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hmm is cool though
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hmm?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :hmm... hmm is cool though, nathangrubb
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:nathangrubb!n=nathan@207-118-107-75.dyn.centurytel.net NICK :JesusGod
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hello
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I'm a morphing between 2 powerful beings
+:edavidburg!n=edavidbu@65.78.183.232 NICK :HolySpirit
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:dn_desaku!n=Miranda@75.142.107.149 NICK :Deva
+:HolySpirit!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Bitch you left me out.
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :and this is my friend
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :holyspirit
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :and then we have deva
+:HolySpirit!n=edavidbu@65.78.183.232 PRIVMSG #grubbN :Fuck you JesusGod, I'm equal to you.
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :the oddbball out
+PING :calvino.freenode.net
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :no you're not
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :bitch
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I'm going to smite you
+:HolySpirit!n=edavidbu@65.78.183.232 NICK :edavidburg
+:Deva!n=Miranda@75.142.107.149 PRIVMSG #grubbN ://iden
+:Deva!n=Miranda@75.142.107.149 PRIVMSG #grubbN :oops
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lol
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :nice one
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :who?
+:Deva!n=Miranda@75.142.107.149 PRIVMSG #grubbN :nobody saw that
+:Deva!n=Miranda@75.142.107.149 NICK :dn_desaku
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :you almost identified in the channel
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :no
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :miranda has aliases remember?
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :so all I do is
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :miranda?
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN ://iden
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ok than
+:JesusGod!n=nathan@207-118-107-75.dyn.centurytel.net NICK :Edavidburgscousi
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :HolySpirit?
+:Edavidburgscousi!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hey guys
+:Edavidburgscousi!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I'm edavidburgs cousin
+:Edavidburgscousi!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :he masturbates to porn of you guys
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :er
+:Edavidburgscousi!n=nathan@207-118-107-75.dyn.centurytel.net NICK :ChronicMasturbat
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :,,,,....
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hi guys
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I have a problem
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :oh that feels so good
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :anyways
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I can see
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I masturbate too much
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :almost conSTAAANTTly
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :problem?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :yes
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :it's starting to effect my life
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :but those woman are so hot
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :woman?
+:ChronicMasturbat!n=nathan@207-118-107-75.dyn.centurytel.net NICK :Micro-soft
+PING :calvino.freenode.net
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :OH NOES!!!!
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :goes awayz!!!
+:Micro-soft!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hello
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Linux
+:dn_desaku!n=Miranda@75.142.107.149 NICK :Microsoft_
+:Microsoft_!n=Miranda@75.142.107.149 PRIVMSG #grubbN :lol
+:Microsoft_!n=Miranda@75.142.107.149 NICK :dn_desaku
+:Micro-soft!n=nathan@207-118-107-75.dyn.centurytel.net NICK :DOS
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hello
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :AAAAAAAA
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I crash alot
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :can somebody help me
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :no
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :get Linux
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION crashes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :loool
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :=saw DOS
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :It will be my pleasure to chainsaw DOS for you dn_desaku.
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :error
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ROFL
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :error
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :error?
+:dn_desaku!n=Miranda@75.142.107.149 NICK :Adobe
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :what error?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :OH
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :!noes
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :OH NOES!!!!
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :noes noes noes
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :die
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :error
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :and take Flash with you
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :"die" is not a recognized bash file or other shit
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :D:
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :kill -9 DOS
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hey
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :what are you trying to do here
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :it's ok bro
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :just because you can crash me with del *.*
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :doesn't mean you should
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :mv DOS /dev/null
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :linux commands don't work here
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :bastard
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :rm -rf DOS
+PING :calvino.freenode.net
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :too bad
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :pause
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :you have to use dos commands
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :FORMAT C:\
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :lol
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :NOOOOO
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :tree
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION dies
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lloool
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :hmm
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :what if
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :neodesabot was a dos interpreter
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :hmm...
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :oh shit
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :that'd be great
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :that would be
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :I could ruin your computetr
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :ok
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :pwnage
+:Adobe!n=Miranda@75.142.107.149 PRIVMSG #grubbN :XD
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :HAY
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I thought I kiiled oyou
+:Adobe!n=Miranda@75.142.107.149 NICK :dn_desaku
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :shit
+:DOS!n=nathan@207-118-107-75.dyn.centurytel.net NICK :Linda
+:Linda!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :hello
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :=saw Linda
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN :It will be my pleasure to chainsaw Linda for you dn_desaku.
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Linda?
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :Rumor has it Linda is nathan's favorite computer, FuturePilot
+:Linda!n=nathan@207-118-107-75.dyn.centurytel.net NICK :scrollbar
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ZOMG a scrollbar
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I love those things
+:scrollbar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :NOES
+:scrollbar!n=nathan@207-118-107-75.dyn.centurytel.net NICK :progress_bar
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :they're scrolly
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :10%
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ZOMG!!!1
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :11%
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :I love those even more
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :12%
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :13%
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :do you have animation?
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :45%
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :57%
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :loading...loading...
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :*crash*
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :oops
+:progress_bar!n=nathan@207-118-107-75.dyn.centurytel.net NICK :FlyOnTheWall
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :&slap FlyOnTheWall
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION observes
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ACTION slaps FlyOnTheWall around with the new, tiny tuna (Still in the can)
+PING :calvino.freenode.net
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :NOES
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :*buzz*
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :&slap FlyOnTheWall
+:FutureBot!n=supybot@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ACTION slaps FlyOnTheWall around with a sharp Lara Craft
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :*bbuzz*
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :HEY
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :you're buzzing is distracting me
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :*your
+:dn_desaku!n=Miranda@75.142.107.149 PRIVMSG #grubbN :=ls D:\
+:desabot!n=dn_desak@75.142.107.149 PRIVMSG #grubbN : Volume in drive L is Spare  Volume Serial Number is 304D-5002   Directory of L:\desabot  06/25/2008  06:19 PM    <DIR>          . 06/25/2008  06:19 PM    <DIR>          .. 04/25/2008  03:10 AM             4,096 .bhb.py.swp 04/25/2008  03:10 AM             4,096 .bhb.swp 06/22/2008  01:01 AM               570 cards.py 06/22/2008  05:05 PM             6,469 constants.py 06/22/2008  05:05 PM             6,634 constants.pyc 06/24/2008  01:17 PM             
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :*bizz*
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :*lands on food*
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :mmm
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ACTION chases FlyOnTheWall 
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :something to regurgitate on
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ugh
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION regurgitates
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :buzzing?
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION buzzes in Futurepilot's ear
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :AAAAAAAAA
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION flies into his screaming mouth
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :distracting?
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ACTION chokes
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION goes into intestines
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :mm
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :food
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION gives disease
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :this is gross
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN ::P
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION flies out at next toilet session
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION lands on futurepilot's food
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :LOOOL
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :ACTION regurgitates
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :oh god
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :lol
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :ACTION barfs
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :this is getting too grous
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net PRIVMSG #grubbN :*gross
+:FuturePilot!n=FuturePi@cpe-76-189-184-232.neo.res.rr.com PRIVMSG #grubbN :yes
+PING :calvino.freenode.net
+:FlyOnTheWall!n=nathan@207-118-107-75.dyn.centurytel.net NICK :BirdInTheHose
